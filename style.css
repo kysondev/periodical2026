@@ -114,7 +114,9 @@ img{
 @media (width < 1400px) {
   .description {
     width:160px;
+    font-size: 13px;
   }
+
 }
 .name{
   margin: 16px 0px 5px 0px;

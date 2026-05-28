@@ -1,6 +1,6 @@
 # Plan
 
-* [ ] Homepage 
+* [ ] Homepage
     * [ ] Top section: Show the element of the day and a button to go to the elements page
     * [ ] Display Units
     * [ ] Credits - Tina and Jolee
@@ -42,7 +42,7 @@
         * [X] Argon (18) - William
         * [ ] Potassium (19) - Nancy
         * [ ] Calcium (20) - Jolee
-        * [ ] Bromine (35) - Tina
+        * [X] Bromine (35) - Tina
         * [ ] Silver (47) - Edward
         * [ ] Cesium (55) - Abdel
         * [X] Gold (79) - Alexander
@@ -51,7 +51,7 @@
 
 ## Wait for Writers to give information first
 
-* [ ] Add information/text on website (Units): - Gabriel and Nancy 
+* [ ] Add information/text on website (Units): - Gabriel and Nancy
     * [ ] Unit 1 information/text - Cammi and Winnie
         * [ ] Real world connection:
         * [ ] Misconception:

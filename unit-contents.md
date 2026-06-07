@@ -39,9 +39,9 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 ### Real World Connection:
 - In crime scenes investigation, forensic scientists often use mass spectrometry as a way to identify the unknown substance by measuring their mass and composition. This connects to the moles and molar mass concept since scientists have to convert the masses of these tiny particles into measurable amounts in grams and moles in order to determine what the substance is actually made of. Percent composition and empirical formula is also used as a way to identify the drug or unknown substance through breaking it down. Once it is known, chemists can match it to known compounds in their date base. An example of this would be that Michelle Evans, a forensic chemist who works for the Bureau of Alcohol, Tobacco, Firearms, and Explosives., investigated the burning of a bone of two young women who died in an explosion looking into the bones using a mass spectrometer to identify molecules from the explosion in this case. The results from the explosion were hydrocarbons and presents of potassium and chlorine that can signal compounds of potassium chlorate or potassium perchlorate.
 ### Quiz:
-- Question 1
-  - Answer Choice A
-  - Answer Choice B
+- Question 1: An atom of element X has 17 protons and 18 neutrons. A second atom of the same element has 17 protons and 20 neutrons. Which of the following best describes the relationship between these two atoms?
+  - (A) They are different elements because they have different mass numbers. (EXPLANATION: Incorrect. The identity of an element is determined solely by its number of protons, not its atomic mass number. Both atoms have 17 protons, so they are the same element)
+  - (B) 
   - Answer Choice C (Correct Choice)
   - Answer Choice D
 - Question 2

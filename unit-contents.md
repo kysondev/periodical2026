@@ -58,18 +58,18 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (D) **63.00 amu** (Incorrect) -> EXPLANATION: This is simply the mass of the lighter isotope. While 63 is the more abundant isotope, the presence of the heavier isotope (65) at 30.8% abundance raises the average above 63.
 
 - Question 4: Which of the following correctly explains why the atomic radius of sodium (Na) is larger than the atomic radius of chlorine (Cl), even though chlorine has a higher atomic number?
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+  - (A) **Chlorine has more protons than sodium, which creates a stronger nuclear pull that draws the electrons closer to the nucleus, decreasing the atomic radius.** (Correct) -> EXPLANATION: Across period 3, the number of protons increases from Na (11) to Cl (17). More protons increase the nuclear charge without adding new electron shells. This stronger attraction pulls the electrons inward, shrinking the atomic radius.
+  - (B) **Sodium has more neutrons than chlorine, which pushes the electrons outward and increases the radius.** (Incorrect) -> EXPLANATION: Neutrons contribute to atomic mass number but do not exert electrostatic force on electrons. Neutron count does not determine atomic radius.
+  - (C) **Chlorine has more electrons, which causes greater shielding and therefore a smaller radius.** (Incorrect) -> EXPLANATION: While chlorine does have more electrons, those additional electrons in the same period are added to the same shell;they do not add a new shielding layer. The main effect is the increased nuclear charge, not additional shielding.
+  - (D) **Sodium is a metal and metals are always larger than nonmetals regardless of electron configuration.** (Incorrect) -> EXPLANATION: While metals on the left side of the periodic table are often larger, this is because of lower nuclear charge, not simply because they are metals. This is a correlation, not the actual chemical cause.
 
-- Question 5:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 5: A compound is analyzed and found to contain 40.0% carbon, 6.7% hydrogen, and 53.3% oxygen by mass. What is the empirical formula of this compound?
+  - (A) **C2H4O2** (Incorrect) -> EXPLANATION: This is actually a molecular formula, not an empirical formula. C2H4O2 simplifies to CH2O, which is the empirical formula. The question asks for the simplest whole number ratio.
+  - (B) **C3H6O3** (Incorrect) -> EXPLANATION: C3H6O3 is also a molecular formula that reduces to CH2O. It does not represent the simplest ratio. Additionally, you cannot derive C₃H₆O₃ directly from the given percentages without using a separate molar mass.
+  - (C) **CH4O** (Incorrect) -> EXPLANATION: This formula gives a C-H-O ratio of 1:4:1, which does not match the calculation. Converting the percentages to moles gives C: 40/12=3.33, H: 6.7/1=6.7, O: 53.3/16=3.33, giving a 1:2:1 ratio, not 1:4:1.
+  - (D) **CH2O** (Correct) -> EXPLANATION: Using the percentages as grams and dividing by molar mass: C = 40/12 = 3.33 mol, H = 6.7/1 = 6.7 mol, O = 53.3/16 = 3.33 mol. Dividing each by 3.33 gives a 1:2:1 ratio, so the empirical formula is CH2O.
 
-- Question 6:
+- Question 6: In a photoelectron spectroscopy (PES) spectrum, one peak appears at a very high binding energy and has a very small relative height. What does this tell you about the electrons represented by that peak?
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:

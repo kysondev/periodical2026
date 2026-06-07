@@ -70,9 +70,9 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (D) **CH2O** (Correct) -> EXPLANATION: Using the percentages as grams and dividing by molar mass: C = 40/12 = 3.33 mol, H = 6.7/1 = 6.7 mol, O = 53.3/16 = 3.33 mol. Dividing each by 3.33 gives a 1:2:1 ratio, so the empirical formula is CH2O.
 
 - Question 6: In a photoelectron spectroscopy (PES) spectrum, one peak appears at a very high binding energy and has a very small relative height. What does this tell you about the electrons represented by that peak?
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
+  - (A) **They are valence electrons with a strong attraction to the nucleus.** (Incorrect) -> EXPLANATION: Valence electrons are in the outermost shell and are the farthest from the nucleus, so they have the lowest binding energies, not the highest. A high binding energy peak corresponds to core electrons, not valence electrons.
+  - (B) **They are core electrons that are located close to the nucleus and require a large amount of energy to remove, and the small peak height indicates there are very few of them.** (Correct) -> EXPLANATION: In PES, peaks at higher binding energies correspond to electrons closer to the nucleus, which experience a stronger electrostatic attraction. The height of a peak is proportional to the number of electrons in that sublevel, so a small height means few electrons are present in that subshell.
+  - (C) **They are electrons in an excited state that have absorbed energy and moved to a higher orbital.** (Incorrect) -> EXPLANATION: PES measures electrons in their ground state. The binding energy measured corresponds to how strongly electrons are held in their normal orbital positions, not in excited states.
   - (D) **** (Incorrect) -> EXPLANATION:
 
 - Question 7:

@@ -2,10 +2,10 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 
 # Unit 1
  ### Vocabulary List:
- - Atoms: A substance that is made up of only one atom is an element. In the nucleus or the middle of an atom are two subatomic particles, each atom is made up of smaller particles called subatomic particles called the proton and neutron. 
+ - Atoms: A substance that is made up of only one atom is an element. In the nucleus or the middle of an atom are two subatomic particles, each atom is made up of smaller particles called subatomic particles called the proton and neutron.
  - Nucleus: A dense, positive charged center of an atom which consists of protons and neutrons.
  - Proton: A subatomic particle that is located in the nucleus of an atom which has a mass of 1 amu.
- - Neutron: An uncharged subatomic particle that is located in the nucleus of an atom which has a mass of 1 amu and a net neutral electrical charge of 0. 
+ - Neutron: An uncharged subatomic particle that is located in the nucleus of an atom which has a mass of 1 amu and a net neutral electrical charge of 0.
  - Electron: A negative subatomic particle that is orbiting the nucleus of an atom. It had a negligible mass.
  - Atomic numbers: Equal to the number of protons that is found in the nucleus of every atom of the specific elements
  - Mass number: The protons and neutrons added together make up the mass number.
@@ -13,11 +13,11 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
  - Subshell: A subdivision of an element shell in an atom, which is labeled with the letters: s, p, d, and f.
  - Ground state: The lowest possible energy level of an atom, molecule, or ion.
  - Excited state: An energy state of an atom that has a higher energy level compared to its ground state. When a system absorbs heat it will cause electrons to go up to a higher and less stable orbital.
- - Nuclear charge: Amount of protons(+) of an atom’s nucleus. 
- - Shielding: The electrons inside of an atom acts as a barrier that will block the outer electron(-) from feeling the force of the nucleus(+) due to electrostatic repulsion. 
+ - Nuclear charge: Amount of protons(+) of an atom’s nucleus.
+ - Shielding: The electrons inside of an atom acts as a barrier that will block the outer electron(-) from feeling the force of the nucleus(+) due to electrostatic repulsion.
  - Atomic radius: The size with the distance from the center of the nucleus and the outermost shell.
  - Ionization energy: The minimum amount of energy needed to remove an electron from an atom or ion in its ground state. It measures how an atom holds onto its electron. The higher ionization energy makes it need more energy to steal an electron.
- - Electron affinity: The amount of energy released when a  neutral atom in the gas state gains an electron to form a negatively charged ion. 
+ - Electron affinity: The amount of energy released when a  neutral atom in the gas state gains an electron to form a negatively charged ion.
  - Electronegativity: A measure of how strong atoms attract shared electrons to itself in a chemical bond. Through moving left to right across a period on a periodic table, the electronegativity will increase while moving down a group, the electronegativity will decrease.
  - Moles: A unit of measurement. A single mole has exactly 6.022 x 10^23 particles(Avogadro's number).
  - Molar mass: The mass of exactly one mole of a chemical substance. Finding the molar mass is in any chemical formula by adding up the sums of all the atomic masses being found in the formula. For example, H2O has oxygen with an atomic mass of 16 g/mol and hydrogen has 2.02 g/mol, adding those up will give H2O’s molar mass of 18.02 g/mol.
@@ -29,9 +29,9 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
  - Valence electrons: Electrons that are located in the last outside shell of an atom. These valence electrons are at the highest energy level.
  - Ions: An atom that has an electrical charge. It is divided into two types which is Cation(positive ion) that is formed when an atom loses electrons and Anion(negative ion) that is formed when an atom gains electrons.
 ### Main Takeaways:
-- Things like atomic radius, ionization energies, and electronegativity follow predictable trends across periods and down groups due to their nuclear charge and electron shielding. For example as you move from left to right across a period, the number of protons will increase which will create a stronger attraction pull from the nucleus. The increase in nucleus pull will cause the atomic radius to decrease while making it harder to remove an electron due to higher ionization energy and higher electronegativity. 
+- Things like atomic radius, ionization energies, and electronegativity follow predictable trends across periods and down groups due to their nuclear charge and electron shielding. For example as you move from left to right across a period, the number of protons will increase which will create a stronger attraction pull from the nucleus. The increase in nucleus pull will cause the atomic radius to decrease while making it harder to remove an electron due to higher ionization energy and higher electronegativity.
 - Every atom consists of protons which define the elements, neutrons which can vary, and electrons which determine the charges. For example a normal Carbon is Carbon-12 which has 6 protons, 6 neutrons, and 6 electrons. If you change the number of neutrons to 7, then it will change to Carbon-13. So the elements stay the same while the neutrons change. However if you remove 2 electrons instead, the atoms will end up gaining a +2 electrical charge and become C2+. While changing the number of protons will change the elements as a whole.
-- 1 mole equals 6.022 x 10^23 particles which is Avogadro's number and molar mass is connected to grams to moles which allows us to convert between grams, moles, and particles. We can also use this to find Percent comp and determine empirical and molecular formulas. For example if there is an unknown powder which has 40% Carbon, 67% Hydrogen, and 53.3% Oxygen by mass, we can use those percentages as grams. Use the molar mass to convert them into moles by finding the whole number mole ratio to calculate the empirical formula of CH2O. Then use total Molar mass to find molecular formulas such as glucose C6H12O6. 
+- 1 mole equals 6.022 x 10^23 particles which is Avogadro's number and molar mass is connected to grams to moles which allows us to convert between grams, moles, and particles. We can also use this to find Percent comp and determine empirical and molecular formulas. For example if there is an unknown powder which has 40% Carbon, 67% Hydrogen, and 53.3% Oxygen by mass, we can use those percentages as grams. Use the molar mass to convert them into moles by finding the whole number mole ratio to calculate the empirical formula of CH2O. Then use total Molar mass to find molecular formulas such as glucose C6H12O6.
 - The binding energy measured is equal to the energy needed to remove the electrons and electrons that are closest to the nucleus have higher binding energy. So this is because electrons are negative while protons are a positive charge. Opposite charges attract, making the electrons near the inner shell experience a way stronger electrical pull than the one further away from it. An example can be a lithium atom which has 2 core electrons in its inner shell and 1 valence electrons in its outer shell. If you rip one of the inner core electrons we will require way more energy than taking out the other valence ecotrons located in the outer shell.
 - In Photoelectron Spectroscopy, the heights of each peak show the number of electrons in that sublevels.The heights are relative to each other. So peaks with higher binding energy will be closer showing that it has stronger attraction to the nucleus and require more energy to remove. While the Mass Spectroscopy is based on different isotopes of the same element with different masses.
 ### Misconception:
@@ -59,12 +59,25 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - Answer Choice B
   - Answer Choice C
   - Answer Choice D (Correct Choice)
- 
+
 # Unit 2
  ### Vocabulary List:
- - Vocab 1
- - Vocab 2
- - Vocab 3
+- Formal Charge: (# of Valence Electrons) - (# of Nonbonding Electrons) - (# of Bonding Electrons ​/ 2)
+- Resonance: occurs when multiple valid Lewis structures can be drawn. The actual molecule is a hybrid of all valid forms.
+- Covalent Bonds: formed when nonmetal atoms share electron pairs.
+- VSEPR: (Valence Shell Electron Pair Repulsion) predicts geometry by minimizing electron group repulsion around the central atom.
+- Metallic Bonding: involves a “sea” of delocalized electrons surrounding positive metal ion cores.
+- Lewis Structure: diagram that shows the arrangement of valence electrons in a molecule or ion, including bonds and lone pairs.
+- Octet rule: atoms tend to gain, lose, or share electrons in order to achieve 8 valence electrons, making them more stable like noble gases.
+- Bond polarity: uneven sharing of electrons in a bond caused by differences in electronegativity between atoms. The more electronegative atom pulls the shared electrons closer to itself, creating partial positive and negative charges.
+- Molecular polarity: refers to the overall distribution of charge in a molecule and depends on both bond polarity and molecular shape. A molecule is polar if its charges are unevenly distributed.
+- Expanded octet: occurs when an atom has more than 8 valence electrons. This usually happens with nonmetals in period 3 or higher because they have extra orbitals available.
+- Lone pairs: pairs of valence electrons that are not involved in bonding and belong to only one atom. They affect molecular shape and bond angles because they repel other electrons strongly.
+- Ionic bonds:formed when electrons are transferred from one atom to another, creating positively and negatively charged ions that are held together by electrostatic attraction.
+- Hybridization: mixing of atomic orbitals to form new hybrid orbitals that explain bonding and molecular geometry in molecules.
+- Bond angles: Angles formed between bonds around a central atom in a molecule. They are determined by electron repulsion and molecular geometry.
+- Intramolecular forces: Intramolecular forces are the forces that hold atoms together within a molecule or compound, such as covalent, ionic, and metallic bonds.
+
 ### Main Takeaways:
 - Takeaway 1
 - Takeaway 2
@@ -100,25 +113,25 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   # Unit 3
  ### Vocabulary List:
  - Intermolecular force: Attraction between molecules.
- - Dipole - Dipole: Attraction between the positive end of a dipole and the negative end of another dipole 
+ - Dipole - Dipole: Attraction between the positive end of a dipole and the negative end of another dipole
  - Hydrogen bonding: A special type of dipole-dipole. The hydrogen atom needs to be bonded to at least one of these atoms to be considered a hydrogen bond: Oxygen,Nitrogen, or Fluorine.
  - Ion - Dipole: Attraction between ions (individually charged atoms) and polar molecules.
  - Polarizability - The tendency of a molecule’s or atom’s electron clouds to form a temporary dipole when they get disturbed by outside electric fields. (How easy it is for this molecule or atom to form a temporary dipole)
- - Ionic solids - Crystalline solids that are composed of positive and negative ions and formed by the attraction between opposite charged ions 
- - Covalent Network Solids - Solids that are composed of atoms held together by strong covalent bonds 
- - Molecular Solids - Solids composed of atoms and molecules held together by intermolecular forces 
+ - Ionic solids - Crystalline solids that are composed of positive and negative ions and formed by the attraction between opposite charged ions
+ - Covalent Network Solids - Solids that are composed of atoms held together by strong covalent bonds
+ - Molecular Solids - Solids composed of atoms and molecules held together by intermolecular forces
  - Metallic Solids - Solids composed of atoms that are held together by metallic bonds.
  - Substitutional Alloy- an alloy of one element that can be substituted for another element close to the same size in a crystal lattice structure.
  - Interstitial Alloy- smaller atoms that fill in the gaps of the larger atoms in the crystal lattice structure making the structure more rigid and less malleability and ductility.
  - Ideal Gas Law- A law that describes the relationship between pressure, volume, temperature, and the amount of gas in ideal conditions (Zero volume, Zero IMF, No energy lost during collisions)
- - Combined Gas Law - A law that describes the relations between pressure, volume, temperature, and the amount of gas in general conditions 
- - Dalton's law of partial pressures - The total pressure of a gas mixture is equal to the sum of the partial pressures of each gas 
+ - Combined Gas Law - A law that describes the relations between pressure, volume, temperature, and the amount of gas in general conditions
+ - Dalton's law of partial pressures - The total pressure of a gas mixture is equal to the sum of the partial pressures of each gas
  - The Kinetic Molecular Theory - A model that describes the behavior of gas particles based on their motions
- - Maxwell-Boltzmann Distributions - A graph that describes the probability of finding a gas particle at various speed at a given temperature 
+ - Maxwell-Boltzmann Distributions - A graph that describes the probability of finding a gas particle at various speed at a given temperature
  - Electrolytes - A substance that conducts electricity when it is dissolved in water.
- - Filtration - A process that separates solids from liquids by allowing the mixture to pass through a filter. 
+ - Filtration - A process that separates solids from liquids by allowing the mixture to pass through a filter.
  - Chromatography - A process that separates the components of mixture by the components’ attraction to the stationary and mobile phase.
- - Distillation - A process that separates liquid mixture by evaporation and condensation. 
+ - Distillation - A process that separates liquid mixture by evaporation and condensation.
  - Beer-Lambert Law - A law that states the absorption of light passing through a medium is directly proportional to the concentration of that substance
 
 ### Main Takeaways:
@@ -130,17 +143,17 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 ### Misconception:
 - While people might think volume is directly proportional to pressure, this is not true. Volume is inversely proportional to pressure. So, if the total volume of a gas mixture is doubled, the partial pressure of each gas does not stay the same or double with the volume. What actually happens is that if the total volume of a gas mixture is doubled, the partial pressure of each gas is halved. For example, a 1 L container is originally filled with 1 atm of oxygen gas and 1 atm of nitrogen gas. The partial pressure of each gas is 1 atm. When the gases are transferred to a 2 L container, the new partial pressure of oxygen becomes 0.5 atm.
 
-According to Boyle’s Law, P1V1=P2V2. 
+According to Boyle’s Law, P1V1=P2V2.
 P1 = 1atm
-V1 = 1L 
+V1 = 1L
 P2 = ?
 V2 = 2L
 (1atm)(1L)=(? atm)(2L)
 ½ = ? atm —> 0.5 atm
-When the volume of the container is doubled from 1L to 2L, the partial pressure of oxygen is halved from 1 atm to 0.5 atm. 
+When the volume of the container is doubled from 1L to 2L, the partial pressure of oxygen is halved from 1 atm to 0.5 atm.
 
 ### Real World Connection:
-- The difference in intermolecular forces is the reason why oil and water don’t mix. Water is polar and has a strong intermolecular force because of the hydrogen bonds between water molecules. Oil is nonpolar and only has London dispersion force holding the molecules together. The water molecules are holding so tightly together that they exclude the oil molecules, and the oil molecules also don’t want to break away from each other. In addition, oil is nonpolar so it doesn’t have a charge to attract water molecules. 
+- The difference in intermolecular forces is the reason why oil and water don’t mix. Water is polar and has a strong intermolecular force because of the hydrogen bonds between water molecules. Oil is nonpolar and only has London dispersion force holding the molecules together. The water molecules are holding so tightly together that they exclude the oil molecules, and the oil molecules also don’t want to break away from each other. In addition, oil is nonpolar so it doesn’t have a charge to attract water molecules.
 ### Quiz:
 - Question 1
   - Answer Choice A
@@ -202,25 +215,25 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
 
   # Unit 5 Kinetics
  ### Vocabulary List:
- - Kinetics: studies the factors that affect the speed of a chemical reaction 
+ - Kinetics: studies the factors that affect the speed of a chemical reaction
  - Rate determining step: the slowest elementary step in a reaction mechanism that is responsible for determining the overall rate
  - Collision Theory: particles need to collide with sufficient energy and proper orientation (more likely experience effective collisions favoring the formation of products)
  - Catalyst: provide an alternative pathway with a lower activation energy
  - Elementary Step: one of the chemical reaction inside a multistep reaction
  - Reaction Energy Profile: a diagram that shows the change in potential energy throughout a reaction mechanism
  - Reaction Mechanism: a proposed series of elementary steps that add up to a complete chemical reaction.
- - Reaction Rate: the change in concentration of reactants that disappear and products that appear over a specific time interval in a chemical reaction. 
+ - Reaction Rate: the change in concentration of reactants that disappear and products that appear over a specific time interval in a chemical reaction.
  - Reaction Order: the power of the concentration of individual species in a rate law expression that contributes to the overall rate of the reaction
- - Half-life Reaction: tied to a 1st order kinetics (exponential decay graph) when the concentration of the species decreases by half under a specific interval of time. 
+ - Half-life Reaction: tied to a 1st order kinetics (exponential decay graph) when the concentration of the species decreases by half under a specific interval of time.
  - Integrated Rate Law: mathematical formula to determine the change in concentration of the original sample and the new sample after a given time and depends on the reaction order
  - Homogeneous Catalyst: when adding a catalyst, the phase of the catalyst is the same as the reactants.
  - Heterogeneous Catalyst: when adding a catalyst, if the phase of the catalyst is not the same as the reactants.
  - Multistep Reaction Energy Profile: a diagram that can include intermediates with the change in the potential energy throughout a reaction mechanism
 ### Main Takeaways:
 - Rate increased when a solid is broken into pieces (increase in surface area), higher concentration of reactants (more particles will experience frequent collisions), high temperature (high average kinetic energy, more likely for particles to move quicker and overcome energy barrier, adding a catalyst (directly providing an alternative pathway requiring a lower activation energy for reaction to proceed, decreasing the volume of the container if the reaction involves gases.) (particles are closer together, more particles will experience frequent collisions).
-- In a multistep reaction mechanism, to find if a reaction mechanism matches , then you need to test it experimentally. 
+- In a multistep reaction mechanism, to find if a reaction mechanism matches , then you need to test it experimentally.
 - The overall balanced chemical reaction (not to be confused with overall rate → points to the rate law of the rate determining step) can be found from the reaction mechanism by adding up the steps and eliminating catalysts and intermediates.
-- To figure out what order given a [M] vs time, ln[M] vs time, or 1/[M] vs time graph, the order can be evaluated wherever a linear line appears within one of these given graphs. 
+- To figure out what order given a [M] vs time, ln[M] vs time, or 1/[M] vs time graph, the order can be evaluated wherever a linear line appears within one of these given graphs.
 - The rate constant of a 0th order reaction is equal to the negative slope of the line graph.
 ### Misconception:
 - The student may think that the rate determining step will keep both intermediates and catalysts, however the slow step can include catalysts but must eliminate any intermediates if the previous step is a fast equilibrium to derive the rate law.
@@ -248,35 +261,35 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
   - Answer Choice C
   - Answer Choice D (Correct Choice)
 
-  # Unit 6 Thermodynamics 
+  # Unit 6 Thermodynamics
  ### Vocabulary List:
- - Energy: The capacity to do work or to produce heat. 
+ - Energy: The capacity to do work or to produce heat.
  - Kinetic energy (KE): The energy a particle or molecule has because it is moving. In chemistry, kinetic energy increases as particles move faster, which is measured by the temperature increasing.
  - Potential energy (PE): The energy stored in a substance because of the arrangement of its atom, bonds, and intermolecular forces. In chemistry, potential energy changes during chemical reactions when bonds are broken or formed.
  - The first law of thermodynamics: Energy can't be created or destroyed, it only changes forms.
- - The second law of thermodynamics: The universe always gets messier. (In science terms: disorder, or entropy, always increases).  
- - Thermodynamics: The study of how heat and energy move around. 
+ - The second law of thermodynamics: The universe always gets messier. (In science terms: disorder, or entropy, always increases).
+ - Thermodynamics: The study of how heat and energy move around.
  - Heat (q): The transfer of energy between two objects due to a temperature difference.
  - Internal Energy (E): The total kinetic and potential energy of all the particles in a substance or system. In chemistry, internal energy changes when heat is transferred or when work is done during a chemical or physical change.
- - Pathway: The specific conditions that define the path by which energy is transferred. Work and heat are dependent on the pathway.  
+ - Pathway: The specific conditions that define the path by which energy is transferred. Work and heat are dependent on the pathway.
  - Surroundings: This includes everything else in the universe outside the system.
- - System: The part of the universe on which one wishes to focus their attention. An example is the reactants and products of a reaction.  
+ - System: The part of the universe on which one wishes to focus their attention. An example is the reactants and products of a reaction.
  - Temperature: A property that reflects the random motion of particles in a substance. It is a measure of the average kinetic energy of particles in solids, liquids, and gases.
  - Work (w): The transfer of energy when a force causes matter to move. In chemistry, work often occurs when gases expand or are compressed during a reaction.
- - Endothermic: Absorbs heat. It makes the surroundings feel cold. 
- - Enthalpy change (Delta H): The total heat gained (absorb +) or lost (release -) during a reaction.  
- - Exothermic: Releases heat. It makes the surroundings feel hot. 
- - Heat of formation: The specific amount of heat absorbed or released when making exactly 1 mole of a compound from its raw natural elements. 
- - Hess's law: If a reaction happens in multiple steps, you can just add up the heat from each little step to find the total heat of the whole reaction.  
- - Product: The final result that gets made in a chemical reaction. 
+ - Endothermic: Absorbs heat. It makes the surroundings feel cold.
+ - Enthalpy change (Delta H): The total heat gained (absorb +) or lost (release -) during a reaction.
+ - Exothermic: Releases heat. It makes the surroundings feel hot.
+ - Heat of formation: The specific amount of heat absorbed or released when making exactly 1 mole of a compound from its raw natural elements.
+ - Hess's law: If a reaction happens in multiple steps, you can just add up the heat from each little step to find the total heat of the whole reaction.
+ - Product: The final result that gets made in a chemical reaction.
  - Reactant: The starting ingredients in a chemical reaction.
- - Standard state condition: The "normal" baseline rules for measuring chemicals so scientists can compare them fairly: usually 1 atm of pressure and 25°C.  
- - State functions: Properties where only the start and finish matter, not the path you took to get there. (Think of it like taking the stairs vs. taking an elevator to the 10th floor-your change in height is the exact same either way).  
- - Bomb calorimeter: A device used experimentally to study the energy changes in reactions under conditions of constant volume. Weighed reactants are placed within a rigid steel container and ignited. 
+ - Standard state condition: The "normal" baseline rules for measuring chemicals so scientists can compare them fairly: usually 1 atm of pressure and 25°C.
+ - State functions: Properties where only the start and finish matter, not the path you took to get there. (Think of it like taking the stairs vs. taking an elevator to the 10th floor-your change in height is the exact same either way).
+ - Bomb calorimeter: A device used experimentally to study the energy changes in reactions under conditions of constant volume. Weighed reactants are placed within a rigid steel container and ignited.
  - Calorimeter: A fancy, insulated container (like a high-tech Thermo) used to trap and measure heat during a reaction.
- - Coffee-cup calorimeter: A device containing two nested Styrofoam cups with a cover through which a stirrer and thermometer can be inserted. It is used to determine changes in enthalpy for reactions that occur in solution under constant atmospheric pressure.  
- - Molar heat capacity: The energy required to raise the temperature of one mole of a substance by one degree Celsius.  
- - Specific heat: How hard it is to heat something up. It's the exact amount of energy to raise 1 gram of a substance by 1°C. 
+ - Coffee-cup calorimeter: A device containing two nested Styrofoam cups with a cover through which a stirrer and thermometer can be inserted. It is used to determine changes in enthalpy for reactions that occur in solution under constant atmospheric pressure.
+ - Molar heat capacity: The energy required to raise the temperature of one mole of a substance by one degree Celsius.
+ - Specific heat: How hard it is to heat something up. It's the exact amount of energy to raise 1 gram of a substance by 1°C.
  - Magnitude: Just the size of the number itself, ignoring any positive (+) or negative (-) signs.
 ### Main Takeaways:
 - The First Law of Thermodynamics and Internal Energy: Energy cannot be created nor destroyed, only transferred between a system and its surroundings. This transfer happens in the form of heat (q) and work (w), which together make up the change in a system;s internal energy.
@@ -353,29 +366,29 @@ In reality breaking a chemical bond requires energy(absorption) which is an endo
  ### Vocabulary List:
  - Buffer solution: A solution containing a large concentration of both members of a conjugate acid-base pair that resists changes in pH when small amounts of acid or base are added.
  - Equivalence point: Point where there is enough titrant that can neutralize the analyte solution.
- - Half equivalence point: The point in a titration halfway to the equivalence point, where the concentrations of a conjugate acid-base pair are equal. 
- - pH: based on the concentration of hydronium ions in a solution, calculated as −log[H3O+]. 
- - pOH: based on the concentration of hydroxide ions in a solution, calculated as −log[OH−]. 
+ - Half equivalence point: The point in a titration halfway to the equivalence point, where the concentrations of a conjugate acid-base pair are equal.
+ - pH: based on the concentration of hydronium ions in a solution, calculated as −log[H3O+].
+ - pOH: based on the concentration of hydroxide ions in a solution, calculated as −log[OH−].
  - pKa: The negative logarithm of the acid dissociation constant (Ka)
- - Ka: Acid ionization constant that expresses the equilibrium between a weak acid and its conjugate base in water. 
- - Kb: Base ionization constant that expresses the equilibrium between a weak base and its conjugate acid in water. 
- - Kw: [H3O+][OH−] = 1.0 × 10−14 at 25°C, representing the equilibrium constant for water autoionization. 
+ - Ka: Acid ionization constant that expresses the equilibrium between a weak acid and its conjugate base in water.
+ - Kb: Base ionization constant that expresses the equilibrium between a weak base and its conjugate acid in water.
+ - Kw: [H3O+][OH−] = 1.0 × 10−14 at 25°C, representing the equilibrium constant for water autoionization.
  - Henderson Hasselbach: formula used to calculate the pH of buffer solutions, pH=pKa+log[A-]/[HA]
- - Titration: Analytical procedure used to determine the amount of an analyte in solution by reacting it with a titrant of known concentration. 
- - Buffer capacity: The amount of acid or base that a buffer solution can neutralize while maintaining a relatively constant pH. 
- - Brønsted-Lowry Acid: Any chemical species that can donate a proton (H+) to another substance 
- Brønsted-Lowry Base: Any chemical species that can accept a proton (H+) 
- - Conjugate Acid: species formed when a base accepts a proton 
- - Conjugate Base: Species formed when an acid donates a proton 
- - Weak Acid: Acid that only partially ionizes in solution 
- - Weak Base: Base that only partially ionizes in solution 
+ - Titration: Analytical procedure used to determine the amount of an analyte in solution by reacting it with a titrant of known concentration.
+ - Buffer capacity: The amount of acid or base that a buffer solution can neutralize while maintaining a relatively constant pH.
+ - Brønsted-Lowry Acid: Any chemical species that can donate a proton (H+) to another substance
+ Brønsted-Lowry Base: Any chemical species that can accept a proton (H+)
+ - Conjugate Acid: species formed when a base accepts a proton
+ - Conjugate Base: Species formed when an acid donates a proton
+ - Weak Acid: Acid that only partially ionizes in solution
+ - Weak Base: Base that only partially ionizes in solution
  - Strong Acid: Acid that completely dissociates in water and has a very weak conjugate base
  - Strong Base: Base that completely dissociates in water and has a very weak conjugate acid
  - Acid: Donates hydrogen ions pH<7
  - Base: Accepts hydrogen ions pH>7
- - Autoionization of water: Process by which water molecules react with each other to produce hydronium and hydroxide ions in equilibrium. 
- - Hydronium: The aqueous ion H3O+(aq) formed when a hydrogen ion bonds with a water molecule 
- - Hydroxide: The negatively charged ion OH− produced when water autoionizes or when a strong base dissolves in water. 
+ - Autoionization of water: Process by which water molecules react with each other to produce hydronium and hydroxide ions in equilibrium.
+ - Hydronium: The aqueous ion H3O+(aq) formed when a hydrogen ion bonds with a water molecule
+ - Hydroxide: The negatively charged ion OH− produced when water autoionizes or when a strong base dissolves in water.
  - Conjugate Acid-Base pair: Two species that differ by one proton, where one is the acid form and the other is the base form of the same substance.
 
 
@@ -383,18 +396,18 @@ In reality breaking a chemical bond requires energy(absorption) which is an endo
 ### Main Takeaways:
 - Acids and bases react to form water and salt, neutralizing each other.
 The pH scale measures the acidity or alkalinity of a substance
- - Theory of acid and bases: An Arrhenius acid produces H+ ion and an arrhenius base produces OH- ion. Bronsted Lowry acids donates H+ ions, and Bronsted Lowry bases accept OH-. Lewis theory defines acids as electron-pair acceptors and bases as electron-pair donors. 
+ - Theory of acid and bases: An Arrhenius acid produces H+ ion and an arrhenius base produces OH- ion. Bronsted Lowry acids donates H+ ions, and Bronsted Lowry bases accept OH-. Lewis theory defines acids as electron-pair acceptors and bases as electron-pair donors.
  - Strength of strong acids and bases: ability to accept or donate protons. Both strong acids and bases dissociate fully in water. Both weak acids and bases partially dissociate in water.
- - Water can act as both base and acid. 
+ - Water can act as both base and acid.
 Example: H2O+NH3→OH-+NH4+
 Water gives H+ to ammonia, ammonia turns into ammonium ion NH4+, and in this case, water acts as an acid
 Example: H2O+HCl→H3O++Cl-
 Water accepts H+, which turns into H3O, and in this case water acts as a base
 ### Misconception:
-- Water is always neutral (pH of 7) At hotter temperatures water dissociates more and there are more ions made which creates a lower pH showing how the neutral pH is not always 7.  
+- Water is always neutral (pH of 7) At hotter temperatures water dissociates more and there are more ions made which creates a lower pH showing how the neutral pH is not always 7.
 
 ### Real World Connection:
-- As the CO2 enters the atmosphere some of it gets absorbed into the ocean and dissolves later on. The dissolved CO2 forms carbonic acid by combining with the water. The carbonic acid partially dissociates, which causes the  increase of the concentration of hydrogen ions. Through this the pH of the ocean will start to decrease. The extra hydrogen ions react with carbonate ions,  causing it to turn into a bicarbonate instead of carbonate.  As the water becomes more acidic a lot of the sea creatures and marine life will start to become affected. Animals with shells, such as oysters, corals, etc., rely on carbonate to make their shells. The decrease in pH levels causes ocean life to not be safe as the waters become more acidic, creating a hazardous environment for the animals to live. 
+- As the CO2 enters the atmosphere some of it gets absorbed into the ocean and dissolves later on. The dissolved CO2 forms carbonic acid by combining with the water. The carbonic acid partially dissociates, which causes the  increase of the concentration of hydrogen ions. Through this the pH of the ocean will start to decrease. The extra hydrogen ions react with carbonate ions,  causing it to turn into a bicarbonate instead of carbonate.  As the water becomes more acidic a lot of the sea creatures and marine life will start to become affected. Animals with shells, such as oysters, corals, etc., rely on carbonate to make their shells. The decrease in pH levels causes ocean life to not be safe as the waters become more acidic, creating a hazardous environment for the animals to live.
 ### Quiz:
 - Question 1
   - Answer Choice A
@@ -431,8 +444,8 @@ Water accepts H+, which turns into H3O, and in this case water acts as a base
  - Enthalpy- The total heat energy of a system.
  - Entropy- The measure of randomness in a system.
  - Gibbs free energy- Energy available to do useful work.
- - Calorimetry- The measurement of heat changes in chemical or physical processes. 
- - Galvanic cell- An electrochemical cell that produces electricity from a spontaneous redox reaction. 
+ - Calorimetry- The measurement of heat changes in chemical or physical processes.
+ - Galvanic cell- An electrochemical cell that produces electricity from a spontaneous redox reaction.
  - Salt bridge- A device that allows ions to move between two half cells and maintain neutrality
  - Electron transfer- Electrons moving from one substance to another.
  - Faraday’s law- It states that, the amount of substance produced in electrolysis is proportional to the electric charge passed.
@@ -443,14 +456,14 @@ Water accepts H+, which turns into H3O, and in this case water acts as a base
  - Hess’s law- The total enthalpy change of a reaction is the same no matter what pathway is taken.
 ### Main Takeaways:
 - Thermodynamics helps us predict whether a reaction is spontaneous by using entropy, enthalpy and Gibbs free energy.
-- If delta G is negative, the process is thermodynamically favored. If delta G is positive it is thermodynamically unfavored. 
+- If delta G is negative, the process is thermodynamically favored. If delta G is positive it is thermodynamically unfavored.
 - Energy is conserved in chemical reactions but could be transferred as heat.
 - The direction of electron flow in electrochemical cell determines the voltage produced and allows electricity to be generated.
 - At equilibrium delta G is equal to 0. The relationship between free energy and equilibrium constant is ΔG∘=−RTlnK
 ### Misconception:
 - A common misconception regarding this unit is that all spontaneous reactions happen quickly. This is because although a reaction may be thermodynamically spontaneous, it might take place extremely slowly because of the activation energy barrier.
 ### Real World Connection:
-- Electronics that we use daily like smartphones, computers, electrical vehicles, etc., all rely on spontaneous redox reactions as they all use voltaic cells (batteries!). 
+- Electronics that we use daily like smartphones, computers, electrical vehicles, etc., all rely on spontaneous redox reactions as they all use voltaic cells (batteries!).
 ### Quiz:
 - Question 1
   - Answer Choice A

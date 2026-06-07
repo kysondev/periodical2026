@@ -128,16 +128,18 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 ### Real World Connection:
 - Molecular shapes are important because they determine how molecules interact with receptors, which are specialized proteins on cells. This molecule and receptor idea explains how we taste things. Flavors like sweet, sour, salty, and bitter happen when molecules or ions in food fit into specific taste receptors on our tongue. When that happens, the receptors send signals to our brain, and that is how we actually experience flavor.
 ### Quiz:
-- Question 1: A student draws a Lewis structure for SO₃ and assigns a formal charge of +2 to the sulfur atom. Which of the following best explains whether this Lewis structure is the most valid representation?
-  - (A) **The structure is valid because sulfur is a metal and can hold any number of electrons.** (Incorrect) -> EXPLANATION:
-  - (B) **** (Incorrect) -> EXPLANATION:
-  - (C) **** (Correct) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
-- Question 2:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 1: A student draws a Lewis structure for SO3 and assigns a formal charge of +2 to the sulfur atom. Which of the following best explains whether this Lewis structure is the most valid representation?
+  - (A) **The structure is valid because sulfur is a metal and can hold any number of electrons.** (Incorrect) -> EXPLANATION: Sulfur is a nonmetal, not a metal. Additionally, the validity of a Lewis structure is determined by minimizing formal charges, not by categorizing the central atom as a metal.
+  - (B) **The structure is invalid because sulfur cannot bond to oxygen under any circumstances.** (Incorrect) -> EXPLANATION: Sulfur and oxygen bond does work. SO3 is a WELL-KNOWN molecule. This answer is chemically false.
+  - (C) **The structure is likely not the most valid because formal charges should be minimized and kept as close to zero as possible; a structure with lower or zero formal charge on sulfur would be preferred.** (Correct) -> EXPLANATION: Formal charge = (# of valence electrons) − (# of nonbonding electrons) − (# of bonding electrons / 2). The most valid Lewis structure minimizes formal charges across all atoms. A +2 formal charge on sulfur suggests an electron arrangement that is not optimal. Using double bonds to oxygen reduces formal charges and produces a more valid structure.
+  - (D) **The structure is valid because formal charge only applies to ionic compounds, not covalent molecules like SO3.** (Incorrect) -> EXPLANATION: Formal charge is specifically a concept used within covalent Lewis structures to evaluate which arrangement of electrons is most stable. It is not limited to ionic compounds.
+
+- Question 2: Which of the following molecules has polar bonds but is overall nonpolar due to its molecular geometry?
+  - (A) **CO2** (Correct) -> EXPLANATION: CO2 has two polar C=O bonds, but the molecule is linear. The two bond dipoles point in exactly opposite directions and cancel each other out, resulting in zero net dipole moment. The molecule is nonpolar despite having polar bonds.
+  - (B) **H2O** (Incorrect) -> EXPLANATION:
+  - (C) **HCl** (Incorrect) -> EXPLANATION:
+  - (D) **NH3** (Incorrect) -> EXPLANATION:
+
 - Question 3:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

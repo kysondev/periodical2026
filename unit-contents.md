@@ -87,11 +87,11 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (C) **0.5 moles** (Correct) -> EXPLANATION: Using the formula: # of moles = # of particles / Avogadro's number. 3.011 × 10^23 / 6.022 × 10^23 = 0.5 moles. Since 3.011 × 10^23 is exactly half of Avogadro's number, the answer is 0.5 moles of helium.
   - (D) **0.25 moles** (Incorrect) -> EXPLANATION: 0.25 moles would contain 0.25 × 6.022 × 10^23 = 1.5055 × 10^23 atoms. This is one quarter of Avogadro's number, not the half that is given in the problem.
 
-- Question 9:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 9: A compound has the molecular formula C6H12O6. What is the percent composition by mass of carbon in this compound? (Molar masses: C = 12 g/mol, H = 1 g/mol, O = 16 g/mol)
+  - (A) **50.0%** (Incorrect) -> EXPLANATION:
+  - (B) **46.7%** (Incorrect) -> EXPLANATION:
+  - (C) **40.0%** (Correct) -> EXPLANATION:
+  - (D) **6.67%** (Incorrect) -> EXPLANATION:
 
 - Question 10:
   - (A) **** (Incorrect) -> EXPLANATION:

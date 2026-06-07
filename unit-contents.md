@@ -82,10 +82,10 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (D) **The shielding from element X's inner electrons reduces the nuclear charge felt by the outermost electrons, explaining both the lower ionization energy and lower electronegativity compared to the element to its right.** (Incorrect) -> EXPLANATION: This partially explains a lower ionization energy but contradicts the claim of high electronegativity. If shielding greatly reduced effective nuclear charge, electronegativity would also be low. The high electronegativity of X is due to its small atomic radius and significant nuclear charge, not despite it.
 
 - Question 8: How many moles are in 3.011 × 10^23 atoms of helium?
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Correct) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+  - (A) **2 moles** (Incorrect) -> EXPLANATION: 2 moles would contain 2 × 6.022 × 10^23 = 1.2044 × 10^24 atoms. The given value of 3.011 × 10^23 is exactly half of Avogadro's number, which equals 0.5 moles, not 2.
+  - (B) **1 mole** (Incorrect) -> EXPLANATION: 1 mole contains exactly 6.022 × 10^23 particles. The given number 3.011 × 10^23 is half of Avogadro's number, so it represents only 0.5 moles.
+  - (C) **0.5 moles** (Correct) -> EXPLANATION: Using the formula: # of moles = # of particles / Avogadro's number. 3.011 × 10^23 / 6.022 × 10^23 = 0.5 moles. Since 3.011 × 10^23 is exactly half of Avogadro's number, the answer is 0.5 moles of helium.
+  - (D) **0.25 moles** (Incorrect) -> EXPLANATION: 0.25 moles would contain 0.25 × 6.022 × 10^23 = 1.5055 × 10^23 atoms. This is one quarter of Avogadro's number, not the half that is given in the problem.
 
 - Question 9:
   - (A) **** (Incorrect) -> EXPLANATION:

@@ -216,14 +216,14 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
 - The difference in intermolecular forces is the reason why oil and water don’t mix. Water is polar and has a strong intermolecular force because of the hydrogen bonds between water molecules. Oil is nonpolar and only has London dispersion force holding the molecules together. The water molecules are holding so tightly together that they exclude the oil molecules, and the oil molecules also don’t want to break away from each other. In addition, oil is nonpolar so it doesn’t have a charge to attract water molecules.
 ### Quiz:
 - Question 1
-  - Answer Choice A
+  - Answer Choice A (Correct Choice)
   - Answer Choice B
-  - Answer Choice C (Correct Choice)
+  - Answer Choice C
   - Answer Choice D
 - Question 2
   - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
+  - Answer Choice B
+  - Answer Choice C (Correct Choice)
   - Answer Choice D
 - Question 3
   - Answer Choice A (Correct Choice)
@@ -231,6 +231,36 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
   - Answer Choice C
   - Answer Choice D
 - Question 4
+  - Answer Choice A
+  - Answer Choice B
+  - Answer Choice C
+  - Answer Choice D (Correct Choice)
+- Question 5
+  - Answer Choice A
+  - Answer Choice B (Correct Choice)
+  - Answer Choice C
+  - Answer Choice D
+- Question 6
+  - Answer Choice A
+  - Answer Choice B
+  - Answer Choice C (Correct Choice)
+  - Answer Choice D
+- Question 7
+  - Answer Choice A (Correct Choice)
+  - Answer Choice B
+  - Answer Choice C
+  - Answer Choice D
+- Question 8
+  - Answer Choice A
+  - Answer Choice B (Correct Choice)
+  - Answer Choice C
+  - Answer Choice D
+- Question 9
+  - Answer Choice A
+  - Answer Choice B
+  - Answer Choice C
+  - Answer Choice D (Correct Choice)
+- Question 10
   - Answer Choice A
   - Answer Choice B
   - Answer Choice C

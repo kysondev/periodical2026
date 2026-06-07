@@ -179,13 +179,14 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 - Question 9: The formal charge on an atom is calculated as: (# of valence electrons) − (# of nonbonding electrons) − (# of bonding electrons / 2). In a Lewis structure of CO2, the oxygen atom has 2 lone pairs and participates in one double bond. What is the formal charge on this oxygen atom?
   - (A) **+1** (Incorrect) -> EXPLANATION: A positive formal charge on oxygen would mean oxygen has fewer electrons assigned to it than its valence count. In this structure, oxygen has 4 nonbonding electrons and 4 bonding electrons (double bond). Calculation: 6 − 4 − (4 / 2) = 6 − 4 − 2 = 0, not +1.
   - (B) **-1** (Incorrect) -> EXPLANATION: A −1 formal charge would require oxygen to have more electrons assigned to it than its valence count of 6. With 2 lone pairs (4 nonbonding e-) and a double bond (4 bonding e-): 6 − 4 − (4 / 2) = 0. The actual formal charge is 0, not −1.
-  - (C) **0** (Correct) -> EXPLANATION: Using the formula: formal charge = (# of valence electrons) − (# of nonbonding electrons) − (# of bonding electrons / 2). Oxygen has 6 valence electrons. With 2 lone pairs it has 4 nonbonding electrons. A double bond contributes 4 bonding electrons. So: 6 − 4 − (4÷2) = 6 − 4 − 2 = 0. This confirms that the Lewis structure of CO₂ with double bonds minimizes formal charge.
-  - (D) **+2** (Incorrect) -> EXPLANATION:
-- Question 10:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+  - (C) **0** (Correct) -> EXPLANATION: Using the formula: formal charge = (# of valence electrons) − (# of nonbonding electrons) − (# of bonding electrons / 2). Oxygen has 6 valence electrons. With 2 lone pairs it has 4 nonbonding electrons. A double bond contributes 4 bonding electrons. So: 6 − 4 − (4 / 2) = 6 − 4 − 2 = 0. This confirms that the Lewis structure of CO₂ with double bonds minimizes formal charge.
+  - (D) **+2** (Incorrect) -> EXPLANATION: A +2 formal charge is not chemically reasonable for oxygen in a standard covalent structure and does not result from this calculation. It would imply oxygen has 2 fewer electrons assigned to it than its valence number, which does not match the bonding described.
+
+- Question 10: A bond between two atoms has a very large difference in electronegativity. Which of the following best describes the nature of this bond and why?
+  - (A) **The bond is nonpolar covalent because both atoms are sharing electrons equally.** (Incorrect) -> EXPLANATION: Nonpolar covalent bonds occur when two atoms have the same or very similar electronegativity, resulting in equal sharing of electrons. A large electronegativity difference indicates very unequal sharing or full electron transfer.
+  - (B) **The bond is polar covalent because one atom pulls the shared electrons slightly closer, creating partial charges.** (Incorrect) -> EXPLANATION: A polar covalent bond does involve unequal electron sharing, but this description applies to a moderate electronegativity difference. A very large electronegativity difference typically results in electron transfer rather than sharing, which is ionic bonding, not polar covalent.
+  - (C) **The bond cannot exist because atoms with very different electronegativities repel each other.** (Incorrect) -> EXPLANATION: There is no chemical principle that prevents bonding between atoms of different electronegativity. In fact, atoms with very different electronegativities frequently bond; they form ionic bonds, which are among the strongest chemical bonds.
+  - (D) **The bond is ionic because a very large electronegativity difference causes one atom to fully transfer its electron to the other, forming oppositely charged ions held together by electrostatic attraction.** (Correct) -> EXPLANATION: Ionic bonds form when electrons are transferred from one atom to another, creating cations and anions. This occurs when the electronegativity difference between atoms is very large (greater than 1.7). The more electronegative atom pulls the electron(s) away entirely rather than simply attracting them closer as in a polar covalent bond.
 
   # Unit 3
  ### Vocabulary List:
@@ -232,11 +233,12 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
 ### Real World Connection:
 - The difference in intermolecular forces is the reason why oil and water don’t mix. Water is polar and has a strong intermolecular force because of the hydrogen bonds between water molecules. Oil is nonpolar and only has London dispersion force holding the molecules together. The water molecules are holding so tightly together that they exclude the oil molecules, and the oil molecules also don’t want to break away from each other. In addition, oil is nonpolar so it doesn’t have a charge to attract water molecules.
 ### Quiz:
-- Question 1:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
+- Question 1: A student compares two molecules: CH4 and CCl4. Both are nonpolar molecules. Which of the following correctly explains why CCl4 has a significantly higher boiling point than CH4?
+  - (A) **CCl4 has more electrons than CH4, which makes its electron cloud more polarizable, resulting in stronger London dispersion forces that require more energy to overcome during boiling.** (Correct) -> EXPLANATION: Both CH4 and CCl4 are nonpolar and rely solely on London dispersion forces. CCl4 has significantly more electrons (50 vs 10), making its electron cloud much more polarizable and capable of forming stronger temporary dipoles. Stronger London dispersion forces mean a higher boiling point.
+  - (B) **CCl4 has a higher boiling point because it contains chlorine, which forms hydrogen bonds with itself.** (Incorrect) -> EXPLANATION: Hydrogen bonds require hydrogen to be bonded to oxygen, nitrogen, or fluorine. Chlorine does not participate in hydrogen bonding. CCl4 has no hydrogen atoms at all, so hydrogen bonding is impossible in this molecule.
+  - (C) **CH4 has a higher boiling point because it has more hydrogen atoms, which create stronger dipole-dipole interactions.** (Incorrect) -> EXPLANATION: This answer is false for two reasons: CH4 does not have a higher boiling point than CCl4, and CH4 is a nonpolar molecule that does not show dipole-dipole interactions. Its only intermolecular force is London dispersion.
   - (D) **** (Incorrect) -> EXPLANATION:
+
 - Question 2:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

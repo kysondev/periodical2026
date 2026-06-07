@@ -275,11 +275,11 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
   - (C) **Chromatography, because each liquid will have a different attraction to the mobile phase and will separate at different rates.** (Incorrect) -> EXPLANATION: While chromatography does separate components based on their relative attraction to stationary and mobile phases, it is primarily used for dissolved substances or components in a mixture and not for separating two bulk liquids with different boiling points. Distillation is the appropriate technique here.
   - (D) **Chromatography using a water-based mobile phase, because polar liquids will be separated from nonpolar liquids by the polarity of water.** (Incorrect) -> EXPLANATION: Chromatography is not the standard technique for separating two liquids by boiling point. Distillation is. Additionally, not all liquid mixtures differ only in polarity, and distillation more directly and practically exploits the boiling point difference specified in the question.
 
-- Question 8:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 8: A solution of a dye is analyzed using a spectrophotometer. At a given wavelength, the solution at concentration 0.10 M shows an absorbance of 0.20. A second sample of the same dye shows an absorbance of 0.60 at the same wavelength. Using Beer-Lambert Law, what is the concentration of the second sample?
+  - (A) **0.10 M** (Incorrect) -> EXPLANATION: This is the concentration of the first sample. At a concentration of 0.10 M, the absorbance was 0.20. Since the second sample has an absorbance of 0.60 (which is 3 times greater) its concentration must also be 3 times greater than 0.10 M.
+  - (B) **0.30 M** (Correct) -> EXPLANATION: According to Beer-Lambert Law, absorbance is directly proportional to concentration: A = Elc. Since the path length and molar absorptivity are constant, A1/c1 = A2/c2. (0.20) / (0.10 M) = (0.60) / c2. c2 = (0.60 * 0.10) / 0.20 = 0.30 M. The absorbance tripled, so the concentration also tripled.
+  - (C) **0.60 M** (Incorrect) -> EXPLANATION: This confuses the absorbance value with the concentration. The absorbance of 0.60 is the measured optical signal, not the concentration. Applying Beer-Lambert Law proportionally gives 0.30 M, not 0.60 M.
+  - (D) **0.06 M** (Incorrect) -> EXPLANATION:
 - Question 9:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

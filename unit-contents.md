@@ -245,9 +245,9 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
   - (C) **1.0 atm** (Correct) -> EXPLANATION: Using Boyle's Law: P1V1 = P2V2. (2.0 atm)(3.0 L) = P2(6.0 L). 6.0 = 6.0 * P2. P2 = 1.0 atm. As volume doubles from 3.0 L to 6.0 L, the pressure is halved from 2.0 atm to 1.0 atm, consistent with the inverse relationship between pressure and volume.
   - (D) **3.0 atm** (Incorrect) -> EXPLANATION: 3.0 atm has no mathematical basis from the given values. It does not result from correctly applying Boyle's Law. A pressure of 3.0 atm would require the volume to be compressed, not expanded.
 
-- Question 3:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
+- Question 3: A container holds a mixture of oxygen gas (O2) at a partial pressure of 0.40 atm and nitrogen gas (N2) at a partial pressure of 0.60 atm. The volume of the container is then doubled at constant temperature. What is the new total pressure of the gas mixture?
+  - (A) **** (Correct) -> EXPLANATION:
+  - (B) **** (Incorrect) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
 - Question 4:

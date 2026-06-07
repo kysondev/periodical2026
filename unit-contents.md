@@ -176,11 +176,11 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (C) **Triple bonds and single bonds between the same two atoms have the same bond length because bond length only depends on atomic radius.** (Incorrect) -> EXPLANATION: Bond length is not solely determined by atomic radius. It also depends on bond order. Higher bond order (more shared pairs) pulls atoms closer together, consistently shortening the bond regardless of atomic radius.
   - (D) **The single bond would be stronger because the electrons are more localized and closer to each nucleus.** (Incorrect) -> EXPLANATION: Bond strength increases with bond order. Triple bonds are the strongest because more electron pairs are being shared between the atoms, requiring more energy to break. Single bonds are the weakest of the three bond types.
 
-- Question 9:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 9: The formal charge on an atom is calculated as: (# of valence electrons) − (# of nonbonding electrons) − (# of bonding electrons / 2). In a Lewis structure of CO2, the oxygen atom has 2 lone pairs and participates in one double bond. What is the formal charge on this oxygen atom?
+  - (A) **+1** (Incorrect) -> EXPLANATION: A positive formal charge on oxygen would mean oxygen has fewer electrons assigned to it than its valence count. In this structure, oxygen has 4 nonbonding electrons and 4 bonding electrons (double bond). Calculation: 6 − 4 − (4 / 2) = 6 − 4 − 2 = 0, not +1.
+  - (B) **-1** (Incorrect) -> EXPLANATION: A −1 formal charge would require oxygen to have more electrons assigned to it than its valence count of 6. With 2 lone pairs (4 nonbonding e-) and a double bond (4 bonding e-): 6 − 4 − (4 / 2) = 0. The actual formal charge is 0, not −1.
+  - (C) **0** (Correct) -> EXPLANATION: Using the formula: formal charge = (# of valence electrons) − (# of nonbonding electrons) − (# of bonding electrons / 2). Oxygen has 6 valence electrons. With 2 lone pairs it has 4 nonbonding electrons. A double bond contributes 4 bonding electrons. So: 6 − 4 − (4÷2) = 6 − 4 − 2 = 0. This confirms that the Lewis structure of CO₂ with double bonds minimizes formal charge.
+  - (D) **+2** (Incorrect) -> EXPLANATION:
 - Question 10:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

@@ -145,16 +145,19 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (B) **Tetrahedral, tetrahedral, 109.5 DEGREES** (Correct) -> EXPLANATION: With 4 bonding groups and 0 lone pairs, VSEPR theory predicts that the 4 electron groups will repel each other equally and spread out to the corners of a tetrahedral. Both the electron geometry and molecular geometry are tetrahedral with bond angles of approximately 109.5 DEGREES.
   - (C) **Tetrahedral, bent, 104.5 DEGREES** (Incorrect) -> EXPLANATION: A bent molecular geometric shape with 104.5 DEGREES bond angles occurs when there are 4 electron groups but 2 of them are lone pairs (like in water). With 0 lone pairs, all 4 groups are bonding groups, so the molecular geometric shape matches the electron geometry: tetrahedral.
   - (D) **Linear, linear, 180 DEGREES** (Incorrect) -> EXPLANATION: Linear geometric shape occurs when there are only 2 electron groups around the central atom. With 4 bonding groups, the geometric shape cannot be linear because 4 groups cannot minimize repulsion by aligning on a single axis.
-- Question 4:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
-- Question 5:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+
+- Question 4: Which of the following best explains why ionic compounds tend to have much higher melting points than most covalent molecular compounds?
+  - (A) **Ionic compounds contain more atoms per formula unit, which adds more mass and therefore requires more energy to melt.** (Incorrect) -> EXPLANATION: Melting point is not determined by the number of atoms or molecular mass. It is determined by the strength of the forces holding the particles together in the solid state.
+  - (B) **Covalent bonds within covalent molecules are stronger than the ionic bonds in ionic compounds, so covalent molecules are actually harder to melt.** (Incorrect) -> EXPLANATION: This confuses intramolecular bonds with intermolecular forces. When a covalent molecular compound melts, you are only breaking the weak intermolecular forces between molecules, not the covalent bonds within them. Ionic compounds require breaking the strong electrostatic attractions throughout the entire ionic lattice.
+  - (C) **Ionic compounds can conduct electricity when melted, which releases energy and makes them harder to melt.** (Incorrect) -> EXPLANATION: Electrical conductivity is a result of melting, not a cause of higher melting points. The ability to conduct electricity when molten is related to the mobility of ions, not to the energy required to melt the substance.
+  - (D) **Ionic bonds involve strong electrostatic attractions between oppositely charged ions throughout an entire crystal lattice, requiring significantly more energy to overcome than the weak intermolecular forces between neutral covalent molecules.** (Correct) -> EXPLANATION: Ionic bonding forms when electrons are transferred, creating cations and anions held together by strong electrostatic attraction across an extended lattice structure. Covalent molecular compounds are held together by comparatively weak intermolecular forces between neutral molecules. Overcoming an ionic lattice requires far more energy, hence the much higher melting points.
+
+- Question 5: A molecule of PCl5 has 5 bonding pairs and 0 lone pairs. Which of the following statements about this molecule is correct?
+  - (A) **PCl5 violates the octet rule because phosphorus has fewer than 8 electrons around it.** (Incorrect) -> EXPLANATION: PCl5 does violate the octet rule, but in the opposite direction. With 5 bonding pairs, phosphorus has 10 electrons around it (more than 8). This is an expanded octet, not a incomplete one.
+  - (B) **PCl5 follows the octet rule because 5 bonds × 2 electrons = 10 electrons which rounds down to 8.** (Incorrect) -> EXPLANATION: Electron counting does not work by rounding. 5 bonding pairs give phosphorus exactly 10 electrons. There is no rounding in octet rule analysis, and 10 is definitively more than 8.
+  - (C) **PCl5 is an example of an expanded octet because phosphorus is in period 3 and has access to d orbitals, allowing it to accommodate more than 8 valence electrons.** (Correct) -> EXPLANATION: The expanded octet occurs when an atom holds more than 8 valence electrons around it. This is possible for nonmetals in period 3 or higher because they have available d orbitals. Phosphorus (period 3) in PCl5 has 10 electrons around it (5 bonding pairs).
+  - (D) **PCl5 cannot exist as a molecule because no atom can form more than 4 bonds.** (Incorrect) -> EXPLANATION: While carbon and other period 2 elements are limited to 4 bonds due to the absence of d orbitals, period 3 and higher elements like phosphorus can form more than 4 bonds using available d orbitals, as demonstrated by the real and stable molecule PCl5.
+
 - Question 6:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

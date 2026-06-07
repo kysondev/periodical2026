@@ -246,15 +246,16 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
   - (D) **3.0 atm** (Incorrect) -> EXPLANATION: 3.0 atm has no mathematical basis from the given values. It does not result from correctly applying Boyle's Law. A pressure of 3.0 atm would require the volume to be compressed, not expanded.
 
 - Question 3: A container holds a mixture of oxygen gas (O2) at a partial pressure of 0.40 atm and nitrogen gas (N2) at a partial pressure of 0.60 atm. The volume of the container is then doubled at constant temperature. What is the new total pressure of the gas mixture?
-  - (A) **** (Correct) -> EXPLANATION:
-  - (B) **** (Incorrect) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
-- Question 4:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+  - (A) **0.50 atm** (Correct) -> EXPLANATION: First, the original total pressure = 0.40 + 0.60 = 1.00 atm (Dalton's law of partial pressures). When volume doubles at constant temperature, Boyle's Law applies: P1V1 = P2V2, so (1.00 atm)(V) = P2(2 L), giving P2 = 0.50 atm. Each individual partial pressure is also halved: O2 = 0.20 atm, N2 = 0.30 atm, total = 0.50 atm.
+  - (B) **1.00 atm** (Incorrect) -> EXPLANATION: The total pressure would remain 1.00 atm only if the volume stayed constant. Since the volume doubled, Boyle's Law requires the total pressure to be halved. Volume is inversely proportional to pressure.
+  - (C) **2.00 atm** (Incorrect) -> EXPLANATION: Doubling the volume doubles the pressure only if volume and pressure were directly proportional; they are inversely proportional. Doubling the volume halves the pressure, not doubles it.
+  - (D) **0.20 atm** (Incorrect) -> EXPLANATION: 0.20 atm is the new partial pressure of oxygen alone after the volume doubles. This answer confuses the partial pressure of one gas component with the total pressure of the entire gas mixture.
+
+- Question 4: Which of the following correctly explains the behavior of a real gas that causes it to deviate from the Ideal Gas Law at very high pressures?
+  - (A) **At high pressure, gas molecules move faster, increasing temperature and causing deviations.** (Incorrect) -> EXPLANATION: The Ideal Gas Law already accounts for temperature effects. High pressure deviations are due to the volume occupied by the gas molecules themselves and intermolecular forces, not changes in speed. In the ideal model, gas molecules have zero volume.
+  - (B) **At high pressure, gas molecules lose kinetic energy, causing them to slow down and deviate from ideal behavior.** (Incorrect) -> EXPLANATION: Kinetic energy depends on temperature, not pressure directly. At constant temperature, changing pressure does not alter average kinetic energy. The deviation at high pressure is caused by the finite volume of molecules crowding together.
+  - (C) **At high pressure, the intermolecular forces between gas molecules disappear, causing the gas to behave more ideally.** (Incorrect) -> EXPLANATION: This is the opposite of what happens. At high pressure, gas molecules are closer together, making intermolecular forces more significant; not less. Ideal gases are assumed to have zero intermolecular forces (zero IMF), and real gases deviate from this assumption most at high pressure.
+  - (D) **At high pressure, gas molecules are forced close together, so the actual volume of the molecules becomes significant and intermolecular forces become stronger, both of which violate the assumptions of the Ideal Gas Law.** (Correct) -> EXPLANATION: The Ideal Gas Law assumes gas particles have zero volume and zero intermolecular forces. At high pressure, molecules are compressed into a smaller space, making their actual molecular volumes non-negligible and bringing them close enough for intermolecular attractions to matter. Both factors cause real gases to deviate from ideal predictions.
 - Question 5:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

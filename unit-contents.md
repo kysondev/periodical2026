@@ -282,16 +282,16 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
   - (D) **0.06 M** (Incorrect) -> EXPLANATION: This might result from dividing the absorbance values incorrectly (0.20 * 0.60 * 0.10 / some incorrect arrangement). The correct proportional reasoning: if 0.10 M gives A = 0.20, then a sample with A = 0.60 (3× higher) has a concentration of 3 * 0.10 = 0.30 M.
 
 - Question 9: A student compares two substances: one is a metallic solid and the other is a covalent network solid like diamond. Both have extremely high melting points. Which of the following correctly distinguishes the reason each has a high melting point?
-  - (A) **Both have high melting points for the same reason: strong London dispersion forces throughout the solid.** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+  - (A) **Both have high melting points for the same reason: strong London dispersion forces throughout the solid.** (Incorrect) -> EXPLANATION: London dispersion forces are weak intermolecular forces found in molecular solids, not the dominant force in metallic or covalent network solids. Metallic solids are held together by metallic bonds and covalent network solids by strong covalent bonds; not London dispersion forces.
+  - (B) **The metallic solid has a high melting point because of ionic bonds, and diamond has a high melting point because of intermolecular hydrogen bonding.** (Incorrect) -> EXPLANATION: Metallic solids are held together by metallic bonds (delocalized electrons around metal cation cores), not ionic bonds. Diamond's structure involves covalent bonds, not hydrogen bonds. Diamond has no hydrogen atoms at all.
+  - (C) **Both have high melting points because they are both crystalline, and crystalline structures always require more energy to break.** (Incorrect) -> EXPLANATION: Being crystalline does not automatically mean high melting point. Ionic solids and molecular solids can both be crystalline, but ionic solids have much higher melting points than molecular solids because the nature of the forces holding the crystal together (not the how the crystalline is arranged) determines the melting point.
+  - (D) **The metallic solid has a high melting point because of the strong attraction between delocalized electrons and positively charged metal ion cores throughout the lattice, while diamond's high melting point results from an extended network of strong covalent bonds throughout the entire structure.** (Correct) -> EXPLANATION: Metallic solids are held together by metallic bonding, where delocalized electrons form a sea around positive metal cores, creating strong forces throughout the lattice. Covalent network solids like diamond have every atom covalently bonded to its neighbors in a continuous extended structure. Both require enormous energy to break down, but for fundamentally different chemical reasons.
 
-- Question 10:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 10: A student has a mixture of sand (an insoluble solid) and salt water (a dissolved ionic compound). Which of the following sequences of separation techniques would most effectively isolate the pure salt from this mixture?
+  - (A) **Chromatography followed by distillation.** (Incorrect) -> EXPLANATION: Chromatography separates components based on their affinity to stationary and mobile phases, which is not the right technique for removing an insoluble solid like sand from a liquid. While distillation could remove water afterward, the first step is wrong.
+  - (B) **Distillation followed by filtration.** (Incorrect) -> EXPLANATION: This order is reversed. Filtration should come first to remove the sand (the insoluble solid) from the salt water. Distillation of the combined mixture without first removing the sand would not effectively separate the salt from the sand.
+  - (C) **Filtration to remove the sand, followed by chromatography to separate the salt from the water.** (Incorrect) -> EXPLANATION: Chromatography separates components by their attraction to stationary and mobile phases — it is not used to isolate a dissolved salt from water. Distillation is the correct choice.
+  - (D) **Filtration to remove the sand, followed by distillation to evaporate the water and leave the salt behind.** (Correct) -> EXPLANATION: Filtration is used first because it separates solids from liquids; the sand will be trapped in the filter while the salt water passes through. Then distillation (evaporation and condensation) removes the water, leaving behind the pure dissolved salt. This is the logical and chemically correct sequence.
 
 # Unit 4
  ### Vocabulary List:

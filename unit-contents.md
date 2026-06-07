@@ -161,7 +161,7 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 - Question 6: The molecule SO2 can be represented by two valid Lewis structures where the double bond switches between the two oxygen atoms. Which of the following best describes this situation?
   - (A) **The molecule rapidly switches between the two structures at room temperature, spending equal time as each.** (Incorrect) -> EXPLANATION: Resonance does not mean the molecule physically flips between structures. This is a common misconception. The molecule does not alternate between two forms; it exists as one hybrid structure simultaneously.
   - (B) **The two structures represent resonance, meaning the actual molecule is a hybrid of both valid Lewis structures, with the true bond character being intermediate between a single and double bond to each oxygen.** (Correct) -> EXPLANATION: Resonance occurs when multiple valid Lewis structures can be drawn for the same molecule. The actual molecule is not either structure but a resonance hybrid, meaning the electrons are delocalized and the bonds to each oxygen are equivalent; somewhere between a single and double bond.
-  - (C) **** (Incorrect) -> EXPLANATION:
+  - (C) **One of the two Lewis structures is correct and the other is incorrect; only the structure with the double bond on the more electronegative oxygen is valid.** (Incorrect) -> EXPLANATION: In resonance, both (or all) structures are equally valid contributors to the hybrid. You cannot select one as "the real one." Both are used together to describe the delocalized electron distribution.
   - (D) **** (Incorrect) -> EXPLANATION:
 - Question 7:
   - (A) **** (Incorrect) -> EXPLANATION:

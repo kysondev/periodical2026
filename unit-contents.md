@@ -271,9 +271,10 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
 
 - Question 7: A chemist wants to separate a mixture of two liquids with different boiling points. Which separation technique should they use, and why?
   - (A) **Distillation, because it separates liquid mixtures by evaporating the more volatile component first and then condensing it separately, taking advantage of differences in boiling points.** (Correct) -> EXPLANATION: Distillation is a process that separates liquid mixtures by evaporation and condensation. The liquid with the lower boiling point vaporizes first, travels through a condenser, and is collected separately. This directly exploits differences in boiling points between the two liquids.
-  - (B) **** (Incorrect) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+  - (B) **Filtration, because it allows the liquid with the lower boiling point to pass through the filter while retaining the other.** (Incorrect) -> EXPLANATION: Filtration separates solids from liquids by passing a mixture through a filter paper. It does not separate two liquids from each other and has nothing to do with boiling points. A filter cannot distinguish between two miscible liquids.
+  - (C) **Chromatography, because each liquid will have a different attraction to the mobile phase and will separate at different rates.** (Incorrect) -> EXPLANATION: While chromatography does separate components based on their relative attraction to stationary and mobile phases, it is primarily used for dissolved substances or components in a mixture and not for separating two bulk liquids with different boiling points. Distillation is the appropriate technique here.
+  - (D) **Chromatography using a water-based mobile phase, because polar liquids will be separated from nonpolar liquids by the polarity of water.** (Incorrect) -> EXPLANATION: Chromatography is not the standard technique for separating two liquids by boiling point. Distillation is. Additionally, not all liquid mixtures differ only in polarity, and distillation more directly and practically exploits the boiling point difference specified in the question.
+
 - Question 8:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

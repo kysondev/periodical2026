@@ -136,15 +136,15 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 
 - Question 2: Which of the following molecules has polar bonds but is overall nonpolar due to its molecular geometry?
   - (A) **CO2** (Correct) -> EXPLANATION: CO2 has two polar C=O bonds, but the molecule is linear. The two bond dipoles point in exactly opposite directions and cancel each other out, resulting in zero net dipole moment. The molecule is nonpolar despite having polar bonds.
-  - (B) **H2O** (Incorrect) -> EXPLANATION:
-  - (C) **HCl** (Incorrect) -> EXPLANATION:
-  - (D) **NH3** (Incorrect) -> EXPLANATION:
+  - (B) **H2O** (Incorrect) -> EXPLANATION: H2O has polar O-H bonds AND is a polar molecule. Its bent geometric shape means the two bond dipoles do not cancel; they point in directions that create a net dipole moment toward the oxygen atom.
+  - (C) **HCl** (Incorrect) -> EXPLANATION: HCl is a diatomic molecule with a polar bond and is also a polar molecule overall. There is only one bond, so there is nothing to cancel the dipole. The electronegativity difference between H and Cl creates a permanent dipole.
+  - (D) **NH3** (Incorrect) -> EXPLANATION: NH3 has polar N-H bonds and is also a polar molecule. Its trigonal pyramidal geometric shape, caused by the lone pair on nitrogen, means the dipoles do not cancel. The lone pair makes the charge distribution not symmetrical.
 
-- Question 3:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 3: A molecule has 4 bonding groups and 0 lone pairs around the central atom. According to VSEPR theory, what is the electron geometry, molecular geometry, and approximate bond angle?
+  - (A) **Trigonal planar, trigonal planar, 120 DEGREES** (Incorrect) -> EXPLANATION: Trigonal planar geometric shape occurs when there are 3 bonding groups and 0 lone pairs. With 4 bonding groups, the electron pairs must spread further apart in three dimensions, not in a flat plane.
+  - (B) **Tetrahedral, tetrahedral, 109.5 DEGREES** (Correct) -> EXPLANATION: With 4 bonding groups and 0 lone pairs, VSEPR theory predicts that the 4 electron groups will repel each other equally and spread out to the corners of a tetrahedral. Both the electron geometry and molecular geometry are tetrahedral with bond angles of approximately 109.5 DEGREES.
+  - (C) **Tetrahedral, bent, 104.5 DEGREES** (Incorrect) -> EXPLANATION: A bent molecular geometric shape with 104.5 DEGREES bond angles occurs when there are 4 electron groups but 2 of them are lone pairs (like in water). With 0 lone pairs, all 4 groups are bonding groups, so the molecular geometric shape matches the electron geometry: tetrahedral.
+  - (D) **Linear, linear, 180 DEGREES** (Incorrect) -> EXPLANATION: Linear geometric shape occurs when there are only 2 electron groups around the central atom. With 4 bonding groups, the geometric shape cannot be linear because 4 groups cannot minimize repulsion by aligning on a single axis.
 - Question 4:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

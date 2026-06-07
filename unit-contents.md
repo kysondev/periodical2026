@@ -40,55 +40,55 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 - In crime scenes investigation, forensic scientists often use mass spectrometry as a way to identify the unknown substance by measuring their mass and composition. This connects to the moles and molar mass concept since scientists have to convert the masses of these tiny particles into measurable amounts in grams and moles in order to determine what the substance is actually made of. Percent composition and empirical formula is also used as a way to identify the drug or unknown substance through breaking it down. Once it is known, chemists can match it to known compounds in their date base. An example of this would be that Michelle Evans, a forensic chemist who works for the Bureau of Alcohol, Tobacco, Firearms, and Explosives., investigated the burning of a bone of two young women who died in an explosion looking into the bones using a mass spectrometer to identify molecules from the explosion in this case. The results from the explosion were hydrocarbons and presents of potassium and chlorine that can signal compounds of potassium chlorate or potassium perchlorate.
 ### Quiz:
 - Question 1: An atom of element X has 17 protons and 18 neutrons. A second atom of the same element has 17 protons and 20 neutrons. Which of the following best describes the relationship between these two atoms?
-  - (A) They are different elements because they have different mass numbers. (EXPLANATION: Incorrect. The identity of an element is determined solely by its number of protons, not its atomic mass number. Both atoms have 17 protons, so they are the same element)
-  - (B) 
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 5
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
-- Question 6
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 7
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 8
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 9
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 10
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
+  - (A) **They are different elements because they have different mass numbers.** (Incorrect) -> EXPLANATION: The identity of an element is determined solely by its number of protons, not its atomic mass number. Both atoms have 17 protons, so they are the same element
+  - (B) **They are ions because they have different numbers of neutrons.** (Incorrect) -> EXPLANATION: Ions are formed when an atom gains or loses electrons, not when neutron count changes. Neutron count has no effect on charge
+  - (C) **They are isotopes because they have the same number of protons but different numbers of neutrons.** (Correct) -> EXPLANATION: Isotopes are atoms of the same element that have the same number of protons but differ in terms of number of neutrons. Both atoms are chlorine (17 protons) but have different amount of neutrons (18 vs. 20).
+  - (D) **They are the same atom because they belong to the same element and have the same mass number.** (Incorrect) -> EXPLANATION: Their mass numbers are actually different: 17+18=35 vs. 17+20=37. They are not identical atoms but they are isotopes.
+- Question 2:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 3:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 4:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 5:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 6:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 7:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 8:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 9:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 10:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
 
 # Unit 2
  ### Vocabulary List:
@@ -119,56 +119,56 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 ### Real World Connection:
 - Molecular shapes are important because they determine how molecules interact with receptors, which are specialized proteins on cells. This molecule and receptor idea explains how we taste things. Flavors like sweet, sour, salty, and bitter happen when molecules or ions in food fit into specific taste receptors on our tongue. When that happens, the receptors send signals to our brain, and that is how we actually experience flavor.
 ### Quiz:
-- Question 1
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
-- Question 5
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 6
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 7
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
-- Question 8
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 9
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 10
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
+- Question 1:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 2:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 3:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 4:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 5:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 6:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 7:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 8:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 9:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 10:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
 
   # Unit 3
  ### Vocabulary List:
@@ -215,56 +215,56 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
 ### Real World Connection:
 - The difference in intermolecular forces is the reason why oil and water don’t mix. Water is polar and has a strong intermolecular force because of the hydrogen bonds between water molecules. Oil is nonpolar and only has London dispersion force holding the molecules together. The water molecules are holding so tightly together that they exclude the oil molecules, and the oil molecules also don’t want to break away from each other. In addition, oil is nonpolar so it doesn’t have a charge to attract water molecules.
 ### Quiz:
-- Question 1
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
-- Question 5
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 6
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 7
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 8
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 9
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
-- Question 10
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
+- Question 1:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 2:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 3:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 4:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 5:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 6:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 7:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 8:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 9:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 10:
+  - (A) **** (Incorrect) -> EXPLANATION:
+  - (B) **** (Correct) -> EXPLANATION:
+  - (C) **** (Incorrect) -> EXPLANATION:
+  - (D) **** (Incorrect) -> EXPLANATION:
 
 # Unit 4
  ### Vocabulary List:

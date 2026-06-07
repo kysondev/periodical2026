@@ -164,16 +164,18 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (C) **One of the two Lewis structures is correct and the other is incorrect; only the structure with the double bond on the more electronegative oxygen is valid.** (Incorrect) -> EXPLANATION: In resonance, both (or all) structures are equally valid contributors to the hybrid. You cannot select one as "the real one." Both are used together to describe the delocalized electron distribution.
   - (D) **The two structures represent two different isomers of SO2 that exist in equilibrium in a gas mixture.** (Incorrect) -> EXPLANATION: Isomers are different molecules with the same molecular formula but different arrangements of atoms. Resonance structures have the same atomic arrangement and only differ in how the electrons are depicted. They represent one molecule, not two different molecules in equilibrium.
 
-- Question 7:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
-- Question 8:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 7: Which of the following correctly describes the hybridization of the central atom in a molecule with 3 bonding groups and 1 lone pair?
+  - (A) **sp because there are 4 total electron domains.** (Incorrect) -> EXPLANATION: sp hybridization involves only 2 hybrid orbitals, which corresponds to 2 electron groups (linear geometric shape). A molecule with 3 bonding groups and 1 lone pair has 4 electron domains total, which requires 4 hybrid orbitals.
+  - (B) **sp3d because the lone pair requires an extra d orbital.** (Incorrect) -> EXPLANATION: sp3d hybridization involves 5 electron domains. A molecule with 4 total electron domains (3 bonding + 1 lone pair) only requires sp3 hybridization, using 4 orbitals from the s and p subshells.
+  - (C) **sp2 because there are only 3 bonding domains and lone pairs are not counted in hybridization.** (Incorrect) -> EXPLANATION: Lone pairs absolutely are counted when determining hybridization because they occupy hybrid orbitals just like bonding pairs do. The total number of electron domains, including lone pairs which determines the hybridization.
+  - (D) **sp3 because hybridization is determined by the total number of electron domains including lone pairs, and 4 total electron domains (3 bonding + 1 lone pair) require 4 hybrid orbitals.** (Correct) -> EXPLANATION: Hybridization is determined by the total number of electron domains around the central atom, which includes both bonding pairs and lone pairs. With 3 bonding domains and 1 lone pair, there are 4 electron domains, requiring 4 hybrid orbitals: sp³. The resulting molecular geometric shape is trigonal pyramidal.
+
+- Question 8: A chemist measures the bond length in a nitrogen molecule, N2 and compares it to the bond length in a hypothetical N2 molecule where the triple bond has been replaced by a single bond. Which of the following correctly predicts and explains the difference?
+  - (A) **The triple bond in N2 is shorter and stronger than a single bond would be, because more shared electron pairs pull the nuclei closer together and require significantly more energy to break.** (Correct) -> EXPLANATION: Triple bonds involve 3 shared electron pairs between two atoms. More electrons shared between the nuclei increases the attractive force, pulling the nuclei closer together (shorter bond) and making the bond harder to break (stronger bond, higher bond energy).
+  - (B) **The triple bond in N2 is longer than a single bond because more electrons cause more repulsion between the atoms.** (Incorrect) -> EXPLANATION: While electrons do repel each other, the main effect of multiple shared pairs is increased nuclear attraction toward the bonding region, which shortens the bond. Bond length decreases from single to double to triple bonds.
+  - (C) **Triple bonds and single bonds between the same two atoms have the same bond length because bond length only depends on atomic radius.** (Incorrect) -> EXPLANATION: Bond length is not solely determined by atomic radius. It also depends on bond order. Higher bond order (more shared pairs) pulls atoms closer together, consistently shortening the bond regardless of atomic radius.
+  - (D) **The single bond would be stronger because the electrons are more localized and closer to each nucleus.** (Incorrect) -> EXPLANATION: Bond strength increases with bond order. Triple bonds are the strongest because more electron pairs are being shared between the atoms, requiring more energy to break. Single bonds are the weakest of the three bond types.
+
 - Question 9:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

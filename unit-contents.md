@@ -81,10 +81,10 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (C) **Element X is in an excited state which lowers its ionization energy while increasing its electronegativity.** (Incorrect) -> EXPLANATION: Ionization energy and electronegativity are defined based on the ground state of an atom. Excited state configurations are temporary and are not used to compare periodic trends between elements.
   - (D) **The shielding from element X's inner electrons reduces the nuclear charge felt by the outermost electrons, explaining both the lower ionization energy and lower electronegativity compared to the element to its right.** (Incorrect) -> EXPLANATION: This partially explains a lower ionization energy but contradicts the claim of high electronegativity. If shielding greatly reduced effective nuclear charge, electronegativity would also be low. The high electronegativity of X is due to its small atomic radius and significant nuclear charge, not despite it.
 
-- Question 8:
+- Question 8: How many moles are in 3.011 × 10^23 atoms of helium?
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
+  - (C) **** (Correct) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
 
 - Question 9:

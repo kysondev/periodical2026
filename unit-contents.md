@@ -87,7 +87,7 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 ### Misconception:
 - A misconception is Intermolecular forces vs Intramolecular forces are a common concept where people misidentify dashed lines in diagrams to represent intramolecular covalent bonds within a molecule rather than intermolecular forces between molecules, particularly when analyzing diagrams. Intramolecular forces are the bonds in a molecule (covalent, Ionic, metallic) while intermolecular forces are attractions between molecules.
 ### Real World Connection:
-- Molecular shapes are important because they determine how molecules interact with receptors, which are specialized proteins on cells. This molecule and receptor idea explains how we taste things. Flavors like sweet, sour, salty, and bitter happen when molecules or ions in food fit into specific taste receptors on our tongue. When that happens, the receptors send signals to our brain, and that is how we actually experience flavor. 
+- Molecular shapes are important because they determine how molecules interact with receptors, which are specialized proteins on cells. This molecule and receptor idea explains how we taste things. Flavors like sweet, sour, salty, and bitter happen when molecules or ions in food fit into specific taste receptors on our tongue. When that happens, the receptors send signals to our brain, and that is how we actually experience flavor.
 ### Quiz:
 - Question 1
   - Answer Choice A
@@ -108,7 +108,7 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - Answer Choice A
   - Answer Choice B
   - Answer Choice C
-  - Answer Choice D (Correct Choice)
+  - Answer Choice D (Correct Choice)  
 
   # Unit 3
  ### Vocabulary List:

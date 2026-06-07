@@ -44,46 +44,55 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (B) **They are ions because they have different numbers of neutrons.** (Incorrect) -> EXPLANATION: Ions are formed when an atom gains or loses electrons, not when neutron count changes. Neutron count has no effect on charge
   - (C) **They are isotopes because they have the same number of protons but different numbers of neutrons.** (Correct) -> EXPLANATION: Isotopes are atoms of the same element that have the same number of protons but differ in terms of number of neutrons. Both atoms are chlorine (17 protons) but have different amount of neutrons (18 vs. 20).
   - (D) **They are the same atom because they belong to the same element and have the same mass number.** (Incorrect) -> EXPLANATION: Their mass numbers are actually different: 17+18=35 vs. 17+20=37. They are not identical atoms but they are isotopes.
-- Question 2:
+
+- Question 2: A neutral atom of carbon-14 has 6 protons and 8 neutrons. If this atom loses 2 electrons, which of the following correctly describes the resulting ion?
+  - (A) **It becomes C2+ with 6 protons, 8 neutrons, and 4 electrons.** (Correct) -> EXPLANATION: Losing 2 electrons from a neutral carbon atom (which originally had 6 electrons) leaves 4 electrons. Since the atom now has more protons than electrons, it carries a +2 charge, forming a cation (C2+).
+  - (B) **It becomes a new element because the nuclear charge has changed.** (Incorrect) -> EXPLANATION: Nuclear charge is determined by the number of protons. Removing electrons does not change the number of protons, so the element remains carbon.
+  - (C) **It becomes an anion with a charge of −2 because electrons are negative.** (Incorrect) -> EXPLANATION: Losing electrons removes negative charge from the atom. When electrons are lost, the atom becomes more positive, forming a cation, not an anion. An anion forms when electrons are gained.
+  - (D) **It becomes C-12 because losing neutrons lowers the mass number.** (Incorrect) -> EXPLANATION: Electrons are not neutrons. Losing electrons does not change the mass number. The mass number is only the sum of protons and neutrons (6 + 8 = 14), which remains unchanged.
+
+- Question 3: The mass spectrum of an element shows two peaks: one at mass 63 with a relative abundance of 69.2% and one at mass 65 with a relative abundance of 30.8%. What is the atomic mass of this element?
+  - (A) **63.62 amu** (Correct) -> EXPLANATION: Atomic mass is calculated as the weighted average: (63 × 0.692) + (65 × 0.308) = 43.596 + 20.02 = 63.616 ≈ 63.62 amu. This matches copper on the periodic table.
+  - (B) **64.00 amu** (Incorrect) -> EXPLANATION: This would only be correct if both isotopes had exactly equal abundances of 50% each. Since the lighter isotope (63) is significantly more abundant at 69.2%, the weighted average must be pulled closer to 63, not exactly at 64.
+  - (C) **65.00 amu** (Incorrect) -> EXPLANATION: This is simply the mass of the heavier isotope. Atomic mass requires a weighted average calculation using the relative abundances of all isotopes, not just selecting one isotope's mass.
+  - (D) **63.00 amu** (Incorrect) -> EXPLANATION: This is simply the mass of the lighter isotope. While 63 is the more abundant isotope, the presence of the heavier isotope (65) at 30.8% abundance raises the average above 63.
+
+- Question 4: Which of the following correctly explains why the atomic radius of sodium (Na) is larger than the atomic radius of chlorine (Cl), even though chlorine has a higher atomic number?
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
-- Question 3:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
-- Question 4:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+
 - Question 5:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
+
 - Question 6:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
+
 - Question 7:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
+
 - Question 8:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
+
 - Question 9:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
+
 - Question 10:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

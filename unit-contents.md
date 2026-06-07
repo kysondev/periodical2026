@@ -237,13 +237,14 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
   - (A) **CCl4 has more electrons than CH4, which makes its electron cloud more polarizable, resulting in stronger London dispersion forces that require more energy to overcome during boiling.** (Correct) -> EXPLANATION: Both CH4 and CCl4 are nonpolar and rely solely on London dispersion forces. CCl4 has significantly more electrons (50 vs 10), making its electron cloud much more polarizable and capable of forming stronger temporary dipoles. Stronger London dispersion forces mean a higher boiling point.
   - (B) **CCl4 has a higher boiling point because it contains chlorine, which forms hydrogen bonds with itself.** (Incorrect) -> EXPLANATION: Hydrogen bonds require hydrogen to be bonded to oxygen, nitrogen, or fluorine. Chlorine does not participate in hydrogen bonding. CCl4 has no hydrogen atoms at all, so hydrogen bonding is impossible in this molecule.
   - (C) **CH4 has a higher boiling point because it has more hydrogen atoms, which create stronger dipole-dipole interactions.** (Incorrect) -> EXPLANATION: This answer is false for two reasons: CH4 does not have a higher boiling point than CCl4, and CH4 is a nonpolar molecule that does not show dipole-dipole interactions. Its only intermolecular force is London dispersion.
-  - (D) **** (Incorrect) -> EXPLANATION:
+  - (D) **CCl4 has stronger ionic bonds than CH4, which is why it takes more energy to separate the molecules.** (Incorrect) -> EXPLANATION: Both CH4 and CCl4 are covalent molecular compounds. Neither contains ionic bonds. The forces between their individual molecules are intermolecular forces, not ionic bonds.
 
-- Question 2:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 2: A gas has a pressure of 2.0 atm and a volume of 3.0 L at a constant temperature. If the volume is increased to 6.0 L, what is the new pressure?
+  - (A) **4.0 atm** (Incorrect) -> EXPLANATION: This answer doubles the pressure instead of halving it. According to Boyle's Law, pressure and volume are inversely proportional. Increasing the volume decreases the pressure. Doubling the volume must halve the pressure.
+  - (B) **2.0 atm** (Incorrect) -> EXPLANATION: This would mean pressure stayed the same despite a change in volume. According to Boyle's Law, when volume changes at constant temperature, pressure must change inversely. The pressure cannot remain at 2.0 atm if the volume doubles.
+  - (C) **1.0 atm** (Correct) -> EXPLANATION: Using Boyle's Law: P1V1 = P2V2. (2.0 atm)(3.0 L) = P2(6.0 L). 6.0 = 6.0 * P2. P2 = 1.0 atm. As volume doubles from 3.0 L to 6.0 L, the pressure is halved from 2.0 atm to 1.0 atm, consistent with the inverse relationship between pressure and volume.
+  - (D) **3.0 atm** (Incorrect) -> EXPLANATION: 3.0 atm has no mathematical basis from the given values. It does not result from correctly applying Boyle's Law. A pressure of 3.0 atm would require the volume to be compressed, not expanded.
+
 - Question 3:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

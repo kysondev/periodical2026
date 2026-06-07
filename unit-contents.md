@@ -73,11 +73,11 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (A) **They are valence electrons with a strong attraction to the nucleus.** (Incorrect) -> EXPLANATION: Valence electrons are in the outermost shell and are the farthest from the nucleus, so they have the lowest binding energies, not the highest. A high binding energy peak corresponds to core electrons, not valence electrons.
   - (B) **They are core electrons that are located close to the nucleus and require a large amount of energy to remove, and the small peak height indicates there are very few of them.** (Correct) -> EXPLANATION: In PES, peaks at higher binding energies correspond to electrons closer to the nucleus, which experience a stronger electrostatic attraction. The height of a peak is proportional to the number of electrons in that sublevel, so a small height means few electrons are present in that subshell.
   - (C) **They are electrons in an excited state that have absorbed energy and moved to a higher orbital.** (Incorrect) -> EXPLANATION: PES measures electrons in their ground state. The binding energy measured corresponds to how strongly electrons are held in their normal orbital positions, not in excited states.
-  - (D) **** (Incorrect) -> EXPLANATION:
+  - (D) **They are shielding electrons that block the outer electrons from feeling the nuclear charge.** (Incorrect) -> EXPLANATION: While inner electrons do provide shielding, the PES peak at high binding energy specifically tells us those electrons require a lot of energy to remove which means they are strongly attracted to the nucleus. Shielding is a concept, not a label for a type of electron that PES measures.
 
-- Question 7:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
+- Question 7: Element X has an electron configuration ending in 2p⁴. Which of the following best explains why element X has a high electronegativity but a lower ionization energy than the element immediately to its right on the periodic table?
+  - (A) **Element X has fewer protons than the element to its right, so the nuclear charge is lower, making it slightly easier to remove an electron. However, element X still strongly attracts shared electrons in a bond because its atomic radius is small and the nucleus is close to the bonding electrons.** (Correct) -> EXPLANATION: Moving left to right across a period, both ionization energy and electronegativity increase with nuclear charge. The element to the right of X (2p⁵) has one more proton, giving it a higher ionization energy. X still has high electronegativity because its small atomic radius keeps bonding electrons close to its nucleus.
+  - (B) **** (Incorrect) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
 

@@ -88,16 +88,16 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (D) **0.25 moles** (Incorrect) -> EXPLANATION: 0.25 moles would contain 0.25 × 6.022 × 10^23 = 1.5055 × 10^23 atoms. This is one quarter of Avogadro's number, not the half that is given in the problem.
 
 - Question 9: A compound has the molecular formula C6H12O6. What is the percent composition by mass of carbon in this compound? (Molar masses: C = 12 g/mol, H = 1 g/mol, O = 16 g/mol)
-  - (A) **50.0%** (Incorrect) -> EXPLANATION:
-  - (B) **46.7%** (Incorrect) -> EXPLANATION:
-  - (C) **40.0%** (Correct) -> EXPLANATION:
-  - (D) **6.67%** (Incorrect) -> EXPLANATION:
+  - (A) **50.0%** (Incorrect) -> EXPLANATION: This would imply that carbon makes up half the molar mass of glucose. The total molar mass of C6H12O6 is (6 * 12) + (12 * 1) + (6 * 16) = 72 + 12 + 96 = 180 g/mol. Carbon contributes 72 g/mol, and 72/180 = 40%, not 50%.
+  - (B) **46.7%** (Incorrect) -> EXPLANATION: This value does not result from the correct calculation. It may come from incorrectly using only some of the atoms or using wrong molar masses. The correct calculation gives 72/180 × 100 = 40.0%.
+  - (C) **40.0%** (Correct) -> EXPLANATION: Percent composition = (mass of element in 1 mole / total molar mass) * 100. Total molar mass = (6 * 12) + (12 * 1) + (6 * 16) = 72 + 12 + 96 = 180 g/mol. Carbon's contribution = 72 g/mol. Percent composition = (72/180) * 100 = 40.0%.
+  - (D) **6.67%** (Incorrect) -> EXPLANATION: This would result from dividing the number of carbon atoms (6) by the total number of atoms in the formula (6+12+6=24), which is 6/24 = 25%, or from a completely different incorrect calculation. Percent composition is based on mass, not on the count of atoms.
 
-- Question 10:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
+- Question 10: Which of the following correctly ranks the ionization energies of Li, Na, and K from highest to lowest, and provides the correct justification?
+  - (A) **K > Na > Li because potassium has the most electrons and therefore the most shielding.** (Incorrect) -> EXPLANATION: More shielding actually makes it easier to remove the outermost electron, which would lower ionization energy, not raise it. Potassium has the most electron shells and the most shielding, giving it the lowest ionization energy.
+  - (B) **Li = Na = K because they are all in Group 1 and have the same number of valence electrons.** (Incorrect) -> EXPLANATION: While all three elements are in Group 1 and each has one valence electron, the distance of that valence electron from the nucleus and the amount of shielding are not the same. These factors cause significant differences in ionization energy across the group.
+  - (C) **Na > Li > K because sodium is in the middle of the group and has balanced shielding and nuclear charge.** (Incorrect) -> EXPLANATION: There is no chemical principle that gives middle-group elements the highest ionization energy. Ionization energy consistently decreases down a group as atomic radius increases and shielding increases.
+  - (D) **Li > Na > K because as you move down Group 1, each element adds an additional electron shell, increasing the atomic radius and shielding, which reduces the effective nuclear charge felt by the outermost electron and lowers the ionization energy** (Correct) -> EXPLANATION: Ionization energy decreases down a group. Li has its valence electron in the 2nd shell, Na in the 3rd, and K in the 4th. Each additional shell increases distance and shielding, making the outermost electron easier to remove and lowering ionization energy from Li to Na to K.
 
 # Unit 2
  ### Vocabulary List:
@@ -128,10 +128,10 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 ### Real World Connection:
 - Molecular shapes are important because they determine how molecules interact with receptors, which are specialized proteins on cells. This molecule and receptor idea explains how we taste things. Flavors like sweet, sour, salty, and bitter happen when molecules or ions in food fit into specific taste receptors on our tongue. When that happens, the receptors send signals to our brain, and that is how we actually experience flavor.
 ### Quiz:
-- Question 1:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
+- Question 1: A student draws a Lewis structure for SO₃ and assigns a formal charge of +2 to the sulfur atom. Which of the following best explains whether this Lewis structure is the most valid representation?
+  - (A) **The structure is valid because sulfur is a metal and can hold any number of electrons.** (Incorrect) -> EXPLANATION:
+  - (B) **** (Incorrect) -> EXPLANATION:
+  - (C) **** (Correct) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
 - Question 2:
   - (A) **** (Incorrect) -> EXPLANATION:

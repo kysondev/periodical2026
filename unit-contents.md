@@ -256,19 +256,22 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
   - (B) **At high pressure, gas molecules lose kinetic energy, causing them to slow down and deviate from ideal behavior.** (Incorrect) -> EXPLANATION: Kinetic energy depends on temperature, not pressure directly. At constant temperature, changing pressure does not alter average kinetic energy. The deviation at high pressure is caused by the finite volume of molecules crowding together.
   - (C) **At high pressure, the intermolecular forces between gas molecules disappear, causing the gas to behave more ideally.** (Incorrect) -> EXPLANATION: This is the opposite of what happens. At high pressure, gas molecules are closer together, making intermolecular forces more significant; not less. Ideal gases are assumed to have zero intermolecular forces (zero IMF), and real gases deviate from this assumption most at high pressure.
   - (D) **At high pressure, gas molecules are forced close together, so the actual volume of the molecules becomes significant and intermolecular forces become stronger, both of which violate the assumptions of the Ideal Gas Law.** (Correct) -> EXPLANATION: The Ideal Gas Law assumes gas particles have zero volume and zero intermolecular forces. At high pressure, molecules are compressed into a smaller space, making their actual molecular volumes non-negligible and bringing them close enough for intermolecular attractions to matter. Both factors cause real gases to deviate from ideal predictions.
-- Question 5:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
-- Question 6:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
-  - (C) **** (Incorrect) -> EXPLANATION:
-  - (D) **** (Incorrect) -> EXPLANATION:
-- Question 7:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
+
+- Question 5: Two gas samples are at the same temperature. Sample A contains H2 molecules and Sample B contains O2 molecules. Which of the following is true about the average kinetic energies and average speeds of the molecules in both samples?
+  - (A) **Both average kinetic energy and average speed are greater for O2 because it has more electrons and stronger intermolecular forces.** (Incorrect) -> EXPLANATION: Intermolecular forces are not relevant to kinetic energy or speed in an ideal gas context. At the same temperature, average kinetic energy is equal for both gases. O2 molecules are heavier, which actually makes them move slower on average, not faster.
+  - (B) **Average kinetic energy is the same for both samples, but H₂ molecules have a higher average speed because they have a much lower molar mass.** (Correct) -> EXPLANATION: At the same temperature, all gas molecules have the same average kinetic energy (KE = mv^2 / 2). Since H2 has a much lower molar mass (2 g/mol) compared to O2 (32 g/mol), and kinetic energy is equal, H₂ molecules must be moving faster to compensate for their lower mass. This is directly shown by Maxwell-Boltzmann distributions.
+  - (C) **Average speed is the same for both samples because temperature determines speed, and both are at the same temperature.** (Incorrect) -> EXPLANATION: Temperature determines average kinetic energy, not average speed directly. Since KE = mv^2 / 2, two molecules with different masses at the same KE will have different speeds. The lighter molecule (H2) must move faster to have the same kinetic energy as the heavier molecule (O2).
+  - (D) **O2 molecules have higher kinetic energy because they have more mass, and more mass means more energy.** (Incorrect) -> EXPLANATION: At the same temperature, all gas molecules regardless of mass have the same average kinetic energy. Temperature, not mass, determines average kinetic energy in gas behavior.
+
+- Question 6: A solution is prepared by dissolving NaCl in water. A student claims this solution is an electrolyte. Which of the following best justifies or refutes this claim?
+  - (A) **The claim is incorrect because NaCl is an ionic compound, and ionic compounds cannot dissolve in polar solvents.** (Incorrect) -> EXPLANATION: Ionic compounds like NaCl dissolve readily in polar solvents like water due to ion-dipole interactions. The claim that ionic compounds cannot dissolve in polar solvents is chemically false.
+  - (B) **The claim is incorrect because only covalent compounds can conduct electricity in solution.** (Incorrect) -> EXPLANATION: This is the opposite of the truth. Covalent molecular compounds generally do not produce ions when dissolved in water and therefore do not conduct electricity well. Ionic compounds like NaCl dissociate into ions, enabling electrical conduction.
+  - (C) **The claim is correct because when NaCl dissolves, it dissociates into Na⁺ and Cl⁻ ions, and the presence of free-moving ions in solution allows the solution to conduct electricity.** (Correct) -> EXPLANATION: An electrolyte is a substance that conducts electricity when dissolved in water. NaCl fully dissociates into Na+ and Cl- ions when dissolved. These freely moving charged particles allow the solution to have electric currents, confirming it is an electrolyte.
+  - (D) **The claim is correct because all solutions that contain water can conduct electricity due to water's polarity.** (Incorrect) -> EXPLANATION: Pure water and nonpolar solutes dissolved in water conduct electricity very poorly because there are insufficient free ions. It is specifically the dissociation into ions that allows conduction, not water's polarity alone.
+
+- Question 7: A chemist wants to separate a mixture of two liquids with different boiling points. Which separation technique should they use, and why?
+  - (A) **Distillation, because it separates liquid mixtures by evaporating the more volatile component first and then condensing it separately, taking advantage of differences in boiling points.** (Correct) -> EXPLANATION: Distillation is a process that separates liquid mixtures by evaporation and condensation. The liquid with the lower boiling point vaporizes first, travels through a condenser, and is collected separately. This directly exploits differences in boiling points between the two liquids.
+  - (B) **** (Incorrect) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
 - Question 8:

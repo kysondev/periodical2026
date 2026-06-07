@@ -79,15 +79,15 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 - Intramolecular forces: Intramolecular forces are the forces that hold atoms together within a molecule or compound, such as covalent, ionic, and metallic bonds.
 
 ### Main Takeaways:
-- Takeaway 1
-- Takeaway 2
-- Takeaway 3
-- Takeaway 4
-- Takeaway 5
+- VSEPR theory shows that electron groups spread out as much as possible, which creates specific shapes like tetrahedral or bent. Those shapes affect things like polarity, bond angles, and even how reactive the molecule is. Hybridization connects to this because it explains how orbitals mix together to match those shapes and bonding patterns.
+- A molecule is not automatically polar just because it has polar bonds. You also have to look at the shape of the molecule to see if the dipoles cancel out or not. For example, some molecules have polar bonds but are still nonpolar because the shape is perfectly symmetrical. This idea helps explain why different substances dissolve differently and why some molecules have stronger attractions than others.
+- Ionic, covalent, and metallic bonding all involve electrons, but they work in different ways and give substances different properties. Ionic bonds happen when electrons are transferred, covalent bonds happen when electrons are shared, and metallic bonding involves electrons moving freely through metals. These differences explain why metals conduct electricity, why ionic compounds are brittle, and why covalent compounds can be gases, liquids, or solids.
+- Lewis structures show how electrons are arranged in molecules. Once you know how to draw them correctly using the octet rule, resonance, and formal charges, it becomes easier to figure out molecular geometry, polarity, and hybridization. A correct Lewis structure is usually the starting point for solving almost every problem in this topic. They’re basically the foundation for understanding molecular chemistry.
+- Single bonds are longer and weaker, while double and triple bonds are shorter and stronger because more electrons are being shared between atoms. Stronger bonds need more energy to break, which affects how stable and reactive molecules are. This helps explain why different molecules behave differently during chemical reactions.
 ### Misconception:
-- A misconception is xxxx
+- A misconception is Intermolecular forces vs Intramolecular forces are a common concept where people misidentify dashed lines in diagrams to represent intramolecular covalent bonds within a molecule rather than intermolecular forces between molecules, particularly when analyzing diagrams. Intramolecular forces are the bonds in a molecule (covalent, Ionic, metallic) while intermolecular forces are attractions between molecules.
 ### Real World Connection:
-- Paragraph connecting unit to real world...
+- Molecular shapes are important because they determine how molecules interact with receptors, which are specialized proteins on cells. This molecule and receptor idea explains how we taste things. Flavors like sweet, sour, salty, and bitter happen when molecules or ions in food fit into specific taste receptors on our tongue. When that happens, the receptors send signals to our brain, and that is how we actually experience flavor. 
 ### Quiz:
 - Question 1
   - Answer Choice A

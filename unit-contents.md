@@ -158,9 +158,9 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
   - (C) **PCl5 is an example of an expanded octet because phosphorus is in period 3 and has access to d orbitals, allowing it to accommodate more than 8 valence electrons.** (Correct) -> EXPLANATION: The expanded octet occurs when an atom holds more than 8 valence electrons around it. This is possible for nonmetals in period 3 or higher because they have available d orbitals. Phosphorus (period 3) in PCl5 has 10 electrons around it (5 bonding pairs).
   - (D) **PCl5 cannot exist as a molecule because no atom can form more than 4 bonds.** (Incorrect) -> EXPLANATION: While carbon and other period 2 elements are limited to 4 bonds due to the absence of d orbitals, period 3 and higher elements like phosphorus can form more than 4 bonds using available d orbitals, as demonstrated by the real and stable molecule PCl5.
 
-- Question 6:
-  - (A) **** (Incorrect) -> EXPLANATION:
-  - (B) **** (Correct) -> EXPLANATION:
+- Question 6: The molecule SO2 can be represented by two valid Lewis structures where the double bond switches between the two oxygen atoms. Which of the following best describes this situation?
+  - (A) **The molecule rapidly switches between the two structures at room temperature, spending equal time as each.** (Incorrect) -> EXPLANATION: Resonance does not mean the molecule physically flips between structures. This is a common misconception. The molecule does not alternate between two forms; it exists as one hybrid structure simultaneously.
+  - (B) **The two structures represent resonance, meaning the actual molecule is a hybrid of both valid Lewis structures, with the true bond character being intermediate between a single and double bond to each oxygen.** (Correct) -> EXPLANATION: Resonance occurs when multiple valid Lewis structures can be drawn for the same molecule. The actual molecule is not either structure but a resonance hybrid, meaning the electrons are delocalized and the bonds to each oxygen are equivalent; somewhere between a single and double bond.
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
 - Question 7:

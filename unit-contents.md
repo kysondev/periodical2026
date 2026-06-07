@@ -278,13 +278,15 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
 - Question 8: A solution of a dye is analyzed using a spectrophotometer. At a given wavelength, the solution at concentration 0.10 M shows an absorbance of 0.20. A second sample of the same dye shows an absorbance of 0.60 at the same wavelength. Using Beer-Lambert Law, what is the concentration of the second sample?
   - (A) **0.10 M** (Incorrect) -> EXPLANATION: This is the concentration of the first sample. At a concentration of 0.10 M, the absorbance was 0.20. Since the second sample has an absorbance of 0.60 (which is 3 times greater) its concentration must also be 3 times greater than 0.10 M.
   - (B) **0.30 M** (Correct) -> EXPLANATION: According to Beer-Lambert Law, absorbance is directly proportional to concentration: A = Elc. Since the path length and molar absorptivity are constant, A1/c1 = A2/c2. (0.20) / (0.10 M) = (0.60) / c2. c2 = (0.60 * 0.10) / 0.20 = 0.30 M. The absorbance tripled, so the concentration also tripled.
-  - (C) **0.60 M** (Incorrect) -> EXPLANATION: This confuses the absorbance value with the concentration. The absorbance of 0.60 is the measured optical signal, not the concentration. Applying Beer-Lambert Law proportionally gives 0.30 M, not 0.60 M.
-  - (D) **0.06 M** (Incorrect) -> EXPLANATION:
-- Question 9:
-  - (A) **** (Incorrect) -> EXPLANATION:
+  - (C) **0.60 M** (Incorrect) -> EXPLANATION: This confuses the absorbance value with the concentration. The absorbance of 0.60 is the measured visual signal, not the concentration. Applying Beer-Lambert Law proportionally gives 0.30 M, not 0.60 M.
+  - (D) **0.06 M** (Incorrect) -> EXPLANATION: This might result from dividing the absorbance values incorrectly (0.20 * 0.60 * 0.10 / some incorrect arrangement). The correct proportional reasoning: if 0.10 M gives A = 0.20, then a sample with A = 0.60 (3× higher) has a concentration of 3 * 0.10 = 0.30 M.
+
+- Question 9: A student compares two substances: one is a metallic solid and the other is a covalent network solid like diamond. Both have extremely high melting points. Which of the following correctly distinguishes the reason each has a high melting point?
+  - (A) **Both have high melting points for the same reason: strong London dispersion forces throughout the solid.** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:
   - (C) **** (Incorrect) -> EXPLANATION:
   - (D) **** (Incorrect) -> EXPLANATION:
+
 - Question 10:
   - (A) **** (Incorrect) -> EXPLANATION:
   - (B) **** (Correct) -> EXPLANATION:

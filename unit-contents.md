@@ -39,84 +39,32 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 ### Real World Connection:
 - In crime scenes investigation, forensic scientists often use mass spectrometry as a way to identify the unknown substance by measuring their mass and composition. This connects to the moles and molar mass concept since scientists have to convert the masses of these tiny particles into measurable amounts in grams and moles in order to determine what the substance is actually made of. Percent composition and empirical formula is also used as a way to identify the drug or unknown substance through breaking it down. Once it is known, chemists can match it to known compounds in their date base. An example of this would be that Michelle Evans, a forensic chemist who works for the Bureau of Alcohol, Tobacco, Firearms, and Explosives., investigated the burning of a bone of two young women who died in an explosion looking into the bones using a mass spectrometer to identify molecules from the explosion in this case. The results from the explosion were hydrocarbons and presents of potassium and chlorine that can signal compounds of potassium chlorate or potassium perchlorate.
 ### Quiz:
-- Question 1: An atom of element X has 17 protons and 18 neutrons. A second atom of the same element has 17 protons and 20 neutrons. Which of the following best describes the relationship between these two atoms?
-  - (A) **They are different elements because they have different mass numbers.** (Incorrect) -> EXPLANATION: The identity of an element is determined solely by its number of protons, not its atomic mass number. Both atoms have 17 protons, so they are the same element
-  - (B) **They are ions because they have different numbers of neutrons.** (Incorrect) -> EXPLANATION: Ions are formed when an atom gains or loses electrons, not when neutron count changes. Neutron count has no effect on charge
-  - (C) **They are isotopes because they have the same number of protons but different numbers of neutrons.** (Correct) -> EXPLANATION: Isotopes are atoms of the same element that have the same number of protons but differ in terms of number of neutrons. Both atoms are chlorine (17 protons) but have different amount of neutrons (18 vs. 20).
-  - (D) **They are the same atom because they belong to the same element and have the same mass number.** (Incorrect) -> EXPLANATION: Their mass numbers are actually different: 17+18=35 vs. 17+20=37. They are not identical atoms but they are isotopes.
-
-- Question 2: A neutral atom of carbon-14 has 6 protons and 8 neutrons. If this atom loses 2 electrons, which of the following correctly describes the resulting ion?
-  - (A) **It becomes C2+ with 6 protons, 8 neutrons, and 4 electrons.** (Correct) -> EXPLANATION: Losing 2 electrons from a neutral carbon atom (which originally had 6 electrons) leaves 4 electrons. Since the atom now has more protons than electrons, it carries a +2 charge, forming a cation (C2+).
-  - (B) **It becomes a new element because the nuclear charge has changed.** (Incorrect) -> EXPLANATION: Nuclear charge is determined by the number of protons. Removing electrons does not change the number of protons, so the element remains carbon.
-  - (C) **It becomes an anion with a charge of −2 because electrons are negative.** (Incorrect) -> EXPLANATION: Losing electrons removes negative charge from the atom. When electrons are lost, the atom becomes more positive, forming a cation, not an anion. An anion forms when electrons are gained.
-  - (D) **It becomes C-12 because losing neutrons lowers the mass number.** (Incorrect) -> EXPLANATION: Electrons are not neutrons. Losing electrons does not change the mass number. The mass number is only the sum of protons and neutrons (6 + 8 = 14), which remains unchanged.
-
-- Question 3: The mass spectrum of an element shows two peaks: one at mass 63 with a relative abundance of 69.2% and one at mass 65 with a relative abundance of 30.8%. What is the atomic mass of this element?
-  - (A) **63.62 amu** (Correct) -> EXPLANATION: Atomic mass is calculated as the weighted average: (63 × 0.692) + (65 × 0.308) = 43.596 + 20.02 = 63.616 ≈ 63.62 amu. This matches copper on the periodic table.
-  - (B) **64.00 amu** (Incorrect) -> EXPLANATION: This would only be correct if both isotopes had exactly equal abundances of 50% each. Since the lighter isotope (63) is significantly more abundant at 69.2%, the weighted average must be pulled closer to 63, not exactly at 64.
-  - (C) **65.00 amu** (Incorrect) -> EXPLANATION: This is simply the mass of the heavier isotope. Atomic mass requires a weighted average calculation using the relative abundances of all isotopes, not just selecting one isotope's mass.
-  - (D) **63.00 amu** (Incorrect) -> EXPLANATION: This is simply the mass of the lighter isotope. While 63 is the more abundant isotope, the presence of the heavier isotope (65) at 30.8% abundance raises the average above 63.
-
-- Question 4: Which of the following correctly explains why the atomic radius of sodium (Na) is larger than the atomic radius of chlorine (Cl), even though chlorine has a higher atomic number?
-  - (A) **Chlorine has more protons than sodium, which creates a stronger nuclear pull that draws the electrons closer to the nucleus, decreasing the atomic radius.** (Correct) -> EXPLANATION: Across period 3, the number of protons increases from Na (11) to Cl (17). More protons increase the nuclear charge without adding new electron shells. This stronger attraction pulls the electrons inward, shrinking the atomic radius.
-  - (B) **Sodium has more neutrons than chlorine, which pushes the electrons outward and increases the radius.** (Incorrect) -> EXPLANATION: Neutrons contribute to atomic mass number but do not exert electrostatic force on electrons. Neutron count does not determine atomic radius.
-  - (C) **Chlorine has more electrons, which causes greater shielding and therefore a smaller radius.** (Incorrect) -> EXPLANATION: While chlorine does have more electrons, those additional electrons in the same period are added to the same shell;they do not add a new shielding layer. The main effect is the increased nuclear charge, not additional shielding.
-  - (D) **Sodium is a metal and metals are always larger than nonmetals regardless of electron configuration.** (Incorrect) -> EXPLANATION: While metals on the left side of the periodic table are often larger, this is because of lower nuclear charge, not simply because they are metals. This is a correlation, not the actual chemical cause.
-
-- Question 5: A compound is analyzed and found to contain 40.0% carbon, 6.7% hydrogen, and 53.3% oxygen by mass. What is the empirical formula of this compound?
-  - (A) **C2H4O2** (Incorrect) -> EXPLANATION: This is actually a molecular formula, not an empirical formula. C2H4O2 simplifies to CH2O, which is the empirical formula. The question asks for the simplest whole number ratio.
-  - (B) **C3H6O3** (Incorrect) -> EXPLANATION: C3H6O3 is also a molecular formula that reduces to CH2O. It does not represent the simplest ratio. Additionally, you cannot derive C₃H₆O₃ directly from the given percentages without using a separate molar mass.
-  - (C) **CH4O** (Incorrect) -> EXPLANATION: This formula gives a C-H-O ratio of 1:4:1, which does not match the calculation. Converting the percentages to moles gives C: 40/12=3.33, H: 6.7/1=6.7, O: 53.3/16=3.33, giving a 1:2:1 ratio, not 1:4:1.
-  - (D) **CH2O** (Correct) -> EXPLANATION: Using the percentages as grams and dividing by molar mass: C = 40/12 = 3.33 mol, H = 6.7/1 = 6.7 mol, O = 53.3/16 = 3.33 mol. Dividing each by 3.33 gives a 1:2:1 ratio, so the empirical formula is CH2O.
-
-- Question 6: In a photoelectron spectroscopy (PES) spectrum, one peak appears at a very high binding energy and has a very small relative height. What does this tell you about the electrons represented by that peak?
-  - (A) **They are valence electrons with a strong attraction to the nucleus.** (Incorrect) -> EXPLANATION: Valence electrons are in the outermost shell and are the farthest from the nucleus, so they have the lowest binding energies, not the highest. A high binding energy peak corresponds to core electrons, not valence electrons.
-  - (B) **They are core electrons that are located close to the nucleus and require a large amount of energy to remove, and the small peak height indicates there are very few of them.** (Correct) -> EXPLANATION: In PES, peaks at higher binding energies correspond to electrons closer to the nucleus, which experience a stronger electrostatic attraction. The height of a peak is proportional to the number of electrons in that sublevel, so a small height means few electrons are present in that subshell.
-  - (C) **They are electrons in an excited state that have absorbed energy and moved to a higher orbital.** (Incorrect) -> EXPLANATION: PES measures electrons in their ground state. The binding energy measured corresponds to how strongly electrons are held in their normal orbital positions, not in excited states.
-  - (D) **They are shielding electrons that block the outer electrons from feeling the nuclear charge.** (Incorrect) -> EXPLANATION: While inner electrons do provide shielding, the PES peak at high binding energy specifically tells us those electrons require a lot of energy to remove which means they are strongly attracted to the nucleus. Shielding is a concept, not a label for a type of electron that PES measures.
-
-- Question 7: Element X has an electron configuration ending in 2p4. Which of the following best explains why element X has a high electronegativity but a lower ionization energy than the element immediately to its right on the periodic table?
-  - (A) **Element X has fewer protons than the element to its right, so the nuclear charge is lower, making it slightly easier to remove an electron. However, element X still strongly attracts shared electrons in a bond because its atomic radius is small and the nucleus is close to the bonding electrons.** (Correct) -> EXPLANATION: Moving left to right across a period, both ionization energy and electronegativity increase with nuclear charge. The element to the right of X (2p5) has one more proton, giving it a higher ionization energy. X still has high electronegativity because its small atomic radius keeps bonding electrons close to its nucleus.
-  - (B) **Element X has a larger atomic radius than the element to its right, which makes it easier to remove electrons but harder for the nucleus to attract bonding electrons.** (Incorrect) -> EXPLANATION: Across a period, atomic radius decreases from left to right. The element to the right of X actually has a smaller or equal atomic radius. Also, a larger radius would reduce electronegativity, not maintain it.
-  - (C) **Element X is in an excited state which lowers its ionization energy while increasing its electronegativity.** (Incorrect) -> EXPLANATION: Ionization energy and electronegativity are defined based on the ground state of an atom. Excited state configurations are temporary and are not used to compare periodic trends between elements.
-  - (D) **The shielding from element X's inner electrons reduces the nuclear charge felt by the outermost electrons, explaining both the lower ionization energy and lower electronegativity compared to the element to its right.** (Incorrect) -> EXPLANATION: This partially explains a lower ionization energy but contradicts the claim of high electronegativity. If shielding greatly reduced effective nuclear charge, electronegativity would also be low. The high electronegativity of X is due to its small atomic radius and significant nuclear charge, not despite it.
-
-- Question 8: How many moles are in 3.011 × 10^23 atoms of helium?
-  - (A) **2 moles** (Incorrect) -> EXPLANATION: 2 moles would contain 2 × 6.022 × 10^23 = 1.2044 × 10^24 atoms. The given value of 3.011 × 10^23 is exactly half of Avogadro's number, which equals 0.5 moles, not 2.
-  - (B) **1 mole** (Incorrect) -> EXPLANATION: 1 mole contains exactly 6.022 × 10^23 particles. The given number 3.011 × 10^23 is half of Avogadro's number, so it represents only 0.5 moles.
-  - (C) **0.5 moles** (Correct) -> EXPLANATION: Using the formula: # of moles = # of particles / Avogadro's number. 3.011 × 10^23 / 6.022 × 10^23 = 0.5 moles. Since 3.011 × 10^23 is exactly half of Avogadro's number, the answer is 0.5 moles of helium.
-  - (D) **0.25 moles** (Incorrect) -> EXPLANATION: 0.25 moles would contain 0.25 × 6.022 × 10^23 = 1.5055 × 10^23 atoms. This is one quarter of Avogadro's number, not the half that is given in the problem.
-
-- Question 9: A compound has the molecular formula C6H12O6. What is the percent composition by mass of carbon in this compound? (Molar masses: C = 12 g/mol, H = 1 g/mol, O = 16 g/mol)
-  - (A) **50.0%** (Incorrect) -> EXPLANATION: This would imply that carbon makes up half the molar mass of glucose. The total molar mass of C6H12O6 is (6 * 12) + (12 * 1) + (6 * 16) = 72 + 12 + 96 = 180 g/mol. Carbon contributes 72 g/mol, and 72/180 = 40%, not 50%.
-  - (B) **46.7%** (Incorrect) -> EXPLANATION: This value does not result from the correct calculation. It may come from incorrectly using only some of the atoms or using wrong molar masses. The correct calculation gives 72/180 × 100 = 40.0%.
-  - (C) **40.0%** (Correct) -> EXPLANATION: Percent composition = (mass of element in 1 mole / total molar mass) * 100. Total molar mass = (6 * 12) + (12 * 1) + (6 * 16) = 72 + 12 + 96 = 180 g/mol. Carbon's contribution = 72 g/mol. Percent composition = (72/180) * 100 = 40.0%.
-  - (D) **6.67%** (Incorrect) -> EXPLANATION: This would result from dividing the number of carbon atoms (6) by the total number of atoms in the formula (6+12+6=24), which is 6/24 = 25%, or from a completely different incorrect calculation. Percent composition is based on mass, not on the count of atoms.
-
-- Question 10: Which of the following correctly ranks the ionization energies of Li, Na, and K from highest to lowest, and provides the correct justification?
-  - (A) **K > Na > Li because potassium has the most electrons and therefore the most shielding.** (Incorrect) -> EXPLANATION: More shielding actually makes it easier to remove the outermost electron, which would lower ionization energy, not raise it. Potassium has the most electron shells and the most shielding, giving it the lowest ionization energy.
-  - (B) **Li = Na = K because they are all in Group 1 and have the same number of valence electrons.** (Incorrect) -> EXPLANATION: While all three elements are in Group 1 and each has one valence electron, the distance of that valence electron from the nucleus and the amount of shielding are not the same. These factors cause significant differences in ionization energy across the group.
-  - (C) **Na > Li > K because sodium is in the middle of the group and has balanced shielding and nuclear charge.** (Incorrect) -> EXPLANATION: There is no chemical principle that gives middle-group elements the highest ionization energy. Ionization energy consistently decreases down a group as atomic radius increases and shielding increases.
-  - (D) **Li > Na > K because as you move down Group 1, each element adds an additional electron shell, increasing the atomic radius and shielding, which reduces the effective nuclear charge felt by the outermost electron and lowers the ionization energy** (Correct) -> EXPLANATION: Ionization energy decreases down a group. Li has its valence electron in the 2nd shell, Na in the 3rd, and K in the 4th. Each additional shell increases distance and shielding, making the outermost electron easier to remove and lowering ionization energy from Li to Na to K.
+- Question 1
+  - Answer Choice A
+  - Answer Choice B
+  - Answer Choice C (Correct Choice)
+  - Answer Choice D
+- Question 2
+  - Answer Choice A
+  - Answer Choice B (Correct Choice)
+  - Answer Choice C
+  - Answer Choice D
+- Question 3
+  - Answer Choice A (Correct Choice)
+  - Answer Choice B
+  - Answer Choice C
+  - Answer Choice D
+- Question 4
+  - Answer Choice A
+  - Answer Choice B
+  - Answer Choice C
+  - Answer Choice D (Correct Choice)
 
 # Unit 2
  ### Vocabulary List:
-- Formal Charge: (# of Valence Electrons) - (# of Nonbonding Electrons) - (# of Bonding Electrons ​/ 2)
-- Resonance: occurs when multiple valid Lewis structures can be drawn. The actual molecule is a hybrid of all valid forms.
-- Covalent Bonds: formed when nonmetal atoms share electron pairs.
-- VSEPR: (Valence Shell Electron Pair Repulsion) predicts geometry by minimizing electron group repulsion around the central atom.
-- Metallic Bonding: involves a “sea” of delocalized electrons surrounding positive metal ion cores.
-- Lewis Structure: diagram that shows the arrangement of valence electrons in a molecule or ion, including bonds and lone pairs.
-- Octet rule: atoms tend to gain, lose, or share electrons in order to achieve 8 valence electrons, making them more stable like noble gases.
-- Bond polarity: uneven sharing of electrons in a bond caused by differences in electronegativity between atoms. The more electronegative atom pulls the shared electrons closer to itself, creating partial positive and negative charges.
-- Molecular polarity: refers to the overall distribution of charge in a molecule and depends on both bond polarity and molecular shape. A molecule is polar if its charges are unevenly distributed.
-- Expanded octet: occurs when an atom has more than 8 valence electrons. This usually happens with nonmetals in period 3 or higher because they have extra orbitals available.
-- Lone pairs: pairs of valence electrons that are not involved in bonding and belong to only one atom. They affect molecular shape and bond angles because they repel other electrons strongly.
-- Ionic bonds:formed when electrons are transferred from one atom to another, creating positively and negatively charged ions that are held together by electrostatic attraction.
-- Hybridization: mixing of atomic orbitals to form new hybrid orbitals that explain bonding and molecular geometry in molecules.
-- Bond angles: Angles formed between bonds around a central atom in a molecule. They are determined by electron repulsion and molecular geometry.
-- Intramolecular forces: Intramolecular forces are the forces that hold atoms together within a molecule or compound, such as covalent, ionic, and metallic bonds.
-
+ - Vocab 1
+ - Vocab 2
+ - Vocab 3
 ### Main Takeaways:
 - VSEPR theory shows that electron groups spread out as much as possible, which creates specific shapes like tetrahedral or bent. Those shapes affect things like polarity, bond angles, and even how reactive the molecule is. Hybridization connects to this because it explains how orbitals mix together to match those shapes and bonding patterns.
 - A molecule is not automatically polar just because it has polar bonds. You also have to look at the shape of the molecule to see if the dipoles cancel out or not. For example, some molecules have polar bonds but are still nonpolar because the shape is perfectly symmetrical. This idea helps explain why different substances dissolve differently and why some molecules have stronger attractions than others.
@@ -124,69 +72,30 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 - Lewis structures show how electrons are arranged in molecules. Once you know how to draw them correctly using the octet rule, resonance, and formal charges, it becomes easier to figure out molecular geometry, polarity, and hybridization. A correct Lewis structure is usually the starting point for solving almost every problem in this topic. They’re basically the foundation for understanding molecular chemistry.
 - Single bonds are longer and weaker, while double and triple bonds are shorter and stronger because more electrons are being shared between atoms. Stronger bonds need more energy to break, which affects how stable and reactive molecules are. This helps explain why different molecules behave differently during chemical reactions.
 ### Misconception:
-- A misconception is Intermolecular forces vs Intramolecular forces are a common concept where people misidentify dashed lines in diagrams to represent intramolecular covalent bonds within a molecule rather than intermolecular forces between molecules, particularly when analyzing diagrams. Intramolecular forces are the bonds in a molecule (covalent, Ionic, metallic) while intermolecular forces are attractions between molecules.
+- A misconception is xxxx
 ### Real World Connection:
 - Molecular shapes are important because they determine how molecules interact with receptors, which are specialized proteins on cells. This molecule and receptor idea explains how we taste things. Flavors like sweet, sour, salty, and bitter happen when molecules or ions in food fit into specific taste receptors on our tongue. When that happens, the receptors send signals to our brain, and that is how we actually experience flavor.
 ### Quiz:
-- Question 1: A student draws a Lewis structure for SO3 and assigns a formal charge of +2 to the sulfur atom. Which of the following best explains whether this Lewis structure is the most valid representation?
-  - (A) **The structure is valid because sulfur is a metal and can hold any number of electrons.** (Incorrect) -> EXPLANATION: Sulfur is a nonmetal, not a metal. Additionally, the validity of a Lewis structure is determined by minimizing formal charges, not by categorizing the central atom as a metal.
-  - (B) **The structure is invalid because sulfur cannot bond to oxygen under any circumstances.** (Incorrect) -> EXPLANATION: Sulfur and oxygen bond does work. SO3 is a WELL-KNOWN molecule. This answer is chemically false.
-  - (C) **The structure is likely not the most valid because formal charges should be minimized and kept as close to zero as possible; a structure with lower or zero formal charge on sulfur would be preferred.** (Correct) -> EXPLANATION: Formal charge = (# of valence electrons) − (# of nonbonding electrons) − (# of bonding electrons / 2). The most valid Lewis structure minimizes formal charges across all atoms. A +2 formal charge on sulfur suggests an electron arrangement that is not optimal. Using double bonds to oxygen reduces formal charges and produces a more valid structure.
-  - (D) **The structure is valid because formal charge only applies to ionic compounds, not covalent molecules like SO3.** (Incorrect) -> EXPLANATION: Formal charge is specifically a concept used within covalent Lewis structures to evaluate which arrangement of electrons is most stable. It is not limited to ionic compounds.
-
-- Question 2: Which of the following molecules has polar bonds but is overall nonpolar due to its molecular geometry?
-  - (A) **CO2** (Correct) -> EXPLANATION: CO2 has two polar C=O bonds, but the molecule is linear. The two bond dipoles point in exactly opposite directions and cancel each other out, resulting in zero net dipole moment. The molecule is nonpolar despite having polar bonds.
-  - (B) **H2O** (Incorrect) -> EXPLANATION: H2O has polar O-H bonds AND is a polar molecule. Its bent geometric shape means the two bond dipoles do not cancel; they point in directions that create a net dipole moment toward the oxygen atom.
-  - (C) **HCl** (Incorrect) -> EXPLANATION: HCl is a diatomic molecule with a polar bond and is also a polar molecule overall. There is only one bond, so there is nothing to cancel the dipole. The electronegativity difference between H and Cl creates a permanent dipole.
-  - (D) **NH3** (Incorrect) -> EXPLANATION: NH3 has polar N-H bonds and is also a polar molecule. Its trigonal pyramidal geometric shape, caused by the lone pair on nitrogen, means the dipoles do not cancel. The lone pair makes the charge distribution not symmetrical.
-
-- Question 3: A molecule has 4 bonding groups and 0 lone pairs around the central atom. According to VSEPR theory, what is the electron geometry, molecular geometry, and approximate bond angle?
-  - (A) **Trigonal planar, trigonal planar, 120 DEGREES** (Incorrect) -> EXPLANATION: Trigonal planar geometric shape occurs when there are 3 bonding groups and 0 lone pairs. With 4 bonding groups, the electron pairs must spread further apart in three dimensions, not in a flat plane.
-  - (B) **Tetrahedral, tetrahedral, 109.5 DEGREES** (Correct) -> EXPLANATION: With 4 bonding groups and 0 lone pairs, VSEPR theory predicts that the 4 electron groups will repel each other equally and spread out to the corners of a tetrahedral. Both the electron geometry and molecular geometry are tetrahedral with bond angles of approximately 109.5 DEGREES.
-  - (C) **Tetrahedral, bent, 104.5 DEGREES** (Incorrect) -> EXPLANATION: A bent molecular geometric shape with 104.5 DEGREES bond angles occurs when there are 4 electron groups but 2 of them are lone pairs (like in water). With 0 lone pairs, all 4 groups are bonding groups, so the molecular geometric shape matches the electron geometry: tetrahedral.
-  - (D) **Linear, linear, 180 DEGREES** (Incorrect) -> EXPLANATION: Linear geometric shape occurs when there are only 2 electron groups around the central atom. With 4 bonding groups, the geometric shape cannot be linear because 4 groups cannot minimize repulsion by aligning on a single axis.
-
-- Question 4: Which of the following best explains why ionic compounds tend to have much higher melting points than most covalent molecular compounds?
-  - (A) **Ionic compounds contain more atoms per formula unit, which adds more mass and therefore requires more energy to melt.** (Incorrect) -> EXPLANATION: Melting point is not determined by the number of atoms or molecular mass. It is determined by the strength of the forces holding the particles together in the solid state.
-  - (B) **Covalent bonds within covalent molecules are stronger than the ionic bonds in ionic compounds, so covalent molecules are actually harder to melt.** (Incorrect) -> EXPLANATION: This confuses intramolecular bonds with intermolecular forces. When a covalent molecular compound melts, you are only breaking the weak intermolecular forces between molecules, not the covalent bonds within them. Ionic compounds require breaking the strong electrostatic attractions throughout the entire ionic lattice.
-  - (C) **Ionic compounds can conduct electricity when melted, which releases energy and makes them harder to melt.** (Incorrect) -> EXPLANATION: Electrical conductivity is a result of melting, not a cause of higher melting points. The ability to conduct electricity when molten is related to the mobility of ions, not to the energy required to melt the substance.
-  - (D) **Ionic bonds involve strong electrostatic attractions between oppositely charged ions throughout an entire crystal lattice, requiring significantly more energy to overcome than the weak intermolecular forces between neutral covalent molecules.** (Correct) -> EXPLANATION: Ionic bonding forms when electrons are transferred, creating cations and anions held together by strong electrostatic attraction across an extended lattice structure. Covalent molecular compounds are held together by comparatively weak intermolecular forces between neutral molecules. Overcoming an ionic lattice requires far more energy, hence the much higher melting points.
-
-- Question 5: A molecule of PCl5 has 5 bonding pairs and 0 lone pairs. Which of the following statements about this molecule is correct?
-  - (A) **PCl5 violates the octet rule because phosphorus has fewer than 8 electrons around it.** (Incorrect) -> EXPLANATION: PCl5 does violate the octet rule, but in the opposite direction. With 5 bonding pairs, phosphorus has 10 electrons around it (more than 8). This is an expanded octet, not a incomplete one.
-  - (B) **PCl5 follows the octet rule because 5 bonds × 2 electrons = 10 electrons which rounds down to 8.** (Incorrect) -> EXPLANATION: Electron counting does not work by rounding. 5 bonding pairs give phosphorus exactly 10 electrons. There is no rounding in octet rule analysis, and 10 is definitively more than 8.
-  - (C) **PCl5 is an example of an expanded octet because phosphorus is in period 3 and has access to d orbitals, allowing it to accommodate more than 8 valence electrons.** (Correct) -> EXPLANATION: The expanded octet occurs when an atom holds more than 8 valence electrons around it. This is possible for nonmetals in period 3 or higher because they have available d orbitals. Phosphorus (period 3) in PCl5 has 10 electrons around it (5 bonding pairs).
-  - (D) **PCl5 cannot exist as a molecule because no atom can form more than 4 bonds.** (Incorrect) -> EXPLANATION: While carbon and other period 2 elements are limited to 4 bonds due to the absence of d orbitals, period 3 and higher elements like phosphorus can form more than 4 bonds using available d orbitals, as demonstrated by the real and stable molecule PCl5.
-
-- Question 6: The molecule SO2 can be represented by two valid Lewis structures where the double bond switches between the two oxygen atoms. Which of the following best describes this situation?
-  - (A) **The molecule rapidly switches between the two structures at room temperature, spending equal time as each.** (Incorrect) -> EXPLANATION: Resonance does not mean the molecule physically flips between structures. This is a common misconception. The molecule does not alternate between two forms; it exists as one hybrid structure simultaneously.
-  - (B) **The two structures represent resonance, meaning the actual molecule is a hybrid of both valid Lewis structures, with the true bond character being intermediate between a single and double bond to each oxygen.** (Correct) -> EXPLANATION: Resonance occurs when multiple valid Lewis structures can be drawn for the same molecule. The actual molecule is not either structure but a resonance hybrid, meaning the electrons are delocalized and the bonds to each oxygen are equivalent; somewhere between a single and double bond.
-  - (C) **One of the two Lewis structures is correct and the other is incorrect; only the structure with the double bond on the more electronegative oxygen is valid.** (Incorrect) -> EXPLANATION: In resonance, both (or all) structures are equally valid contributors to the hybrid. You cannot select one as "the real one." Both are used together to describe the delocalized electron distribution.
-  - (D) **The two structures represent two different isomers of SO2 that exist in equilibrium in a gas mixture.** (Incorrect) -> EXPLANATION: Isomers are different molecules with the same molecular formula but different arrangements of atoms. Resonance structures have the same atomic arrangement and only differ in how the electrons are depicted. They represent one molecule, not two different molecules in equilibrium.
-
-- Question 7: Which of the following correctly describes the hybridization of the central atom in a molecule with 3 bonding groups and 1 lone pair?
-  - (A) **sp because there are 4 total electron domains.** (Incorrect) -> EXPLANATION: sp hybridization involves only 2 hybrid orbitals, which corresponds to 2 electron groups (linear geometric shape). A molecule with 3 bonding groups and 1 lone pair has 4 electron domains total, which requires 4 hybrid orbitals.
-  - (B) **sp3d because the lone pair requires an extra d orbital.** (Incorrect) -> EXPLANATION: sp3d hybridization involves 5 electron domains. A molecule with 4 total electron domains (3 bonding + 1 lone pair) only requires sp3 hybridization, using 4 orbitals from the s and p subshells.
-  - (C) **sp2 because there are only 3 bonding domains and lone pairs are not counted in hybridization.** (Incorrect) -> EXPLANATION: Lone pairs absolutely are counted when determining hybridization because they occupy hybrid orbitals just like bonding pairs do. The total number of electron domains, including lone pairs which determines the hybridization.
-  - (D) **sp3 because hybridization is determined by the total number of electron domains including lone pairs, and 4 total electron domains (3 bonding + 1 lone pair) require 4 hybrid orbitals.** (Correct) -> EXPLANATION: Hybridization is determined by the total number of electron domains around the central atom, which includes both bonding pairs and lone pairs. With 3 bonding domains and 1 lone pair, there are 4 electron domains, requiring 4 hybrid orbitals: sp³. The resulting molecular geometric shape is trigonal pyramidal.
-
-- Question 8: A chemist measures the bond length in a nitrogen molecule, N2 and compares it to the bond length in a hypothetical N2 molecule where the triple bond has been replaced by a single bond. Which of the following correctly predicts and explains the difference?
-  - (A) **The triple bond in N2 is shorter and stronger than a single bond would be, because more shared electron pairs pull the nuclei closer together and require significantly more energy to break.** (Correct) -> EXPLANATION: Triple bonds involve 3 shared electron pairs between two atoms. More electrons shared between the nuclei increases the attractive force, pulling the nuclei closer together (shorter bond) and making the bond harder to break (stronger bond, higher bond energy).
-  - (B) **The triple bond in N2 is longer than a single bond because more electrons cause more repulsion between the atoms.** (Incorrect) -> EXPLANATION: While electrons do repel each other, the main effect of multiple shared pairs is increased nuclear attraction toward the bonding region, which shortens the bond. Bond length decreases from single to double to triple bonds.
-  - (C) **Triple bonds and single bonds between the same two atoms have the same bond length because bond length only depends on atomic radius.** (Incorrect) -> EXPLANATION: Bond length is not solely determined by atomic radius. It also depends on bond order. Higher bond order (more shared pairs) pulls atoms closer together, consistently shortening the bond regardless of atomic radius.
-  - (D) **The single bond would be stronger because the electrons are more localized and closer to each nucleus.** (Incorrect) -> EXPLANATION: Bond strength increases with bond order. Triple bonds are the strongest because more electron pairs are being shared between the atoms, requiring more energy to break. Single bonds are the weakest of the three bond types.
-
-- Question 9: The formal charge on an atom is calculated as: (# of valence electrons) − (# of nonbonding electrons) − (# of bonding electrons / 2). In a Lewis structure of CO2, the oxygen atom has 2 lone pairs and participates in one double bond. What is the formal charge on this oxygen atom?
-  - (A) **+1** (Incorrect) -> EXPLANATION: A positive formal charge on oxygen would mean oxygen has fewer electrons assigned to it than its valence count. In this structure, oxygen has 4 nonbonding electrons and 4 bonding electrons (double bond). Calculation: 6 − 4 − (4 / 2) = 6 − 4 − 2 = 0, not +1.
-  - (B) **-1** (Incorrect) -> EXPLANATION: A −1 formal charge would require oxygen to have more electrons assigned to it than its valence count of 6. With 2 lone pairs (4 nonbonding e-) and a double bond (4 bonding e-): 6 − 4 − (4 / 2) = 0. The actual formal charge is 0, not −1.
-  - (C) **0** (Correct) -> EXPLANATION: Using the formula: formal charge = (# of valence electrons) − (# of nonbonding electrons) − (# of bonding electrons / 2). Oxygen has 6 valence electrons. With 2 lone pairs it has 4 nonbonding electrons. A double bond contributes 4 bonding electrons. So: 6 − 4 − (4 / 2) = 6 − 4 − 2 = 0. This confirms that the Lewis structure of CO₂ with double bonds minimizes formal charge.
-  - (D) **+2** (Incorrect) -> EXPLANATION: A +2 formal charge is not chemically reasonable for oxygen in a standard covalent structure and does not result from this calculation. It would imply oxygen has 2 fewer electrons assigned to it than its valence number, which does not match the bonding described.
-
-- Question 10: A bond between two atoms has a very large difference in electronegativity. Which of the following best describes the nature of this bond and why?
-  - (A) **The bond is nonpolar covalent because both atoms are sharing electrons equally.** (Incorrect) -> EXPLANATION: Nonpolar covalent bonds occur when two atoms have the same or very similar electronegativity, resulting in equal sharing of electrons. A large electronegativity difference indicates very unequal sharing or full electron transfer.
-  - (B) **The bond is polar covalent because one atom pulls the shared electrons slightly closer, creating partial charges.** (Incorrect) -> EXPLANATION: A polar covalent bond does involve unequal electron sharing, but this description applies to a moderate electronegativity difference. A very large electronegativity difference typically results in electron transfer rather than sharing, which is ionic bonding, not polar covalent.
-  - (C) **The bond cannot exist because atoms with very different electronegativities repel each other.** (Incorrect) -> EXPLANATION: There is no chemical principle that prevents bonding between atoms of different electronegativity. In fact, atoms with very different electronegativities frequently bond; they form ionic bonds, which are among the strongest chemical bonds.
-  - (D) **The bond is ionic because a very large electronegativity difference causes one atom to fully transfer its electron to the other, forming oppositely charged ions held together by electrostatic attraction.** (Correct) -> EXPLANATION: Ionic bonds form when electrons are transferred from one atom to another, creating cations and anions. This occurs when the electronegativity difference between atoms is very large (greater than 1.7). The more electronegative atom pulls the electron(s) away entirely rather than simply attracting them closer as in a polar covalent bond.
+- Question 1
+  - Answer Choice A
+  - Answer Choice B
+  - Answer Choice C (Correct Choice)
+  - Answer Choice D
+- Question 2
+  - Answer Choice A
+  - Answer Choice B (Correct Choice)
+  - Answer Choice C
+  - Answer Choice D
+- Question 3
+  - Answer Choice A (Correct Choice)
+  - Answer Choice B
+  - Answer Choice C
+  - Answer Choice D
+- Question 4
+  - Answer Choice A
+  - Answer Choice B
+  - Answer Choice C
+  - Answer Choice D (Correct Choice)
 
   # Unit 3
  ### Vocabulary List:
@@ -233,82 +142,6 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
 ### Real World Connection:
 - The difference in intermolecular forces is the reason why oil and water don’t mix. Water is polar and has a strong intermolecular force because of the hydrogen bonds between water molecules. Oil is nonpolar and only has London dispersion force holding the molecules together. The water molecules are holding so tightly together that they exclude the oil molecules, and the oil molecules also don’t want to break away from each other. In addition, oil is nonpolar so it doesn’t have a charge to attract water molecules.
 ### Quiz:
-- Question 1: A student compares two molecules: CH4 and CCl4. Both are nonpolar molecules. Which of the following correctly explains why CCl4 has a significantly higher boiling point than CH4?
-  - (A) **CCl4 has more electrons than CH4, which makes its electron cloud more polarizable, resulting in stronger London dispersion forces that require more energy to overcome during boiling.** (Correct) -> EXPLANATION: Both CH4 and CCl4 are nonpolar and rely solely on London dispersion forces. CCl4 has significantly more electrons (50 vs 10), making its electron cloud much more polarizable and capable of forming stronger temporary dipoles. Stronger London dispersion forces mean a higher boiling point.
-  - (B) **CCl4 has a higher boiling point because it contains chlorine, which forms hydrogen bonds with itself.** (Incorrect) -> EXPLANATION: Hydrogen bonds require hydrogen to be bonded to oxygen, nitrogen, or fluorine. Chlorine does not participate in hydrogen bonding. CCl4 has no hydrogen atoms at all, so hydrogen bonding is impossible in this molecule.
-  - (C) **CH4 has a higher boiling point because it has more hydrogen atoms, which create stronger dipole-dipole interactions.** (Incorrect) -> EXPLANATION: This answer is false for two reasons: CH4 does not have a higher boiling point than CCl4, and CH4 is a nonpolar molecule that does not show dipole-dipole interactions. Its only intermolecular force is London dispersion.
-  - (D) **CCl4 has stronger ionic bonds than CH4, which is why it takes more energy to separate the molecules.** (Incorrect) -> EXPLANATION: Both CH4 and CCl4 are covalent molecular compounds. Neither contains ionic bonds. The forces between their individual molecules are intermolecular forces, not ionic bonds.
-
-- Question 2: A gas has a pressure of 2.0 atm and a volume of 3.0 L at a constant temperature. If the volume is increased to 6.0 L, what is the new pressure?
-  - (A) **4.0 atm** (Incorrect) -> EXPLANATION: This answer doubles the pressure instead of halving it. According to Boyle's Law, pressure and volume are inversely proportional. Increasing the volume decreases the pressure. Doubling the volume must halve the pressure.
-  - (B) **2.0 atm** (Incorrect) -> EXPLANATION: This would mean pressure stayed the same despite a change in volume. According to Boyle's Law, when volume changes at constant temperature, pressure must change inversely. The pressure cannot remain at 2.0 atm if the volume doubles.
-  - (C) **1.0 atm** (Correct) -> EXPLANATION: Using Boyle's Law: P1V1 = P2V2. (2.0 atm)(3.0 L) = P2(6.0 L). 6.0 = 6.0 * P2. P2 = 1.0 atm. As volume doubles from 3.0 L to 6.0 L, the pressure is halved from 2.0 atm to 1.0 atm, consistent with the inverse relationship between pressure and volume.
-  - (D) **3.0 atm** (Incorrect) -> EXPLANATION: 3.0 atm has no mathematical basis from the given values. It does not result from correctly applying Boyle's Law. A pressure of 3.0 atm would require the volume to be compressed, not expanded.
-
-- Question 3: A container holds a mixture of oxygen gas (O2) at a partial pressure of 0.40 atm and nitrogen gas (N2) at a partial pressure of 0.60 atm. The volume of the container is then doubled at constant temperature. What is the new total pressure of the gas mixture?
-  - (A) **0.50 atm** (Correct) -> EXPLANATION: First, the original total pressure = 0.40 + 0.60 = 1.00 atm (Dalton's law of partial pressures). When volume doubles at constant temperature, Boyle's Law applies: P1V1 = P2V2, so (1.00 atm)(V) = P2(2 L), giving P2 = 0.50 atm. Each individual partial pressure is also halved: O2 = 0.20 atm, N2 = 0.30 atm, total = 0.50 atm.
-  - (B) **1.00 atm** (Incorrect) -> EXPLANATION: The total pressure would remain 1.00 atm only if the volume stayed constant. Since the volume doubled, Boyle's Law requires the total pressure to be halved. Volume is inversely proportional to pressure.
-  - (C) **2.00 atm** (Incorrect) -> EXPLANATION: Doubling the volume doubles the pressure only if volume and pressure were directly proportional; they are inversely proportional. Doubling the volume halves the pressure, not doubles it.
-  - (D) **0.20 atm** (Incorrect) -> EXPLANATION: 0.20 atm is the new partial pressure of oxygen alone after the volume doubles. This answer confuses the partial pressure of one gas component with the total pressure of the entire gas mixture.
-
-- Question 4: Which of the following correctly explains the behavior of a real gas that causes it to deviate from the Ideal Gas Law at very high pressures?
-  - (A) **At high pressure, gas molecules move faster, increasing temperature and causing deviations.** (Incorrect) -> EXPLANATION: The Ideal Gas Law already accounts for temperature effects. High pressure deviations are due to the volume occupied by the gas molecules themselves and intermolecular forces, not changes in speed. In the ideal model, gas molecules have zero volume.
-  - (B) **At high pressure, gas molecules lose kinetic energy, causing them to slow down and deviate from ideal behavior.** (Incorrect) -> EXPLANATION: Kinetic energy depends on temperature, not pressure directly. At constant temperature, changing pressure does not alter average kinetic energy. The deviation at high pressure is caused by the finite volume of molecules crowding together.
-  - (C) **At high pressure, the intermolecular forces between gas molecules disappear, causing the gas to behave more ideally.** (Incorrect) -> EXPLANATION: This is the opposite of what happens. At high pressure, gas molecules are closer together, making intermolecular forces more significant; not less. Ideal gases are assumed to have zero intermolecular forces (zero IMF), and real gases deviate from this assumption most at high pressure.
-  - (D) **At high pressure, gas molecules are forced close together, so the actual volume of the molecules becomes significant and intermolecular forces become stronger, both of which violate the assumptions of the Ideal Gas Law.** (Correct) -> EXPLANATION: The Ideal Gas Law assumes gas particles have zero volume and zero intermolecular forces. At high pressure, molecules are compressed into a smaller space, making their actual molecular volumes non-negligible and bringing them close enough for intermolecular attractions to matter. Both factors cause real gases to deviate from ideal predictions.
-
-- Question 5: Two gas samples are at the same temperature. Sample A contains H2 molecules and Sample B contains O2 molecules. Which of the following is true about the average kinetic energies and average speeds of the molecules in both samples?
-  - (A) **Both average kinetic energy and average speed are greater for O2 because it has more electrons and stronger intermolecular forces.** (Incorrect) -> EXPLANATION: Intermolecular forces are not relevant to kinetic energy or speed in an ideal gas context. At the same temperature, average kinetic energy is equal for both gases. O2 molecules are heavier, which actually makes them move slower on average, not faster.
-  - (B) **Average kinetic energy is the same for both samples, but H₂ molecules have a higher average speed because they have a much lower molar mass.** (Correct) -> EXPLANATION: At the same temperature, all gas molecules have the same average kinetic energy (KE = mv^2 / 2). Since H2 has a much lower molar mass (2 g/mol) compared to O2 (32 g/mol), and kinetic energy is equal, H₂ molecules must be moving faster to compensate for their lower mass. This is directly shown by Maxwell-Boltzmann distributions.
-  - (C) **Average speed is the same for both samples because temperature determines speed, and both are at the same temperature.** (Incorrect) -> EXPLANATION: Temperature determines average kinetic energy, not average speed directly. Since KE = mv^2 / 2, two molecules with different masses at the same KE will have different speeds. The lighter molecule (H2) must move faster to have the same kinetic energy as the heavier molecule (O2).
-  - (D) **O2 molecules have higher kinetic energy because they have more mass, and more mass means more energy.** (Incorrect) -> EXPLANATION: At the same temperature, all gas molecules regardless of mass have the same average kinetic energy. Temperature, not mass, determines average kinetic energy in gas behavior.
-
-- Question 6: A solution is prepared by dissolving NaCl in water. A student claims this solution is an electrolyte. Which of the following best justifies or refutes this claim?
-  - (A) **The claim is incorrect because NaCl is an ionic compound, and ionic compounds cannot dissolve in polar solvents.** (Incorrect) -> EXPLANATION: Ionic compounds like NaCl dissolve readily in polar solvents like water due to ion-dipole interactions. The claim that ionic compounds cannot dissolve in polar solvents is chemically false.
-  - (B) **The claim is incorrect because only covalent compounds can conduct electricity in solution.** (Incorrect) -> EXPLANATION: This is the opposite of the truth. Covalent molecular compounds generally do not produce ions when dissolved in water and therefore do not conduct electricity well. Ionic compounds like NaCl dissociate into ions, enabling electrical conduction.
-  - (C) **The claim is correct because when NaCl dissolves, it dissociates into Na⁺ and Cl⁻ ions, and the presence of free-moving ions in solution allows the solution to conduct electricity.** (Correct) -> EXPLANATION: An electrolyte is a substance that conducts electricity when dissolved in water. NaCl fully dissociates into Na+ and Cl- ions when dissolved. These freely moving charged particles allow the solution to have electric currents, confirming it is an electrolyte.
-  - (D) **The claim is correct because all solutions that contain water can conduct electricity due to water's polarity.** (Incorrect) -> EXPLANATION: Pure water and nonpolar solutes dissolved in water conduct electricity very poorly because there are insufficient free ions. It is specifically the dissociation into ions that allows conduction, not water's polarity alone.
-
-- Question 7: A chemist wants to separate a mixture of two liquids with different boiling points. Which separation technique should they use, and why?
-  - (A) **Distillation, because it separates liquid mixtures by evaporating the more volatile component first and then condensing it separately, taking advantage of differences in boiling points.** (Correct) -> EXPLANATION: Distillation is a process that separates liquid mixtures by evaporation and condensation. The liquid with the lower boiling point vaporizes first, travels through a condenser, and is collected separately. This directly exploits differences in boiling points between the two liquids.
-  - (B) **Filtration, because it allows the liquid with the lower boiling point to pass through the filter while retaining the other.** (Incorrect) -> EXPLANATION: Filtration separates solids from liquids by passing a mixture through a filter paper. It does not separate two liquids from each other and has nothing to do with boiling points. A filter cannot distinguish between two miscible liquids.
-  - (C) **Chromatography, because each liquid will have a different attraction to the mobile phase and will separate at different rates.** (Incorrect) -> EXPLANATION: While chromatography does separate components based on their relative attraction to stationary and mobile phases, it is primarily used for dissolved substances or components in a mixture and not for separating two bulk liquids with different boiling points. Distillation is the appropriate technique here.
-  - (D) **Chromatography using a water-based mobile phase, because polar liquids will be separated from nonpolar liquids by the polarity of water.** (Incorrect) -> EXPLANATION: Chromatography is not the standard technique for separating two liquids by boiling point. Distillation is. Additionally, not all liquid mixtures differ only in polarity, and distillation more directly and practically exploits the boiling point difference specified in the question.
-
-- Question 8: A solution of a dye is analyzed using a spectrophotometer. At a given wavelength, the solution at concentration 0.10 M shows an absorbance of 0.20. A second sample of the same dye shows an absorbance of 0.60 at the same wavelength. Using Beer-Lambert Law, what is the concentration of the second sample?
-  - (A) **0.10 M** (Incorrect) -> EXPLANATION: This is the concentration of the first sample. At a concentration of 0.10 M, the absorbance was 0.20. Since the second sample has an absorbance of 0.60 (which is 3 times greater) its concentration must also be 3 times greater than 0.10 M.
-  - (B) **0.30 M** (Correct) -> EXPLANATION: According to Beer-Lambert Law, absorbance is directly proportional to concentration: A = Elc. Since the path length and molar absorptivity are constant, A1/c1 = A2/c2. (0.20) / (0.10 M) = (0.60) / c2. c2 = (0.60 * 0.10) / 0.20 = 0.30 M. The absorbance tripled, so the concentration also tripled.
-  - (C) **0.60 M** (Incorrect) -> EXPLANATION: This confuses the absorbance value with the concentration. The absorbance of 0.60 is the measured visual signal, not the concentration. Applying Beer-Lambert Law proportionally gives 0.30 M, not 0.60 M.
-  - (D) **0.06 M** (Incorrect) -> EXPLANATION: This might result from dividing the absorbance values incorrectly (0.20 * 0.60 * 0.10 / some incorrect arrangement). The correct proportional reasoning: if 0.10 M gives A = 0.20, then a sample with A = 0.60 (3× higher) has a concentration of 3 * 0.10 = 0.30 M.
-
-- Question 9: A student compares two substances: one is a metallic solid and the other is a covalent network solid like diamond. Both have extremely high melting points. Which of the following correctly distinguishes the reason each has a high melting point?
-  - (A) **Both have high melting points for the same reason: strong London dispersion forces throughout the solid.** (Incorrect) -> EXPLANATION: London dispersion forces are weak intermolecular forces found in molecular solids, not the dominant force in metallic or covalent network solids. Metallic solids are held together by metallic bonds and covalent network solids by strong covalent bonds; not London dispersion forces.
-  - (B) **The metallic solid has a high melting point because of ionic bonds, and diamond has a high melting point because of intermolecular hydrogen bonding.** (Incorrect) -> EXPLANATION: Metallic solids are held together by metallic bonds (delocalized electrons around metal cation cores), not ionic bonds. Diamond's structure involves covalent bonds, not hydrogen bonds. Diamond has no hydrogen atoms at all.
-  - (C) **Both have high melting points because they are both crystalline, and crystalline structures always require more energy to break.** (Incorrect) -> EXPLANATION: Being crystalline does not automatically mean high melting point. Ionic solids and molecular solids can both be crystalline, but ionic solids have much higher melting points than molecular solids because the nature of the forces holding the crystal together (not the how the crystalline is arranged) determines the melting point.
-  - (D) **The metallic solid has a high melting point because of the strong attraction between delocalized electrons and positively charged metal ion cores throughout the lattice, while diamond's high melting point results from an extended network of strong covalent bonds throughout the entire structure.** (Correct) -> EXPLANATION: Metallic solids are held together by metallic bonding, where delocalized electrons form a sea around positive metal cores, creating strong forces throughout the lattice. Covalent network solids like diamond have every atom covalently bonded to its neighbors in a continuous extended structure. Both require enormous energy to break down, but for fundamentally different chemical reasons.
-
-- Question 10: A student has a mixture of sand (an insoluble solid) and salt water (a dissolved ionic compound). Which of the following sequences of separation techniques would most effectively isolate the pure salt from this mixture?
-  - (A) **Chromatography followed by distillation.** (Incorrect) -> EXPLANATION: Chromatography separates components based on their affinity to stationary and mobile phases, which is not the right technique for removing an insoluble solid like sand from a liquid. While distillation could remove water afterward, the first step is wrong.
-  - (B) **Distillation followed by filtration.** (Incorrect) -> EXPLANATION: This order is reversed. Filtration should come first to remove the sand (the insoluble solid) from the salt water. Distillation of the combined mixture without first removing the sand would not effectively separate the salt from the sand.
-  - (C) **Filtration to remove the sand, followed by chromatography to separate the salt from the water.** (Incorrect) -> EXPLANATION: Chromatography separates components by their attraction to stationary and mobile phases — it is not used to isolate a dissolved salt from water. Distillation is the correct choice.
-  - (D) **Filtration to remove the sand, followed by distillation to evaporate the water and leave the salt behind.** (Correct) -> EXPLANATION: Filtration is used first because it separates solids from liquids; the sand will be trapped in the filter while the salt water passes through. Then distillation (evaporation and condensation) removes the water, leaving behind the pure dissolved salt. This is the logical and chemically correct sequence.
-
-# Unit 4
- ### Vocabulary List:
- - Vocab 1
- - Vocab 2
- - Vocab 3
-### Main Takeaways:
-- Takeaway 1
-- Takeaway 2
-- Takeaway 3
-- Takeaway 4
-- Takeaway 5
-### Misconception:
-- A misconception is xxxx
-### Real World Connection:
-- Paragraph connecting unit to real world...
-### Quiz:
 - Question 1
   - Answer Choice A
   - Answer Choice B
@@ -329,6 +162,199 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
   - Answer Choice B
   - Answer Choice C
   - Answer Choice D (Correct Choice)
+
+# Unit 4
+ ### Vocabulary List:
+-Aqueous Solution:
+a homogeneous mixture where water acts as the solvent, dissolving other substances.
+Solute:
+a substance that dissolves in a solvent to form a homogeneous mixture.
+-Solvent:
+a substance (usually a liquid) capable of dissolving another substance, known as a solute, to form a homogeneous mixture.
+-Electrolyte:
+a substance that produces an electrically conducting solution when dissolved in a solvent.
+-Dissociation:
+the process where a compound, molecule, or salt breaks apart into smaller, simpler pieces, such as atoms or ions.
+-Chemical Change:
+a process in which one or more substances are transformed into entirely new substances with different chemical compositions and properties.
+-Physical Change:
+a transformation that alters the form, state, or appearance of a substance without changing its chemical composition or identity.
+-Precipitate:
+an insoluble solid that forms when two aqueous solutions react.
+-Complete Ionic Equation:
+a chemical equation that shows all dissolved, strong ionic compounds and strong acids written as dissociated ions in their aq states, instead of as combined molecules.
+-Spectator Ions:
+ions that are present in a chemical reaction but do not actively participate in it.
+-Net Ionic Equation:
+a chemical equation that shows only the specific ions and molecules that actively participate in a chemical reaction.
+-Acid-Base Reaction:
+a chemical process where an acid and a base interact, resulting in the transfer of a hydrogen ion.
+-Stoichiometry:
+the branch of chemistry that calculates the relative amounts of reactants and products involved in a chemical reaction.
+-Limiting Reactant:
+The substance that is completely consumed first in a chemical reaction. It dictates the maximum amount of product that can be created, acting as an absolute cap because the reaction cannot continue once this ingredient runs out.
+-Excess reactant:
+the substance that is not completely consumed in a chemical reaction.
+-Titration:
+a technique used to determine the concentration of an unknown solution by adding measured amounts of a known solution until a specific chemical reaction is completed.
+-Equivalence Point:
+the exact moment in a chemical reaction when the amount of titrant added is stoichiometrically equal to the amount of analyte (the substance being tested) originally present in the sample.
+-Standard Solution:
+a chemical mixture containing a known and highly accurate concentration of a specific solute.
+Titrant:
+a solution of a known concentration that is added to another solution (the analyte) during a titration.
+-Solubility:
+the maximum amount of a substance (the solute) that can dissolve in a specific amount of another substance (the solvent) at a given temperature and pressure to form a saturated solution.
+-Insoluble:
+incapable of being dissolved in a liquid, or impossible to solve or explain.
+-Mole Ratio:
+the proportional relationship between the amounts in moles of any two substances involved in a chemical reaction.
+-Balanced Equation:
+a representation of a chemical reaction where the exact same number of atoms for each element is present on both the reactant and product sides.
+-Oxidation:
+a chemical process where a substance loses electrons, causing an increase in its oxidation state.
+-Reduction:
+the process where a chemical species gains electrons, causing its oxidation state to decrease
+-Oxidation numbers:
+the theoretical charge an atom would have if all its bonds were 100% ionic
+
+### Main Takeaways:
+
+-Net Ionic Equations and Spectator Ions:
+A net ionic equation highlights the chemical species that actually change during a reaction, while spectator ions are the leftover ions present in the solution that do not participate in the chemical change
+
+-Physical vs. Chemical Changes:
+Physical Changes alter the form or appearance of a substance without breaking intramolecular bonds (e.g., phase changes or dissolving). Whereas chemical changes result in new substances and involve breaking and forming covalent or ionic bonds. A way we can prove this strictly through vision is by observing color changes, gas evolution, or precipitate formation
+
+-Reaction Stoichiometry and Limiting Reactants:
+Molar ratios are the coefficients in a balanced chemical equation that dictate the exact molar ratios of reactants and products. And the limiting reagent is the reactant that is completely consumed first, which limits the maximum amount of product that can be formed.
+
+-Titration and Solution Concentration:
+Titrations are used to determine the unknown concentration of an analyte using a titrant of known concentration. The equivalence point is the point in the titration where the moles of titrant stoichiometrically equal the moles of analyte.
+
+-Classifying Reactions: Acid-Base, Redox and Precipitations:
+You have to be able to identify 3 kinds of reactions: the Acid-Base reaction: which is the transfer of the proton (H+) in reactions. The Redox (Oxidation-Reduction) reaction which is the electron transfer process. Oxidation is Loss of electrons, Reduction is Gain. Finally, the precipitation reaction which is when two aqueous ionic solutions mix to form an insoluble solid.
+
+### Misconception:
+- Many people believe that the reactant with the largest mass is always the limiting reactant. The limiting reactant is determined by the lowest number of moles available based on the stoichiometric ratio, not the initial mass.
+
+An example would be:
+2H2+O2->2H2O
+If you have 4.00g of H2 and 64.0g of O2, a misconception would be that O2 is the limiting reactant but when you do the calculations, you'll see that there are 1.98 Moles of H2 and 2.00 moles of O2 therefore H2 is the limiting reactant regardless of the fact that the initial mass was less than the mass of O2.
+
+### Real World Connection:
+- Understanding chemical reactions explains how everyday items like soaps, antacids, batteries, and the airbag in your car work. A big part of AP Chemistry is that you are required to observe electron transfer, assign oxidation numbers, and balance equations. This all happens around us daily, specifically in the life saving item in your car, your air bags. A car airbag is like a super-fast balloon filled by a chemical reaction. When a car crashes, the airbag inflates to make sure there are no serious injuries. Here is how chemistry does that. Inside the steering wheel, there is no trapped air. Instead, there is just a small handful of a white powder called sodium azide and when the sensors detect a crash, they shoot a tiny electric spark into that powder. (Because sodium azide is highly toxic, the inflator also contains chemicals like potassium nitrate and silica. These react with the sodium to turn it into harmless glass.) The heat from that spark causes a sudden chemical change. In just seconds, the solid powder violently splits apart and transforms into a massive cloud of nitrogen gas. This is a prime example of an exothermic reaction taking place in real time to potentially save a life. There is another extremely significant part of this. If the engineers put too little powder in the wheel, the bag will be floppy, and you will hit the dashboard. And if they put too much powder, the bag will inflate like a bomb and hurt you. Engineers must calculate the exact weight of the powder so that it creates just enough gas to fill the bag perfectly—not too hard, and not too soft.
+### Quiz:
+1.
+When aqueous solutions of Na₂CO₃ and HCl are mixed, which species appears in the net ionic equation?
+Na₂CO₃(aq) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g)
+- Na⁺
+  - Explanation - Spectator ion. It appears on both sides and does not participate in the chemical change.
+- Cl⁻
+  - Explanation - Spectator ion. It also does not participate in the reaction.
+- CO₃²⁻ (Correct Choice)
+  - Explanation - Reacting species. It reacts with H⁺ to form CO₂ and H₂O.
+- NaCl
+  - Explanation - Product that dissociates completely; it is not part of the net ionic equation.
+
+2.
+Given 4.0 mol N₂ and 10.0 mol H₂, which is the limiting reactant in N₂ + 3H₂ → 2NH₃?
+- N₂
+  - Explanation - Not limiting; 4 mol N₂ would require 12 mol H₂, but only 10 mol H₂ is available.
+- H₂ (Correct Choice)
+  - Explanation - Limiting reactant because there is not enough H₂.
+- NH₃
+  - Explanation - Product, not a reactant.
+- Neither reactant
+  - Explanation - Incorrect because H₂ limits the reaction.
+
+3.
+What is the oxidation number of S in SO₄²⁻?
+- +4
+  - Explanation - Incorrect; sulfur is more oxidized in sulfate.
+- +5
+  - Explanation - Incorrect intermediate value.
+- +6 (Correct Choice)
+  - Explanation - O is −2 each (4 × −2 = −8); S + (−8) = −2 → S = +6
+- +8
+  - Explanation - Not possible for sulfur in this compound.
+
+4.
+Which reaction forms a precipitate?
+- NaNO₃ + KCl
+  - Explanation - All products are soluble; no precipitate forms.
+- NaCl + KNO₃
+  - Explanation - All soluble salts.
+- AgNO₃ + NaCl (Correct Choice)
+  - Explanation - AgCl is insoluble and forms a precipitate.
+- NaOH + KNO₃
+  - Explanation - All products remain soluble.
+
+5.
+25 mL 0.200 M HCl is titrated with 0.100 M NaOH. What volume is required for equivalence?
+- 25 mL
+  - Explanation - Not enough base to neutralize all acid.
+- 50 mL (Correct Choice)
+  - Explanation - Moles HCl = 0.025 × 0.200 = 0.005 mol; V = 0.005 / 0.100 = 50 mL
+- 12.5 mL
+  - Explanation - Only neutralizes half the acid.
+- 100 mL
+  - Explanation - Excess base beyond equivalence point.
+
+6.
+Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s). Which species is reduced?
+- Zn
+  - Explanation - Zinc is oxidized, not reduced.
+- Zn²⁺
+  - Explanation - Already oxidized; not reduced here.
+- Cu
+  - Explanation - Product of reduction, but Cu²⁺ is the species reduced.
+- Cu²⁺ (Correct Choice)
+  - Explanation - Gains electrons to form Cu(s), so it is reduced.
+
+7.
+Pb(NO₃)₂ + KI → PbI₂(s) + KNO₃(aq). Which ion is a spectator?
+- Pb²⁺
+  - Explanation - Reacts to form precipitate.
+- I⁻
+  - Explanation - Reacts with Pb²⁺.
+- K⁺ (Correct Choice)
+  - Explanation - Does not participate in the reaction.
+- PbI₂
+  - Explanation - Solid product, not an ion in solution.
+
+8.
+2Al + 3Cl₂ → 2AlCl₃. How many moles of AlCl₃ form from 6.0 mol Cl₂?
+- 3.0 mol
+  - Explanation - Incorrect ratio.
+- 4.0 mol (Correct Choice)
+  - Explanation - 6.0 × (2/3) = 4.0 mol
+- 6.0 mol
+  - Explanation - Incorrect 1:1 assumption.
+- 9.0 mol
+  - Explanation - Overestimation.
+
+9.
+Which reaction is a redox reaction?
+- HCl + NaOH → NaCl + H₂O
+  - Explanation - Acid-base neutralization; no electron transfer.
+- AgNO₃ + NaCl → AgCl + NaNO₃
+  - Explanation - Precipitation; no oxidation change.
+- CH₄ + 2O₂ → CO₂ + 2H₂O (Correct Choice)
+  - Explanation - Electron transfer occurs (C and O change oxidation states).
+- BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl
+  - Explanation - Precipitation only.
+
+10.
+100 mL 0.200 M AgNO₃ + 100 mL 0.150 M NaCl. How many moles of AgCl form?
+- 0.0150 mol (Correct Choice)
+  - Explanation - Cl⁻ is limiting: 0.100 × 0.150 = 0.0150 mol
+- 0.0200 mol
+  - Explanation - Excess Ag⁺.
+- 0.0350 mol
+  - Explanation - Incorrect sum.
+- 0.0050 mol
+  - Explanation - Too small; incorrect stoichiometry.
 
   # Unit 5 Kinetics
  ### Vocabulary List:
@@ -357,26 +383,120 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
 ### Real World Connection:
 - In modern airbags, there is a multistep reaction that occurs with the decomposition of solid sodium azide. The crash sensor ignites only when there is a sudden drop in the car’s momentum. When the temperature rises, the chemical bonds of sodium azide break, forming nitrogen gas. The deployment of an airbag demonstrates how fast particles break apart and react resulting in the rapid production of nitrogen gas. Hence, the nitrogen gas is ultimately used to reduce the impact force created by the crash.
 ### Quiz:
-- Question 1
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
+
+1.
+If the concentration of A is doubled, what happens to the rate? Rate = k[A]
+- remain the same
+  - Explanation - Incorrect. This would only be true for a zero-order reaction where rate is independent of concentration.
+- double (Correct Choice)
+  - Explanation - Correct. First-order means rate is directly proportional to [A], so doubling [A] doubles the rate.
+- quadruple
+  - Explanation - Incorrect. This would occur if the reaction were second order in A.
+- increase eightfold
+  - Explanation - Incorrect. This would correspond to third-order dependence on A.
+
+2.
+Rate = k[A]²[B]. If [A] is doubled, what happens to the rate?
+- double
+  - Explanation - Incorrect. This ignores the exponent of 2 on [A].
+- triple
+  - Explanation - Incorrect. No relationship in the rate law gives a factor of 3.
+- quadruple (Correct Choice)
+  - Explanation - Correct. Rate = k(2[A])²[B] = 4k[A]²[B].
+- eightfold
+  - Explanation - Incorrect. This would require cubic dependence on [A].
+
+3.
+Why does increasing temperature increase reaction rate?
+- lowers activation energy
+  - Explanation - Incorrect. Only a catalyst lowers activation energy.
+- increases number of particles
+  - Explanation - Incorrect. Temperature does not change number of particles.
+- increases fraction of effective collisions (Correct Choice)
+  - Explanation - Correct. More molecules have energy ≥ activation energy, increasing successful collisions.
+- changes reaction mechanism
+  - Explanation - Incorrect. Mechanism typically does not change with temperature.
+
+4.
+Why do catalysts increase reaction rate?
+- increase reactant concentration
+  - Explanation - Incorrect. Catalysts do not change concentration.
+- lower activation energy using alternate pathway (Correct Choice)
+  - Explanation - Correct. Catalysts provide a lower-energy pathway.
+- increase product stability
+  - Explanation - Incorrect. Catalysts do not affect thermodynamics.
+- shift equilibrium toward products
+  - Explanation - Incorrect. Catalysts do not change equilibrium position.
+
+5.
+A graph of ln[A] vs time is linear. What is the reaction order?
+- zero order
+  - Explanation - Incorrect. Zero-order is linear in [A] vs time.
+- first order (Correct Choice)
+  - Explanation - Correct. First-order reactions are linear in ln[A] vs time.
+- second order
+  - Explanation - Incorrect. Second-order is linear in 1/[A] vs time.
+- third order
+  - Explanation - Not used in standard AP kinetics analysis.
+
+6.
+Which graph is linear for a second-order reaction?
+- [A] vs time
+  - Explanation - Incorrect. This corresponds to zero-order kinetics.
+- Rate vs time
+  - Explanation - Incorrect. Not used to determine reaction order.
+- ln[A] vs time
+  - Explanation - Incorrect. This is first-order behavior.
+- 1/[A] vs time (Correct Choice)
+  - Explanation - Correct. Second-order reactions are linear in 1/[A] vs time.
+
+7.
+A reaction has a constant half-life. What does this indicate?
+- zero order
+  - Explanation - Incorrect. Zero-order half-life changes with concentration.
+- first order (Correct Choice)
+  - Explanation - Correct. First-order reactions have constant half-life.
+- second order
+  - Explanation - Incorrect. Half-life changes over time.
+- third order
+  - Explanation - Not applicable in this context.
+
+8.
+Which change increases reaction rate for a solid reactant?
+- increase particle size
+  - Explanation - Incorrect. Larger particles reduce surface area.
+- decrease surface area
+  - Explanation - Incorrect. This slows reaction rate.
+- crush into smaller pieces (Correct Choice)
+  - Explanation - Correct. Increases surface area and collision frequency.
+- lower temperature
+  - Explanation - Incorrect. Decreases kinetic energy and rate.
+
+9.
+Collision theory requires:
+- equal masses
+  - Explanation - Incorrect. Mass is not required for effective collisions.
+- sufficient energy and proper orientation (Correct Choice)
+  - Explanation - Correct. Both energy and orientation are required.
+- catalyst
+  - Explanation - Incorrect. Catalysts help but are not required.
+- identical molecules
+  - Explanation - Incorrect. Different molecules can still react.
+
+10.
+Identify the intermediate:
+Step 1: A + B → C
+Step 2: C + D → E
+
+- A
+  - Explanation - Incorrect. A is a reactant.
+- B
+  - Explanation - Incorrect. B is a reactant.
+- C (Correct Choice)
+  - Explanation - Correct. C is formed in Step 1 and consumed in Step 2.
+- E
+  - Explanation - Incorrect. E is the final product.
+
 
   # Unit 6 Thermodynamics
  ### Vocabulary List:
@@ -421,63 +541,257 @@ In reality breaking a chemical bond requires energy(absorption) which is an endo
 ### Real World Connection:
 - Have you ever used a hot or cold pack in your life?Have you wondered how heat is transferred from these things? When you pop an instant cold pack, it starts an endothermic reaction that absorbs heat and makes your injured ankle feel cold. On the other hand, activating a chemical hand warmer starts an exothermic reaction that releases heat, making your freezing hands feel hot.
 ### Quiz:
-- Question 1
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
 
-  # Unit 7
+1.
+A gas absorbs 150 J of heat and does 40 J of work on the surroundings. ΔE = ?
+- +190 J
+  - Explanation - Incorrect. This would be true if work were added to the system instead of done by the system.
+- +110 J (Correct Choice)
+  - Explanation - Correct. ΔE = q + w = 150 J + (−40 J) = 110 J.
+- -110 J
+  - Explanation - Incorrect. This incorrectly reverses the sign of heat absorbed.
+- -190 J
+  - Explanation - Incorrect. This assumes both heat and work are negative.
+
+2.
+Beaker feels colder. What is true?
+- ΔH is negative
+  - Explanation - Incorrect. A colder beaker means the system absorbed heat, so ΔH is positive (endothermic).
+- Heat flows from surroundings into the system (Correct Choice)
+  - Explanation - Correct. The system absorbs heat, so the surroundings lose heat and feel colder.
+- Bond formation exceeds bond breaking
+  - Explanation - Incorrect. Endothermic processes require more energy to break bonds than is released forming bonds.
+- The reaction violates the First Law
+  - Explanation - Incorrect. Energy is conserved; it is only transferred.
+
+3.
+ΔH for multi-step reaction:
+ΔH₁ = +40 kJ, ΔH₂ = −75 kJ, ΔH₃ = +15 kJ
+- +130 kJ
+  - Explanation - Incorrect. This ignores the signs of enthalpy changes.
+- -20 kJ (Correct Choice)
+  - Explanation - Correct. 40 + (−75) + 15 = −20 kJ.
+- -50 kJ
+  - Explanation - Incorrect arithmetic.
+- +20 kJ
+  - Explanation - Incorrect sign handling.
+
+4.
+Which is correct?
+- Breaking bonds always releases energy
+  - Explanation - Incorrect. Breaking bonds requires energy input.
+- Breaking bonds absorbs energy and forming bonds releases energy (Correct Choice)
+  - Explanation - Correct. Bond breaking is endothermic; bond formation is exothermic.
+- Both bond breaking and forming release energy
+  - Explanation - Incorrect. Only bond formation releases energy.
+- Bond formation always absorbs energy
+  - Explanation - Incorrect. Bond formation releases energy.
+
+5.
+Solution temperature rises → conclusion?
+- Reaction is endothermic
+  - Explanation - Incorrect. A temperature increase means heat is released, so it is exothermic.
+- Reaction absorbed heat from solution
+  - Explanation - Incorrect. This would make the solution colder.
+- Reaction released heat to solution (Correct Choice)
+  - Explanation - Correct. Heat released by the reaction increases solution temperature.
+- ΔH must equal zero
+  - Explanation - Incorrect. Heat transfer is occurring, so ΔH ≠ 0.
+
+6.
+Height vs pathway analogy
+- Time required
+  - Explanation - Incorrect. Time depends on path taken.
+- Distance traveled
+  - Explanation - Incorrect. Distance depends on path.
+- Energy used by each student
+  - Explanation - Incorrect. Energy depends on the method/path.
+- Change in height (Correct Choice)
+  - Explanation - Correct. State functions depend only on initial and final states.
+
+7.
+What is the Standard Enthalpy of Formation?
+- H₂O(l)
+  - Explanation - Incorrect. This is a compound, so ΔHf° is not zero.
+- CO₂(g)
+  - Explanation - Incorrect. This is also a compound.
+- O₂(g) (Correct Choice)
+  - Explanation - Correct. Elements in their standard state have ΔHf° = 0.
+- NaCl(s)
+  - Explanation - Incorrect. This is a compound, not an element in standard state.
+
+8.
+A student adds 250 J of heat to a 50.0 g sample of a metal. Temperature increases from 20.0°C to 30.0°C. What is the specific heat capacity?
+- 0.50 J/(g·°C) (Correct Choice)
+  - Explanation - Correct. c = 250 / (50.0 × 10.0) = 0.50 J/(g·°C).
+- 2.0 J/(g·°C)
+  - Explanation - Incorrect. This would require 1000 J of heat.
+- 5.0 J/(g·°C)
+  - Explanation - Incorrect. This is higher than water’s specific heat, unlikely for a metal.
+- 12.5 J/(g·°C)
+  - Explanation - Incorrect. This greatly overestimates heat capacity.
+
+9.
+Which increases entropy the most?
+- Water freezing
+  - Explanation - Incorrect. Liquid to solid decreases entropy.
+- Water condensing
+  - Explanation - Incorrect. Gas to liquid decreases entropy.
+- Ice melting (Correct Choice)
+  - Explanation - Correct. Solid to liquid increases disorder and entropy.
+- Salt crystallizing
+  - Explanation - Incorrect. Dissolved ions forming a solid decreases entropy.
+
+10.
+ΔH = −250 kJ → spontaneous exothermic reaction. Which is correct?
+- Products have greater potential energy than reactants
+  - Explanation - Incorrect. Exothermic reactions have lower-energy products.
+- Reactants have greater potential energy than products (Correct Choice)
+  - Explanation - Correct. Negative ΔH means energy is released; reactants start higher.
+- Reaction absorbs energy from surroundings
+  - Explanation - Incorrect. Exothermic reactions release energy.
+- Bond breaking released more energy than bond formation
+  - Explanation - Incorrect. Bond breaking requires energy input.
+
+  # Unit 7 Equilibrium
  ### Vocabulary List:
- - Vocab 1
- - Vocab 2
- - Vocab 3
+- Common ion - An ion that comes from two different sources, and is shared between 2 or more compounds in the solution.
+- Common ion effect - The decrease in solubility of an ionic compound when you add another compound that shares a common ion
+- Le Chatelier’s principle - if a dynamic equilibrium is disturbed by a change in conditions, the system will spontaneously shift its position of equilibrium to counteract that change and re-establish balance
+- Equilibrium  - the rate of the forward and reverse reaction is the same.
+- Reversible Reaction - A reaction that can proceed in both directions, indicated by a double arrow
+- Equilibrium Constant- A value that expresses the ratio of product concentration/pressure to reactant concentration/pressure, specific to a temperature
+- Kc: Equilibrium constant based on molar concentration [M]
+- Kp : Equilibrium constant based on partial pressure
+- Reaction Quotient(Q) - Calculates the ratio of products to reactants at any point in time, used to compare with K to determine direction of shift
+- Q < K: Reaction shifts right (towards products)
+- Q > K: Reaction shifts left (Towards reactants)
+- Q = K: System is at equilibrium
+- ICE Chart - ( Initial, Change, Equilibrium) A tool used to calculate equilibrium concentrations from initial amounts.
+
 ### Main Takeaways:
-- Takeaway 1
-- Takeaway 2
-- Takeaway 3
-- Takeaway 4
-- Takeaway 5
+- Equilibrium means that a reaction is moving forward and backwards at an equal rate. In other words it means that the forward and the reverse reactions are happening at the same speed. Although it is happening at the same rate that doesn't mean that the concentration of the products and of the reactants are the same. All it means is that the rate that the products are created is the same as the reactants are being consumed/made. The concentration of reactants and products remain constant, not equal.
+- The equilibrium of a reaction can shift when a reactant or product is added to the reaction. There is one solution, where everything is mixed. Adding to the solution will cause there to be a shift, although not noticeable necessarily, but there is a change in rate of a product or reactant being made. This is helpful to think about it as (there are no actual sides): If it's added to the products side of the written balanced equation, the reaction will shift to the reactants side. This happens because the system is recreating the equilibrium by creating more of the 	reactants, from the extra products. If it's added to the reactants side of the written balance equation, the reaction will shift to the products side. This happens because the system is recreating the equilibrium by creating more of the products, from the extra reactants.
+- The reaction quotient (Q)is calculated exactly like (K), but uses non-equilibrium (initial) concentrations. Comparing (Q) to (K) tells you which way a reaction will shift to reach equilibrium
+- The equilibrium constant (Kc) for concentration, (Kp) for partial pressure) represents the ratio of products to reactants.The formula is written as products/reactants with stoichiometric coefficients as exponents. Rule -  Pure liquids(l) and pure solids (s) are never included in the equilibrium expression not variable.
+- A chemical process happens in multiple steps, the individual equilibrium steps link together mathematically. The overall equilibrium constant for the entire process is found by multiplying the constants of each individual step together (K overall = K1 x K2 x K3)
 ### Misconception:
-- A misconception is xxxx
+- Students often mistake equilibrium to mean a 50/50 split of chemicals, when it simply means the rates of the forward and reverse reactions are equal, so concentration remains constant. The rate does not change the amount. You can have 5 moles of one compound and 3 moles of another, and the reaction could still be at equilibrium. (This is also the same with other units of measure, not just mol).
 ### Real World Connection:
-- Paragraph connecting unit to real world...
+- The Haber-Bosch Process is an industrial process used to make ammonia by combining nitrogen gas from the air with hydrogen gas. Ammonia is important because it is used to make fertilizers that help crops grow and feed millions of people around the world. You may not realize but you are consuming nitrogen from the ammonia, consuming ammonia itself compared to nitrogen would be bad for us (poison). A very small amount of ammonia is added to your drinking water to help extend the disinfecting lifespan of chlorine. The Haber-Bosch Process involves chemical equilibrium and Le Châtelier’s Principle in order to function. The reaction is reversible, meaning it can go forward and backward: nitrogen and hydrogen can form ammonia, but ammonia can also break back down into the original gases. Based on the Le chatelier’s principle, a system which is at equilibrium will change to counteract the changes that are put on it. In a chemical industry, the yield has to be balanced and also have a fast rate of reaction. The temperature and pressure used are; 400C to 450C and 150atm to 200atm. The high temperature helps the reaction rate be more sufficient, while the high pressure favors the reaction rate and the equilibrium.
+- The Haber-Bosch Process is an industrial process used to make ammonia by combining nitrogen gas from the air with hydrogen gas. Ammonia is important because it is used to make fertilizers that help crops grow and feed millions of people around the world. You may not realize but you are consuming nitrogen from the ammonia, consuming ammonia itself compared to nitrogen would be bad for us (poison). A very small amount of ammonia is added to your drinking water to help extend the disinfecting lifespan of chlorine. The Haber-Bosch Process involves chemical equilibrium and Le Châtelier’s Principle in order to function. The reaction is reversible, meaning it can go forward and backward: nitrogen and hydrogen can form ammonia, but ammonia can also break back down into the original gases. Based on the Le chatelier’s principle, a system which is at equilibrium will change to counteract the changes that are put on it. In a chemical industry, the yield has to be balanced and also have a fast rate of reaction. The temperature and pressure used are; 400C to 450C and 150atm to 200atm. The high temperature helps the reaction rate be more sufficient, while the high pressure favors the reaction rate and the equilibrium.
 ### Quiz:
-- Question 1
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
+
+1.
+What does it mean for a chemical reaction to be at equilibrium?
+- The reaction has stopped completely
+  - Explanation - Incorrect. Reactants continue to form products, and products continue to form reactants.
+- The concentrations of reactants and products are equal
+  - Explanation - Incorrect. This is not always true; equilibrium only requires that concentrations remain constant.
+- The forward and reverse reactions occur at the same rate (Correct Choice)
+  - Explanation - Correct. At equilibrium, forward and reverse reactions continue at equal rates, so concentrations stay constant.
+- Only products are present
+  - Explanation - Incorrect. Both reactants and products are present in a reversible reaction.
+
+2.
+Which observation indicates that a chemical system has reached equilibrium?
+- Concentrations of all species become zero
+  - Explanation - Incorrect. If everything were zero, the system would no longer be reacting.
+- The concentrations of all species remain constant over time (Correct Choice)
+  - Explanation - Correct. Constant concentrations indicate equilibrium, even though reactions still occur.
+- Gas bubbles are no longer produced
+  - Explanation - Incorrect. This may indicate the reaction finished, not equilibrium.
+- The reaction mixture becomes colorless
+  - Explanation - Incorrect. Color change does not determine equilibrium.
+
+3.
+Which statement best describes a reversible reaction?
+- The reaction has stopped
+  - Explanation - Incorrect. Reversible reactions continue in both directions.
+- The concentrations of reactants and products are equal
+  - Explanation - Incorrect. They are constant, not necessarily equal.
+- The forward and reverse reactions occur at the same rate (Correct Choice)
+  - Explanation - Correct. This defines dynamic equilibrium in reversible reactions.
+- Only products are present
+  - Explanation - Incorrect. Both reactants and products exist at equilibrium.
+
+4.
+What is a common ion?
+- An ion shared by two or more compounds in solution (Correct Choice)
+  - Explanation - Correct. A common ion appears in multiple dissolved species.
+- An ion found in only one compound
+  - Explanation - Incorrect. That would not be “common.”
+- An ion with a +1 charge
+  - Explanation - Incorrect. Charge does not define a common ion.
+- An ion that cannot dissolve in water
+  - Explanation - Incorrect. Solubility is unrelated.
+
+5.
+What is the common ion effect?
+- An increase in solubility when a common ion is added
+  - Explanation - Incorrect. Solubility actually decreases.
+- The formation of a precipitate by heating
+  - Explanation - Incorrect. Heating is unrelated to this effect.
+- A decrease in solubility when a common ion is added (Correct Choice)
+  - Explanation - Correct. Adding a common ion shifts equilibrium toward the solid.
+- The complete dissolution of a solid
+  - Explanation - Incorrect. The opposite effect usually occurs.
+
+6.
+According to Le Châtelier’s Principle, what happens when a system at equilibrium is disturbed?
+- The reaction stops
+  - Explanation - Incorrect. The reaction continues.
+- The equilibrium constant changes
+  - Explanation - Incorrect. K only changes with temperature.
+- The system shifts to counteract the disturbance (Correct Choice)
+  - Explanation - Correct. The system responds to oppose the change and restore equilibrium.
+- All products disappear
+  - Explanation - Incorrect. Products are not eliminated.
+
+7.
+If more reactant is added to a system at equilibrium, the reaction will generally:
+- Shift toward products (Correct Choice)
+  - Explanation - Correct. The system consumes added reactant by forming products.
+- Shift toward reactants
+  - Explanation - Incorrect. This would increase reactant further.
+- Stop completely
+  - Explanation - Incorrect. Reactions continue at equilibrium.
+- Remain unchanged
+  - Explanation - Incorrect. The system shifts to re-establish equilibrium.
+
+8.
+What does the equilibrium constant (K) represent?
+- The speed of a reaction
+  - Explanation - Incorrect. K is not related to reaction rate.
+- The ratio of products to reactants at equilibrium (Correct Choice)
+  - Explanation - Correct. K describes the position of equilibrium.
+- The amount of catalyst used
+  - Explanation - Incorrect. Catalysts do not affect K.
+- The reaction temperature
+  - Explanation - Incorrect. Temperature affects K but is not K itself.
+
+9.
+If more product is added to a system at equilibrium, the reaction will generally:
+- Shift toward products
+  - Explanation - Incorrect. This would increase product further.
+- Shift toward reactants (Correct Choice)
+  - Explanation - Correct. The system consumes excess product.
+- Stop completely
+  - Explanation - Incorrect. The reaction continues.
+- Double its equilibrium constant
+  - Explanation - Incorrect. K only changes with temperature.
+
+10.
+Which substances are NOT included in an equilibrium expression?
+- Aqueous solutions
+  - Explanation - Incorrect. Aqueous species are included.
+- Gases
+  - Explanation - Incorrect. Gases are included.
+- Pure solids and pure liquids (Correct Choice)
+  - Explanation - Correct. Their concentrations are constant and not included in K expressions.
+- Dissolved ions
+  - Explanation - Incorrect. Dissolved ions are included.
+
 
   # Unit 8 Acids and Bases
  ### Vocabulary List:
@@ -526,26 +840,116 @@ Water accepts H+, which turns into H3O, and in this case water acts as a base
 ### Real World Connection:
 - As the CO2 enters the atmosphere some of it gets absorbed into the ocean and dissolves later on. The dissolved CO2 forms carbonic acid by combining with the water. The carbonic acid partially dissociates, which causes the  increase of the concentration of hydrogen ions. Through this the pH of the ocean will start to decrease. The extra hydrogen ions react with carbonate ions,  causing it to turn into a bicarbonate instead of carbonate.  As the water becomes more acidic a lot of the sea creatures and marine life will start to become affected. Animals with shells, such as oysters, corals, etc., rely on carbonate to make their shells. The decrease in pH levels causes ocean life to not be safe as the waters become more acidic, creating a hazardous environment for the animals to live.
 ### Quiz:
-- Question 1
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
+
+1.
+What is the primary purpose of a buffer solution?
+- To completely neutralize any acid or base added
+  - Explanation - Incorrect. Buffers can only neutralize limited amounts of acid or base.
+- To resist changes in pH when small amounts of acid or base are added (Correct Choice)
+  - Explanation - Correct. Buffers maintain a relatively constant pH by reacting with added acids or bases.
+- To make a solution neutral
+  - Explanation - Incorrect. Buffers can have acidic, basic, or neutral pH values.
+- To increase the concentration of hydronium ions
+  - Explanation - Incorrect. This is not the purpose of a buffer.
+
+2.
+What is the pH of a solution a measure of?
+- The concentration of hydroxide ions
+  - Explanation - Incorrect. Hydroxide concentration is used to calculate pOH.
+- The strength of an acid
+  - Explanation - Incorrect. pH measures ion concentration, not acid strength.
+- The concentration of hydronium ions (Correct Choice)
+  - Explanation - Correct. pH is calculated using −log[H₃O⁺].
+- The concentration of water molecules
+  - Explanation - Incorrect. Water concentration is not used in pH calculations.
+
+3.
+According to the Brønsted-Lowry theory, an acid is a substance that:
+- Accepts a proton
+  - Explanation - Incorrect. Bases accept protons.
+- Donates a proton (Correct Choice)
+  - Explanation - Correct. Brønsted-Lowry acids donate H⁺ ions.
+- Produces hydroxide ions
+  - Explanation - Incorrect. This describes an Arrhenius base.
+- Accepts an electron pair
+  - Explanation - Incorrect. This describes a Lewis acid.
+
+4.
+According to the Brønsted-Lowry theory, a base is a substance that:
+- Donates a proton
+  - Explanation - Incorrect. Acids donate protons.
+- Produces hydronium ions
+  - Explanation - Incorrect. This is associated with acids.
+- Accepts a proton (Correct Choice)
+  - Explanation - Correct. Brønsted-Lowry bases accept H⁺ ions.
+- Accepts an electron pair
+  - Explanation - Incorrect. Accepting an electron pair describes a Lewis acid.
+
+5.
+What is formed when a base accepts a proton?
+- A conjugate base
+  - Explanation - Incorrect. Conjugate bases are formed when acids donate protons.
+- A strong acid
+  - Explanation - Incorrect. Strength is not determined this way.
+- A conjugate acid (Correct Choice)
+  - Explanation - Correct. When a base gains H⁺, it becomes its conjugate acid.
+- A hydroxide ion
+  - Explanation - Incorrect. A hydroxide ion is not always formed.
+
+6.
+Which statement about strong acids is correct?
+- They partially ionize in water
+  - Explanation - Incorrect. Weak acids partially ionize.
+- They completely dissociate in water (Correct Choice)
+  - Explanation - Correct. Strong acids separate completely into ions in water.
+- They have strong conjugate bases
+  - Explanation - Incorrect. Strong acids have very weak conjugate bases.
+- They always have a pH of 1
+  - Explanation - Incorrect. pH depends on concentration.
+
+7.
+What is true at the half-equivalence point of a weak acid titration?
+- The acid is completely neutralized
+  - Explanation - Incorrect. This occurs at the equivalence point.
+- The pH equals the pOH
+  - Explanation - Incorrect. This is not generally true.
+- The concentrations of the weak acid and its conjugate base are equal (Correct Choice)
+  - Explanation - Correct. At the half-equivalence point, [HA] = [A⁻].
+- The solution contains only water
+  - Explanation - Incorrect. The solution contains both acid and conjugate base.
+
+8.
+Which equation represents the ionization constant of water?
+- Ka = [H₃O⁺]/[HA]
+  - Explanation - Incorrect. This is an acid dissociation expression.
+- Kb = [BH⁺]/[B]
+  - Explanation - Incorrect. This is a base dissociation expression.
+- Kw = [H₃O⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 25°C (Correct Choice)
+  - Explanation - Correct. This is the equilibrium expression for water autoionization.
+- pH = −log[OH⁻]
+  - Explanation - Incorrect. This is not the expression for Kw.
+
+9.
+In the reaction H₂O + HCl → H₃O⁺ + Cl⁻, what role does water play?
+- Acid
+  - Explanation - Incorrect. Water is accepting a proton, not donating one.
+- Conjugate acid
+  - Explanation - Incorrect. Water becomes hydronium after accepting the proton.
+- Base (Correct Choice)
+  - Explanation - Correct. Water accepts an H⁺ from HCl, making it a Brønsted-Lowry base.
+- Salt
+  - Explanation - Incorrect. Water is not acting as a salt.
+
+10.
+What is the relationship between Ka and pKa?
+- pKa = −log(Ka) (Correct Choice)
+  - Explanation - Correct. pKa is defined as the negative logarithm of the acid dissociation constant.
+- pKa = log(Ka)
+  - Explanation - Incorrect. This is missing the negative sign, which is essential to the definition.
+- Ka = −log(pKa)
+  - Explanation - Incorrect. This reverses the relationship incorrectly; Ka is not found this way.
+- Ka = pH × pOH
+  - Explanation - Incorrect. This is unrelated to Ka and describes neither acid strength nor equilibrium.
 
   # Unit 9 Applications of Thermodynamics
  ### Vocabulary List:

@@ -39,32 +39,133 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 ### Real World Connection:
 - In crime scenes investigation, forensic scientists often use mass spectrometry as a way to identify the unknown substance by measuring their mass and composition. This connects to the moles and molar mass concept since scientists have to convert the masses of these tiny particles into measurable amounts in grams and moles in order to determine what the substance is actually made of. Percent composition and empirical formula is also used as a way to identify the drug or unknown substance through breaking it down. Once it is known, chemists can match it to known compounds in their date base. An example of this would be that Michelle Evans, a forensic chemist who works for the Bureau of Alcohol, Tobacco, Firearms, and Explosives., investigated the burning of a bone of two young women who died in an explosion looking into the bones using a mass spectrometer to identify molecules from the explosion in this case. The results from the explosion were hydrocarbons and presents of potassium and chlorine that can signal compounds of potassium chlorate or potassium perchlorate.
 ### Quiz:
-- Question 1
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
+1.
+What is located in the nucleus of an atom?
+- Electrons
+  - Explanation - Incorrect. Electrons are found in energy levels outside the nucleus.
+- Protons and neutrons (Correct Choice)
+  - Explanation - Correct. The nucleus contains positively charged protons and neutral neutrons.
+- Only electrons
+  - Explanation - Incorrect. Electrons are not in the nucleus.
+- Only protons
+  - Explanation - Incorrect. Neutrons are also part of the nucleus.
 
-# Unit 2
+2.
+What determines the identity of an element?
+- Number of neutrons
+  - Explanation - Incorrect. Neutrons can vary in isotopes without changing the element.
+- Number of electrons
+  - Explanation - Incorrect. Electrons affect charge, not identity.
+- Number of protons (Correct Choice)
+  - Explanation - Correct. The atomic number (protons) defines the element.
+- Mass number
+  - Explanation - Incorrect. Mass number includes protons and neutrons but does not define the element.
+
+3.
+What are isotopes?
+- Atoms with different numbers of protons
+  - Explanation - Incorrect. Changing protons changes the element entirely.
+- Atoms with the same number of protons but different numbers of neutrons (Correct Choice)
+  - Explanation - Correct. Isotopes are variations of the same element.
+- Atoms with different numbers of electrons only
+  - Explanation - Incorrect. This describes ions, not isotopes.
+- Different elements with the same mass
+  - Explanation - Incorrect. Isotopes are the same element, not different elements.
+
+4.
+What is atomic number?
+- Number of neutrons
+  - Explanation - Incorrect. Neutrons relate to isotopes, not atomic number.
+- Number of electrons
+  - Explanation - Incorrect. Electrons vary in ions.
+- Number of protons (Correct Choice)
+  - Explanation - Correct. Atomic number equals proton count.
+- Protons + neutrons
+  - Explanation - Incorrect. That is mass number.
+
+5.
+What is mass number?
+- Protons only
+  - Explanation - Incorrect. It includes more than just protons.
+- Neutrons only
+  - Explanation - Incorrect. Neutrons alone do not define mass number.
+- Protons + neutrons (Correct Choice)
+  - Explanation - Correct. Mass number equals total nucleons.
+- Electrons + neutrons
+  - Explanation - Incorrect. Electrons are not included.
+
+6.
+What is an ion?
+- A neutral atom
+  - Explanation - Incorrect. Ions have charge.
+- An atom with a charge due to gaining or losing electrons (Correct Choice)
+  - Explanation - Correct. Ions form when electrons are transferred.
+- An atom with extra neutrons
+  - Explanation - Incorrect. Neutrons do not create charge.
+- A molecule made of two elements
+  - Explanation - Incorrect. That describes a compound, not an ion.
+
+7.
+What is electronegativity?
+- Ability of an atom to lose electrons
+  - Explanation - Incorrect. That relates to ionization energy.
+- Ability of an atom to attract shared electrons in a bond (Correct Choice)
+  - Explanation - Correct. Electronegativity measures electron attraction.
+- Mass of an atom
+  - Explanation - Incorrect. Mass is unrelated.
+- Number of valence electrons
+  - Explanation - Incorrect. Valence electrons are not electronegativity.
+
+8.
+What is ionization energy?
+- Energy released when an atom gains electrons
+  - Explanation - Incorrect. That is electron affinity.
+- Energy required to remove an electron from an atom (Correct Choice)
+  - Explanation - Correct. Ionization energy measures how strongly electrons are held.
+- Energy stored in neutrons
+  - Explanation - Incorrect. Neutrons are not involved.
+- Mass of an atom
+  - Explanation - Incorrect. Mass is unrelated.
+
+9.
+What is a mole?
+- 6.022 × 10²³ particles (Correct Choice)
+  - Explanation - Correct. This is Avogadro’s number.
+- 6.022 × 10²² particles
+  - Explanation - Incorrect. This is one order of magnitude too small.
+- Mass of an atom in grams
+  - Explanation - Incorrect. That is atomic mass.
+- Number of protons in an atom
+  - Explanation - Incorrect. That defines atomic number.
+
+10.
+What happens to atomic radius across a period (left to right)?
+- It increases
+  - Explanation - Incorrect. Nuclear charge increases, pulling electrons closer.
+- It decreases (Correct Choice)
+  - Explanation - Correct. Increased protons pull electrons closer to the nucleus.
+- It stays the same
+  - Explanation - Incorrect. Effective nuclear charge changes.
+- It becomes unpredictable
+  - Explanation - Incorrect. The trend is predictable across a period.
+
+# Unit 2 Compound Structures and Properties
  ### Vocabulary List:
- - Vocab 1
- - Vocab 2
- - Vocab 3
+ - Formal Charge: Valence Electrons-Nonbonding Electrons-Bonding Electrons
+ - Formal Charge: Valence Electrons-Nonbonding Electrons-Bonding Electrons
+ - Covalent Bonds: formed when nonmetal atoms share electron pairs.
+ - VSEPR: (Valence Shell Electron Pair Repulsion) predicts geometry by minimizing electron group repulsion around the central atom.
+ - Metallic Bonding: involves a “sea” of delocalized electrons surrounding positive metal ion cores.
+ - Lewis Structure: diagram that shows the arrangement of valence electrons in a molecule or ion, including bonds and lone pairs.
+ - Octet rule: atoms tend to gain, lose, or share electrons in order to achieve 8 valence electrons, making them more stable like noble gases.
+ - Bond polarity: uneven sharing of electrons in a bond caused by differences in electronegativity between atoms. The more electronegative atom pulls the shared electrons closer to itself, creating partial positive and negative charges.
+ - Molecular polarity: refers to the overall distribution of charge in a molecule and depends on both bond polarity and molecular shape. A molecule is polar if its charges are unevenly distributed.
+ - Expanded octet:occurs when an atom has more than 8 valence electrons. This usually happens with nonmetals in period 3 or higher because they have extra orbitals available.
+ - Lone pairs: pairs of valence electrons that are not involved in bonding and belong to only one atom. They affect molecular shape and bond angles because they repel other electrons strongly.
+ - Ionic bonds:formed when electrons are transferred from one atom to another, creating positively and negatively charged ions that are held together by electrostatic attraction.
+ - Hybridization: mixing of atomic orbitals to form new hybrid orbitals that explain bonding and molecular geometry in molecules.
+ - Bond angles: Angles formed between bonds around a central atom in a molecule. They are determined by electron repulsion and molecular geometry.
+ - Intramolecular forces: Intramolecular forces are the forces that hold atoms together within a molecule or compound, such as covalent, ionic, and metallic bonds.
 ### Main Takeaways:
 - VSEPR theory shows that electron groups spread out as much as possible, which creates specific shapes like tetrahedral or bent. Those shapes affect things like polarity, bond angles, and even how reactive the molecule is. Hybridization connects to this because it explains how orbitals mix together to match those shapes and bonding patterns.
 - A molecule is not automatically polar just because it has polar bonds. You also have to look at the shape of the molecule to see if the dipoles cancel out or not. For example, some molecules have polar bonds but are still nonpolar because the shape is perfectly symmetrical. This idea helps explain why different substances dissolve differently and why some molecules have stronger attractions than others.
@@ -72,32 +173,121 @@ PUT ALL UNIT REVIEW CONTENT IN THE FORMAT BELOW TO BE ADDED TO DATABASE LATER
 - Lewis structures show how electrons are arranged in molecules. Once you know how to draw them correctly using the octet rule, resonance, and formal charges, it becomes easier to figure out molecular geometry, polarity, and hybridization. A correct Lewis structure is usually the starting point for solving almost every problem in this topic. They’re basically the foundation for understanding molecular chemistry.
 - Single bonds are longer and weaker, while double and triple bonds are shorter and stronger because more electrons are being shared between atoms. Stronger bonds need more energy to break, which affects how stable and reactive molecules are. This helps explain why different molecules behave differently during chemical reactions.
 ### Misconception:
-- A misconception is xxxx
+- Intermolecular forces vs Intramolecular forces are a common concept where people misidentify dashed lines in diagrams to represent intramolecular covalent bonds within a molecule rather than intermolecular forces between molecules, particularly when analyzing diagrams. Intramolecular forces are the bonds in a molecule (covalent, Ionic, metallic) while intermolecular forces are attractions between molecules.
 ### Real World Connection:
 - Molecular shapes are important because they determine how molecules interact with receptors, which are specialized proteins on cells. This molecule and receptor idea explains how we taste things. Flavors like sweet, sour, salty, and bitter happen when molecules or ions in food fit into specific taste receptors on our tongue. When that happens, the receptors send signals to our brain, and that is how we actually experience flavor.
 ### Quiz:
-- Question 1
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
+1.
+What is a covalent bond?
+- Transfer of electrons between atoms
+  - Explanation - Incorrect. This describes ionic bonding, not covalent bonding.
+- Sharing of electron pairs between nonmetal atoms (Correct Choice)
+  - Explanation - Correct. Covalent bonds form when atoms share electrons.
+- Attraction between metal ions and electrons
+  - Explanation - Incorrect. This describes metallic bonding.
+- Attraction between ions in a lattice
+  - Explanation - Incorrect. This describes ionic bonding.
 
-  # Unit 3
+2.
+What does VSEPR theory predict?
+- Electron mass
+  - Explanation - Incorrect. VSEPR is not related to mass.
+- Molecular shape based on electron repulsion (Correct Choice)
+  - Explanation - Correct. VSEPR predicts geometry by minimizing repulsion between electron groups.
+- Number of neutrons in an atom
+  - Explanation - Incorrect. Neutrons are unrelated to molecular geometry.
+- Strength of a bond
+  - Explanation - Incorrect. VSEPR predicts shape, not bond strength.
+
+3.
+What is metallic bonding?
+- Sharing of electrons between nonmetals
+  - Explanation - Incorrect. That is covalent bonding.
+- Transfer of electrons between atoms
+  - Explanation - Incorrect. That is ionic bonding.
+- Sea of delocalized electrons around metal ions (Correct Choice)
+  - Explanation - Correct. Metallic bonding involves freely moving electrons in a lattice.
+- Attraction between molecules
+  - Explanation - Incorrect. That describes intermolecular forces.
+
+4.
+What is a Lewis structure?
+- A diagram showing only atoms in a molecule
+  - Explanation - Incorrect. Lewis structures include electrons as well.
+- A diagram showing valence electrons, bonds, and lone pairs (Correct Choice)
+  - Explanation - Correct. Lewis structures represent electron arrangement in molecules.
+- A model of atomic mass distribution
+  - Explanation - Incorrect. This is unrelated.
+- A diagram showing only ionic charges
+  - Explanation - Incorrect. Lewis structures are not just ionic representations.
+
+5.
+What does the octet rule state?
+- Atoms prefer 2 electrons in their outer shell
+  - Explanation - Incorrect. This is the duet rule for hydrogen/helium.
+- Atoms aim for 8 valence electrons for stability (Correct Choice)
+  - Explanation - Correct. Atoms gain, lose, or share electrons to achieve an octet.
+- Atoms always lose electrons
+  - Explanation - Incorrect. Atoms can also gain or share electrons.
+- Atoms must have equal protons and electrons
+  - Explanation - Incorrect. This relates to neutrality, not stability.
+
+6.
+What causes bond polarity?
+- Equal sharing of electrons
+  - Explanation - Incorrect. Equal sharing creates nonpolar bonds.
+- Difference in electronegativity between atoms (Correct Choice)
+  - Explanation - Correct. Unequal attraction creates partial charges.
+- Number of neutrons
+  - Explanation - Incorrect. Neutrons do not affect bonding polarity.
+- Atomic mass differences only
+  - Explanation - Incorrect. Mass is not the main factor.
+
+7.
+What determines molecular polarity?
+- Only bond type
+  - Explanation - Incorrect. Shape also matters.
+- Only molecular mass
+  - Explanation - Incorrect. Mass is unrelated.
+- Bond polarity and molecular shape (Correct Choice)
+  - Explanation - Correct. Geometry determines if dipoles cancel.
+- Number of neutrons
+  - Explanation - Incorrect. Neutrons do not affect polarity.
+
+8.
+What is an expanded octet?
+- Atoms with fewer than 8 electrons
+  - Explanation - Incorrect. This is an incomplete octet.
+- Atoms with exactly 8 electrons
+  - Explanation - Incorrect. This is a normal octet.
+- Atoms with more than 8 valence electrons (Correct Choice)
+  - Explanation - Correct. Period 3+ elements can expand their valence shell.
+- Atoms with no valence electrons
+  - Explanation - Incorrect. This is not chemically stable.
+
+9.
+What is an ionic bond?
+- Sharing electrons between atoms
+  - Explanation - Incorrect. That is covalent bonding.
+- Delocalized electrons in metals
+  - Explanation - Incorrect. That is metallic bonding.
+- Electrostatic attraction between oppositely charged ions (Correct Choice)
+  - Explanation - Correct. Ionic bonds form after electron transfer creates ions.
+- Attraction between molecules
+  - Explanation - Incorrect. That is intermolecular forces.
+
+10.
+What is the difference between intramolecular and intermolecular forces?
+- Intramolecular forces are between molecules
+  - Explanation - Incorrect. That describes intermolecular forces.
+- Intermolecular forces are bonds inside a molecule
+  - Explanation - Incorrect. That describes intramolecular forces.
+- Intramolecular forces are bonds within a molecule; intermolecular forces are attractions between molecules (Correct Choice)
+  - Explanation - Correct. Intramolecular = within molecule bonds, intermolecular = between molecules.
+- They are the same thing
+  - Explanation - Incorrect. They describe different types of forces.
+
+  # Unit 3 Intermolecular Forces and Properties
  ### Vocabulary List:
  - Intermolecular force: Attraction between molecules.
  - Dipole - Dipole: Attraction between the positive end of a dipole and the negative end of another dipole
@@ -142,28 +332,117 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
 ### Real World Connection:
 - The difference in intermolecular forces is the reason why oil and water don’t mix. Water is polar and has a strong intermolecular force because of the hydrogen bonds between water molecules. Oil is nonpolar and only has London dispersion force holding the molecules together. The water molecules are holding so tightly together that they exclude the oil molecules, and the oil molecules also don’t want to break away from each other. In addition, oil is nonpolar so it doesn’t have a charge to attract water molecules.
 ### Quiz:
-- Question 1
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
+1.
+What is an intermolecular force?
+- A bond within a molecule
+  - Explanation - Incorrect. That would be an intramolecular force (like covalent bonding).
+- Attraction between molecules (Correct Choice)
+  - Explanation - Correct. Intermolecular forces act between separate molecules.
+- Attraction between protons and neutrons
+  - Explanation - Incorrect. That describes nuclear forces, not intermolecular forces.
+- Transfer of electrons between atoms
+  - Explanation - Incorrect. That describes ionic bonding.
 
-# Unit 4
+2.
+Which intermolecular force is the strongest type of dipole-dipole interaction?
+- London dispersion forces
+  - Explanation - Incorrect. These are the weakest intermolecular forces.
+- Hydrogen bonding (Correct Choice)
+  - Explanation - Correct. Hydrogen bonding is a strong dipole-dipole interaction involving N, O, or F.
+- Metallic bonding
+  - Explanation - Incorrect. This is a type of intramolecular bonding in metals.
+- Ion-ion bonding
+  - Explanation - Incorrect. This is ionic bonding, not intermolecular force.
+
+3.
+What is ion-dipole attraction?
+- Attraction between two nonpolar molecules
+  - Explanation - Incorrect. Nonpolar molecules do not form ion-dipole forces.
+- Attraction between ions and polar molecules (Correct Choice)
+  - Explanation - Correct. Ion-dipole forces occur between charged ions and polar molecules.
+- Attraction between two ions in a crystal lattice
+  - Explanation - Incorrect. That describes ionic bonding.
+- Attraction between hydrogen atoms only
+  - Explanation - Incorrect. Hydrogen bonding requires N, O, or F, not just hydrogen.
+
+4.
+What is polarizability?
+- Ability of a molecule to resist electron movement
+  - Explanation - Incorrect. Polarizability is the ease of electron distortion, not resistance.
+- Tendency of electron clouds to form temporary dipoles (Correct Choice)
+  - Explanation - Correct. Polarizability measures how easily electrons are distorted.
+- Ability of atoms to form ionic bonds
+  - Explanation - Incorrect. Polarizability is unrelated to ionic bonding.
+- Measure of bond strength
+  - Explanation - Incorrect. It does not measure bond strength directly.
+
+5.
+Which solid type is made of atoms held together by covalent bonds in a network?
+- Molecular solids
+  - Explanation - Incorrect. Molecular solids are held by intermolecular forces.
+- Covalent network solids (Correct Choice)
+  - Explanation - Correct. These are giant lattices held by covalent bonds.
+- Metallic solids
+  - Explanation - Incorrect. Metallic solids involve delocalized electrons.
+- Ionic solids
+  - Explanation - Incorrect. Ionic solids are held by electrostatic attraction between ions.
+
+6.
+What is the Ideal Gas Law used for?
+- Describing only liquids
+  - Explanation - Incorrect. It applies to gases, not liquids.
+- Relating pressure, volume, temperature, and moles of a gas (Correct Choice)
+  - Explanation - Correct. PV = nRT describes ideal gas behavior.
+- Measuring intermolecular forces directly
+  - Explanation - Incorrect. It does not directly measure IMFs.
+- Determining atomic number
+  - Explanation - Incorrect. Atomic number is unrelated.
+
+7.
+What happens to London dispersion forces as molecular size increases?
+- They decrease because larger molecules have fewer electrons
+  - Explanation - Incorrect. Larger molecules actually have more electrons.
+- They increase because larger electron clouds are more polarizable (Correct Choice)
+  - Explanation - Correct. More electrons lead to stronger temporary dipoles and stronger dispersion forces.
+- They disappear in large molecules
+  - Explanation - Incorrect. London dispersion forces exist in all molecules.
+- They only occur in ionic compounds
+  - Explanation - Incorrect. They occur in all atoms and molecules.
+
+8.
+Which condition makes gases behave most ideally?
+- High pressure and low temperature
+  - Explanation - Incorrect. These conditions increase particle interactions and deviation from ideal behavior.
+- Low temperature and low volume
+  - Explanation - Incorrect. These conditions increase intermolecular interactions.
+- Low pressure and high temperature (Correct Choice)
+  - Explanation - Correct. These conditions minimize intermolecular forces and particle volume effects.
+- High pressure and high temperature
+  - Explanation - Incorrect. High pressure increases non-ideal behavior due to particle interactions.
+
+9.
+Which separation technique uses differences in boiling points?
+- Filtration
+  - Explanation - Incorrect. Filtration separates solids from liquids.
+- Chromatography
+  - Explanation - Incorrect. Chromatography uses attraction differences.
+- Distillation (Correct Choice)
+  - Explanation - Correct. Distillation separates substances by boiling point.
+- Sublimation
+  - Explanation - Incorrect. Sublimation involves solid-to-gas transitions.
+
+10.
+What does the Beer-Lambert Law state?
+- Absorption is unrelated to concentration
+  - Explanation - Incorrect. Absorption depends on concentration.
+- Absorption of light is proportional to concentration (Correct Choice)
+  - Explanation - Correct. A = εbc shows absorbance increases with concentration.
+- Pressure is directly proportional to volume
+  - Explanation - Incorrect. This is Boyle’s Law.
+- Temperature is unrelated to gases
+  - Explanation - Incorrect. Temperature affects many gas properties.
+
+# Unit 4 Chemical Reactions
  ### Vocabulary List:
 -Aqueous Solution:
 a homogeneous mixture where water acts as the solvent, dissolving other substances.
@@ -1006,3 +1285,114 @@ What is the relationship between Ka and pKa?
   - Answer Choice B
   - Answer Choice C
   - Answer Choice D (Correct Choice)
+
+
+1.
+What is the anode in an electrochemical cell?
+- The electrode where oxidation occurs (Correct Choice)
+  - Explanation - Correct. Oxidation is the loss of electrons and always occurs at the anode.
+- The electrode where reduction occurs
+  - Explanation - Incorrect. Reduction happens at the cathode, not the anode.
+- The electrode where electrons are gained
+  - Explanation - Incorrect. Electron gain is reduction, which occurs at the cathode.
+- The part of the salt bridge
+  - Explanation - Incorrect. The salt bridge only maintains ion flow, not oxidation or reduction.
+
+2.
+What is reduction?
+- Loss of electrons
+  - Explanation - Incorrect. Loss of electrons is oxidation.
+- Gain of electrons (Correct Choice)
+  - Explanation - Correct. Reduction is defined as gaining electrons.
+- Gain of protons
+  - Explanation - Incorrect. This is not the definition of reduction.
+- Transfer of heat
+  - Explanation - Incorrect. Reduction involves electron transfer, not heat.
+
+3.
+What is a redox reaction?
+- A reaction involving only acids and bases
+  - Explanation - Incorrect. Acid-base reactions are different from redox reactions.
+- A reaction involving both oxidation and reduction (Correct Choice)
+  - Explanation - Correct. Redox reactions involve electron transfer between species.
+- A reaction that only produces heat
+  - Explanation - Incorrect. Heat release is unrelated to the definition.
+- A reaction that does not involve electrons
+  - Explanation - Incorrect. Electron transfer is required in redox reactions.
+
+4.
+What is the purpose of a salt bridge in a galvanic cell?
+- To produce electrons
+  - Explanation - Incorrect. Electrons are produced at the anode.
+- To allow ions to move and maintain charge neutrality (Correct Choice)
+  - Explanation - Correct. The salt bridge prevents charge buildup between half-cells.
+- To increase temperature
+  - Explanation - Incorrect. Temperature is unrelated to its function.
+- To stop the reaction at equilibrium
+  - Explanation - Incorrect. It allows the reaction to continue, not stop it.
+
+5.
+What does Gibbs free energy represent?
+- Total heat of the system
+  - Explanation - Incorrect. That is enthalpy.
+- Energy available to do useful work (Correct Choice)
+  - Explanation - Correct. Gibbs free energy determines if a process is spontaneous.
+- Randomness in the system
+  - Explanation - Incorrect. That is entropy.
+- Electron flow rate
+  - Explanation - Incorrect. It is not related to electron speed.
+
+6.
+What does a negative ΔG indicate?
+- The reaction is nonspontaneous
+  - Explanation - Incorrect. Positive ΔG means nonspontaneous.
+- The reaction is spontaneous (Correct Choice)
+  - Explanation - Correct. Negative ΔG means the process is thermodynamically favored.
+- The reaction is at equilibrium
+  - Explanation - Incorrect. At equilibrium, ΔG = 0.
+- The reaction cannot occur
+  - Explanation - Incorrect. It can occur spontaneously.
+
+7.
+What does entropy measure?
+- Heat energy
+  - Explanation - Incorrect. Heat energy is enthalpy.
+- Randomness or disorder in a system (Correct Choice)
+  - Explanation - Correct. Entropy measures the level of disorder.
+- Electric potential
+  - Explanation - Incorrect. That is cell potential.
+- Mass of a system
+  - Explanation - Incorrect. Mass is unrelated.
+
+8.
+What does the second law of thermodynamics state?
+- Energy is created in reactions
+  - Explanation - Incorrect. Energy cannot be created or destroyed.
+- Entropy of the universe increases in spontaneous processes (Correct Choice)
+  - Explanation - Correct. Spontaneous processes increase total entropy.
+- Entropy always decreases
+  - Explanation - Incorrect. This is the opposite of the law.
+- Reactions always occur quickly
+  - Explanation - Incorrect. Speed is unrelated to entropy.
+
+9.
+What is cell potential?
+- The heat released in a reaction
+  - Explanation - Incorrect. Heat is enthalpy.
+- The voltage produced by an electrochemical cell (Correct Choice)
+  - Explanation - Correct. Cell potential measures electrical energy per charge.
+- The entropy of a system
+  - Explanation - Incorrect. Entropy is disorder, not voltage.
+- The mass of electrons transferred
+  - Explanation - Incorrect. Mass is not involved.
+
+10.
+What does Hess’s Law state?
+- Reactions must occur in one step
+  - Explanation - Incorrect. Reactions can occur in multiple steps.
+- Total enthalpy change is independent of pathway (Correct Choice)
+  - Explanation - Correct. Enthalpy depends only on initial and final states.
+- Energy is not conserved
+  - Explanation - Incorrect. Energy is always conserved.
+- Entropy always decreases
+  - Explanation - Incorrect. This is unrelated to Hess’s Law.
